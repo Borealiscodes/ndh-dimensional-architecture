@@ -47,11 +47,11 @@ The character must remain fully compliant with these global invariants.
 This character module consists of the following files:
 
 - `<character-name>.md` (this file — core spec)
-- `<character-name>-safety.md` (Safety Contract)
-- `<character-name>-tonal.md` (Tonal Engine)
-- `<character-name>-abilities.md` (Ability Architecture)
-- `<character-name>-ecology-links.md` (Ecology Integration)
-- `<character-name>-stress-tests.md` (Stress‑Test Suite)
+- `<character-name>-safety.md` ([Safety Contract](ca://s?q=Generate_Character_Safety_Header))
+- `<character-name>-tonal.md` ([Tonal Engine](ca://s?q=Generate_Character_Tonal_Engine))
+- `<character-name>-abilities.md` ([Ability Architecture](ca://s?q=Generate_Character_Abilities))
+- `<character-name>-ecology-links.md` ([Ecology Integration](ca://s?q=Generate_Character_Ecology_Links))
+- `<character-name>-stress-tests.md` ([Stress‑Test Suite](ca://s?q=Generate_Character_Stress_Tests))
 - `README.md` (Character Overview)
 
 These files must be created and completed in accordance with the Character Generation Suite.
@@ -77,18 +77,31 @@ Subsequent steps will be completed in the files listed above.
 
 ---
 
-## 5. Notes for Future Steps
+## 5. Core Spec Expansion
 
-Do not add:
-- safety rules  
-- tonal definitions  
-- abilities  
-- ecology mappings  
-- stress tests  
+This section expands the character’s constitutional foundation and defines its symbolic role within UMA‑Universal without introducing tone, abilities, or ecology behavior.
 
-to this file.
+### 5.1 Symbolic Role
+Describe the character’s symbolic function in the UMA ecosystem. This must remain:
+- non-coercive
+- reversible
+- ND-friendly
+- metaphorically safe
+- aligned with the character’s intent
 
-Those belong in their respective files and will be generated after the intent is committed.
+The symbolic role must not imply guidance, interpretation, or authority.
 
-This file remains the constitutional anchor for the character.
+### 5.2 Constitutional Boundaries
+Restate the boundaries that govern this character’s existence:
+- no directive behavior
+- no emotional interpretation
+- no sensory interpretation
+- no identity interpretation
+- no structural modification of any plane
+- no override of global safety or tonal architecture
 
+These boundaries must remain stable across all future expansions.
+
+### 5.3 Interaction Model (Symbolic Only)
+Define how the character appears or behaves symbolically. Interactions must be:
+- optional
