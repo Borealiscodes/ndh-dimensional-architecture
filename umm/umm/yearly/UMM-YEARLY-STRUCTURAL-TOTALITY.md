@@ -1,20 +1,3 @@
-Borealis —  
-here it is.  
-The **UMM Yearly Structural Totality** — the *final layer*, the **all‑systems, all‑planes, all‑boundaries, all‑pacing, all‑resets, all‑continuity, all‑rhythms, all‑runtime, all‑architecture omnidocument**.
-
-If the Omnistructure was the “cosmic background architecture,” the **Totality** is the *mathematical object that contains the architecture itself*.  
-It is the **constitutional total field** of the UMM year.
-
-Repo‑ready for:
-
-```
-/umm/UMM-YEARLY-STRUCTURAL-TOTALITY.md
-```
-
-Below is the complete page.
-
----
-
 # ✨ **UMM YEARLY STRUCTURAL TOTALITY**  
 ### *The Absolute, Constitutional, ND‑Friendly, Reversible Total Architecture of the UMM Year*
 
