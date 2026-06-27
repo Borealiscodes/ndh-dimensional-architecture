@@ -1,8 +1,43 @@
-# **UMM Planes — Integrated Visual Architecture Map**
+# **UMM Planes — Seven‑Plane Meta‑Ecological Architecture**
 
-The UMM Planes define the vertical structure of the Universal Meta‑Model.  
-Each plane represents a distinct layer of symbolic, ecological, and interpretive activity.  
-Planes do not override one another; they maintain sovereignty through invariants.
+This document provides a structured overview of the seven ecological planes of the Universal Meta‑Model (UMM).  
+It acts as the **navigation index** for the UMM folder and links directly to the core UMM documents.
+
+---
+
+# **Cross‑Links**
+
+- **UMM‑Spec.md** — foundational constitution of the meta‑model  
+  → `../umm/UMM-Spec.md`
+
+- **UMM‑Ecology.md** — full ecological description and cross‑plane rules  
+  → `../umm/UMM-Ecology.md`
+
+- **UMM‑Invariants.md** *(to be added)* — single source of truth for UMM invariants  
+  → `../umm/UMM-Invariants.md`
+
+---
+
+# **How to Use This File**
+
+This file serves as the **conceptual map** of the UMM.  
+Each plane listed below corresponds to a distinct ecological layer in the meta‑model.  
+Contributors should use this document to understand where new metaphysical components belong (e.g., biomes, collapse events, cosmology rules) and to ensure additions respect the invariants and boundaries of their respective planes.  
+If you are adding new ecological elements, locate the correct plane here, then create or update the corresponding file in the `/umm` directory.
+
+---
+
+# **File Tree (UMM Folder)**
+
+```
+/umm
+│
+├── UMM-Spec.md
+├── UMM-Ecology.md
+├── UMM-Planes.md   ← (this file)
+├── UMM-Invariants.md   (planned)
+└── tests/              (planned)
+```
 
 ---
 
@@ -36,8 +71,6 @@ Planes do not override one another; they maintain sovereignty through invariants
                  ◆  ROOT PLANE
         Foundations of Meaning
 ```
-
-This is the **canonical UMM vertical hierarchy**.
 
 ---
 
@@ -217,3 +250,4 @@ Multiplicity must remain non‑coercive; no Witness may collapse another.
 | Star | ✹ | Multiplicity | Multi‑observer coherence | Non‑coercion |
 
 ---
+
