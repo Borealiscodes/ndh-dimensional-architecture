@@ -13,7 +13,7 @@ It acts as the **navigation index** for the UMM folder and links directly to the
 - **UMM‑Ecology.md** — full ecological description and cross‑plane rules  
   → `../umm/UMM-Ecology.md`
 
-- **UMM‑Invariants.md** *(to be added)* — single source of truth for UMM invariants  
+- **UMM‑Invariants.md** — single source of truth for UMM invariants  
   → `../umm/UMM-Invariants.md`
 
 ---
