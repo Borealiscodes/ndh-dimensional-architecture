@@ -1,87 +1,185 @@
-# Protocol Integration  
-### Relationship Between Charting Paths Protocol and Non-Linear Override Protocol
+# **Protocol Integration**  
+### How Protocols Interact, Interlock, and Settle Inside the Exploration Quadrant
 
-## 1. Purpose
-This document defines how the Charting Paths Protocol and the Non-Linear Override
-Protocol interlock inside the Exploration Quadrant. It ensures that normal
-navigation and override navigation remain coherent, reversible, and stillness-
-anchored.
+## **1. Purpose**
+The Protocol Integration document defines **how all protocols inside the Exploration Quadrant relate to each other**, how they transition, how they maintain coherence, and how they dissolve into Stillness.
 
----
+It ensures that:
 
-## 2. Dual-Membrane Structure
-The two protocols form a dual-membrane system:
+- protocols do not conflict  
+- protocols do not overwrite each other  
+- protocols do not compress motion  
+- protocols remain reversible  
+- protocols remain breathable  
+- protocols remain structurally aligned  
 
-- Charting Paths Protocol → governs normal navigation
-- Non-Linear Override Protocol → governs override navigation
-
-Together they define all allowed motion inside the Exploration Quadrant.
+Protocol Integration is the *governance layer* of the quadrant.
 
 ---
 
-## 3. Shared Constitutional Elements
-Both protocols share:
-- identity inheritance
-- pacing membranes
-- boundary membranes
-- node alignment
-- stillness termination
-- diagrammatic grammar
-- cross-map coherence
+## **2. The Four Protocols**
+Exploration contains four constitutional protocols:
 
-These shared elements prevent architectural drift.
+1. **Charting Paths Protocol**  
+   Governs navigation and path formation.
 
----
+2. **Nonlinear Override Protocol**  
+   Governs safe redirection, interruption, and pivoting.
 
-## 4. Interaction Flow
+3. **Protocol Coherence & Integrity**  
+   Governs consistency, alignment, and non‑collapse.
 
-Explorer begins navigation
-↓
-Charting Paths Protocol governs normal motion
-↓
-Override trigger occurs (explicit or implicit)
-↓
-Non-Linear Override Protocol activates
-↓
-Override redirects motion safely
-↓
-Override terminates in Stillness
-↓
-Explorer returns to Charting Paths Protocol
+4. **Protocol Integration (this file)**  
+   Governs relationships between protocols.
 
-
-
-This is the closed-loop navigation cycle.
+These four protocols form the governance membrane.
 
 ---
 
-## 5. Override Conditions
-Overrides may only occur when:
-- a structural path needs redirection
-- a functional path needs correction
-- a narrative path needs bypassing
-- a node sequence needs adjustment
-- a pacing membrane needs temporary bypass
-- a diagram anchor needs updating
+## **3. Integration Principles**
 
-Overrides must remain gentle and reversible.
+### **3.1 Non‑Interference**
+Protocols must never overwrite each other.  
+Each protocol governs its own domain.
+
+### **3.2 Soft Handoffs**
+Protocols must pass control gently:
+
+- navigation → pacing  
+- pacing → flow  
+- flow → override  
+- override → stillness  
+- stillness → navigation  
+
+No abrupt transitions.
+
+### **3.3 Reversibility**
+Every protocol must allow:
+
+- undo  
+- return  
+- rewind  
+- soft exit  
+
+Reversibility is constitutional.
+
+### **3.4 Breathability**
+Protocols must create space, not consume it.
+
+Breathability prevents compression.
+
+### **3.5 Stillness Termination**
+All protocol sequences must dissolve into Stillness.
+
+Stillness is the universal integration point.
 
 ---
 
-## 6. Return Conditions
-After an override:
-- motion must return to Charting Paths Protocol
-- termination must occur in Stillness
-- diagrams must remain coherent
-- cross-maps must remain aligned
+## **4. How Protocols Interact**
+
+### **4.1 Charting Paths → Nonlinear Override**
+Charting Paths defines the route.  
+Override allows gentle redirection.
+
+Override must:
+
+- respect pacing  
+- respect boundaries  
+- respect flow  
+- respect stillness  
+
+Override never forces motion.
 
 ---
 
-## 7. Summary
-The Protocol Integration document defines how normal navigation and override
-navigation coexist inside the Exploration Quadrant. It ensures that extreme
-non-linear design remains safe, reversible, coherent, and constitutionally
-aligned.
+### **4.2 Nonlinear Override → Coherence & Integrity**
+Override may redirect motion, but Coherence & Integrity ensures:
 
-Version: 1.0 (UMM Exploration Protocol Integration)
+- no collapse  
+- no contradiction  
+- no fragmentation  
+- no structural drift  
+
+Coherence is the stabilizer.
+
+---
+
+### **4.3 Coherence & Integrity → Protocol Integration**
+Coherence ensures the protocol is internally stable.  
+Protocol Integration ensures it is externally stable.
+
+Integration governs:
+
+- relationships  
+- transitions  
+- boundaries  
+- dissolution  
+- re‑emergence  
+
+Integration is the connective tissue.
+
+---
+
+### **4.4 Protocol Integration → Stillness**
+Integration dissolves into Stillness.
+
+Stillness:
+
+- clears residual motion  
+- resets pacing  
+- restores coherence  
+- prepares for re‑emergence  
+
+Stillness is the universal reset.
+
+---
+
+## **5. Integration Sequence (Textual)**
+
+```
+Charting Paths
+   ↓
+Nonlinear Override
+   ↓
+Coherence & Integrity
+   ↓
+Protocol Integration
+   ↓
+Stillness
+   ↓
+Soft Re‑Emergence
+```
+
+This is the gentle governance loop.
+
+---
+
+## **6. Interaction with Membranes**
+
+- **Pacing Membrane**  
+  Protocols must respect pacing zones.
+
+- **Flow Membrane**  
+  Protocols must use transition, continuity, and dissolution zones.
+
+- **Boundary Membrane**  
+  Protocols must respect inclusion, contact, and exclusion boundaries.
+
+- **Stillness Node**  
+  Protocols must dissolve into Stillness.
+
+- **Transition Node**  
+  Protocols must pivot gently.
+
+- **Navigation Crossmap**  
+  Protocols must remain diagrammatically coherent.
+
+---
+
+## **7. Summary**
+The Protocol Integration document defines how protocols interact inside the Exploration Quadrant. It ensures gentle transitions, reversible motion, structural coherence, boundary alignment, flow consistency, and stillness termination — allowing the governance layer to remain breathable, safe, and naturally self‑organizing.
+
+Version: 1.0 (UMM Exploration Protocol)
+
+---
 
