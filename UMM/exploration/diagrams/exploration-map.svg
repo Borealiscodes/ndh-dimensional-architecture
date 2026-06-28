@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
+  <style>
+    .title { font: 700 22px sans-serif; fill: #111; }
+    .subtitle { font: 400 16px sans-serif; fill: #333; }
+    .label { font: 400 14px sans-serif; fill: #222; }
+    .small { font: 400 12px sans-serif; fill: #444; }
+    .box { fill: #f7f7fb; stroke: #444; stroke-width: 1.5; rx: 8; }
+    .node { fill: #ffffff; stroke: #555; stroke-width: 1.5; rx: 6; }
+    .anchor { fill: #eef3ff; stroke: #334; stroke-width: 1.5; rx: 10; }
+    .line { stroke: #555; stroke-width: 1.5; marker-end: url(#arrow); }
+    .dashed { stroke-dasharray: 5 4; }
+    .stillness { fill: #fff7e6; stroke: #aa7a2b; stroke-width: 1.8; rx: 14; }
+  </style>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3"
+            orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#555" />
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="40" y="50" class="title">Exploration Map — Navigation Overview</text>
+  <text x="40" y="78" class="subtitle">
+    Structural, Functional, Narrative, and Governance flows in the Exploration Quadrant
+  </text>
+
+  <!-- Structural Layer -->
+  <rect x="60" y="110" width="780" height="90" class="anchor" />
+  <text x="80" y="135" class="label">STRUCTURAL LAYER</text>
+  <text x="80" y="155" class="small">UMM → Starter Kit → Adventure System → Adventurer Kit</text>
+
+  <!-- Structural boxes -->
+  <rect x="80" y="170" width="150" height="40" class="box" />
+  <text x="95" y="195" class="small">UMM</text>
+
+  <rect x="250" y="170" width="150" height="40" class="box" />
+  <text x="265" y="195" class="small">Starter Kit</text>
+
+  <rect x="420" y="170" width="150" height="40" class="box" />
+  <text x="435" y="195" class="small">Adventure System</text>
+
+  <rect x="590" y="170" width="150" height="40" class="box" />
+  <text x="605" y="195" class="small">Adventurer Kit</text>
+
+  <!-- Structural arrows -->
+  <line x1="230" y1="190" x2="250" y2="190" class="line" />
+  <line x1="400" y1="190" x2="420" y2="190" class="line" />
+  <line x1="570" y1="190" x2="590" y2="190" class="line" />
+
+  <!-- Functional Layer -->
+  <rect x="60" y="230" width="780" height="90" class="anchor" />
+  <text x="80" y="255" class="label">FUNCTIONAL LAYER</text>
+  <text x="80" y="275" class="small">Identity → Pacing → Boundaries → Motion → Stillness</text>
+
+  <!-- Functional nodes -->
+  <rect x="80" y="290" width="120" height="40" class="node" />
+  <text x="95" y="315" class="small">Identity</text>
+
+  <rect x="220" y="290" width="120" height="40" class="node" />
+  <text x="235" y="315" class="small">Pacing</text>
+
+  <rect x="360" y="290" width="120" height="40" class="node" />
+  <text x="375" y="315" class="small">Boundaries</text>
+
+  <rect x="500" y="290" width="120" height="40" class="node" />
+  <text x="515" y="315" class="small">Motion</text>
+
+  <rect x="640" y="290" width="120" height="40" class="node" />
+  <text x="655" y="315" class="small">Stillness</text>
+
+  <!-- Functional arrows -->
+  <line x1="200" y1="310" x2="220" y2="310" class="line" />
+  <line x1="340" y1="310" x2="360" y2="310" class="line" />
+  <line x1="480" y1="310" x2="500" y2="310" class="line" />
+  <line x1="620" y1="310" x2="640" y2="310" class="line" />
+
+  <!-- Narrative Layer -->
+  <rect x="60" y="350" width="780" height="90" class="anchor" />
+  <text x="80" y="375" class="label">NARRATIVE LAYER</text>
+  <text x="80" y="395" class="small">World-Builder → Story-Weaver → Adventurer Quests</text>
+
+  <!-- Narrative boxes -->
+  <rect x="120" y="410" width="180" height="40" class="box" />
+  <text x="135" y="435" class="small">World-Builder</text>
+
+  <rect x="360" y="410" width="180" height="40" class="box" />
+  <text x="375" y="435" class="small">Story-Weaver</text>
+
+  <rect x="600" y="410" width="180" height="40" class="box" />
+  <text x="615" y="435" class="small">Adventurer Quests</text>
+
+  <!-- Narrative arrows -->
+  <line x1="300" y1="430" x2="360" y2="430" class="line" />
+  <line x1="540" y1="430" x2="600" y2="430" class="line" />
+
+  <!-- Governance band -->
+  <rect x="60" y="470" width="780" height="70" class="anchor" />
+  <text x="80" y="495" class="label">GOVERNANCE MEMBRANE</text>
+  <text x="80" y="515" class="small">
+    Charting Paths Protocol • Non-Linear Override Protocol • Protocol Integration • Protocol Coherence & Integrity
+  </text>
+
+  <!-- Stillness -->
+  <rect x="360" y="540" width="180" height="40" class="stillness" />
+  <text x="385" y="565" class="label">STILLNESS</text>
+  <text x="385" y="582" class="small">Universal reset point</text>
+
+  <!-- Lines to Stillness -->
+  <line x1="700" y1="310" x2="450" y2="540" class="line dashed" />
+  <line x1="690" y1="430" x2="450" y2="540" class="line dashed" />
+</svg>
