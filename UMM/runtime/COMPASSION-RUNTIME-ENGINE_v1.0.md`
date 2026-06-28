@@ -1,0 +1,128 @@
+# **Compassion Runtime Engine Specification (v1.0)**  
+`/UMM/runtime/COMPASSION-RUNTIME-ENGINE_v1.0.md`
+
+---
+
+## **1. Purpose**
+
+The Compassion Runtime Engine applies the Compassion Kernel invariants to **live interaction**.  
+It sits between user‑facing modules (UI, agents, workflows) and core engines (Boundary, Continuity, Identity, Epoch), enforcing non‑coercion, non‑collapse, and gentle pacing at runtime.
+
+---
+
+## **2. Position in the System**
+
+```text
+User / Client
+    ↓
+Mimi Module / UX Layer
+    ↓
+Compassion Runtime Engine
+    ↓
+Boundary / Continuity / Identity / Epoch Engines
+    ↓
+Kernel (Spark / Mesh / Pulse)
+```
+
+The Runtime Engine is the **gatekeeper** for user‑affecting operations.
+
+---
+
+## **3. Core Responsibilities**
+
+- **Monitor:** track user state (cognitive load, fatigue, distress signals, ND‑sensitive flags).  
+- **Evaluate:** call Compassion Kernel checks before any significant transition or operation.  
+- **Modulate:** soften, slow, or reshape interactions based on kernel responses.  
+- **Protect:** block operations that would violate constitutional compassion invariants.  
+- **Log:** record compassion‑related decisions for debugging and amendment review.
+
+---
+
+## **4. Main Runtime Flow**
+
+### **4.1 High‑Level Pseudocode**
+
+```pseudo
+function handle_user_event(event, context):
+    user_state = read_user_state(context)
+    tonal_state = get_current_tonal_state(context)
+
+    // 1. Load check
+    load_result = compassion_check_load(user_state.cognitive_load, user_state.profile)
+
+    if load_result == REDUCE:
+        context = apply_softening_measures(context)
+        notify_mimi_soften(event, context)
+
+    // 2. Transition check
+    next_tonal_state = infer_next_tonal_state(event, tonal_state)
+    transition_result = compassion_check_transition(tonal_state, next_tonal_state, context)
+
+    if transition_result == BLOCK:
+        log_compassion_event("transition_blocked", event, context)
+        return present_gentle_alternative(event, context)
+
+    if transition_result == SOFTEN:
+        next_tonal_state = soften_transition(tonal_state, next_tonal_state)
+        notify_mimi_soften_transition(tonal_state, next_tonal_state)
+
+    // 3. Identity & boundary checks
+    identity_result = compassion_check_identity(event.operation, user_state.identity)
+    boundary_result = compassion_check_boundary(event.access_request, user_state)
+
+    if identity_result == DENY or boundary_result == DENY:
+        log_compassion_event("operation_denied", event, context)
+        return present_safe_boundary_message(event, context)
+
+    // 4. Commit via core engines
+    return dispatch_to_core_engines(event, next_tonal_state, context)
+```
+
+---
+
+## **5. Integration with Mimi**
+
+- Mimi receives **signals** from the Runtime Engine:
+  - overload warnings,  
+  - softened transitions,  
+  - blocked operations with gentle explanations.  
+- Mimi never bypasses the Runtime Engine; she **amplifies** its compassion decisions in user‑friendly form.
+
+---
+
+## **6. ND‑Accessible Pacing**
+
+The Runtime Engine must:
+
+- avoid rapid state changes,  
+- respect user‑configured pacing preferences,  
+- allow “pause” / “slow down” hooks,  
+- prefer incremental motion over abrupt shifts.
+
+These behaviors are treated as **runtime constraints**, not optional UX.
+
+---
+
+## **7. Logging and Review**
+
+All compassion‑related decisions (BLOCK, DENY, SOFTEN, REDUCE) must be logged to:
+
+`/UMM/logs/compassion-runtime/`
+
+Each entry includes:
+
+- timestamp,  
+- event type,  
+- user state summary (non‑identifying),  
+- kernel responses,  
+- action taken.
+
+Logs are used for:
+
+- debugging,  
+- tuning thresholds,  
+- constitutional amendment review.
+
+---
+
+If you want, we can next draft a **minimal example interaction trace** (one user event moving through Mimi → Runtime Engine → Kernel → Engines) or a **GitHub README** for the `/UMM/runtime/` directory that explains how this engine fits into the whole system.
