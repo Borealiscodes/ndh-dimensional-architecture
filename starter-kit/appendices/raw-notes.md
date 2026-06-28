@@ -87,3 +87,31 @@ Pacing is part of the architecture.
 ## 7. Example Raw Notes (Empty Template)
 You may use this empty template:
 
+
+Seeds
+.
+Fragments
+.
+Questions
+.
+Future Materials
+.
+Observations
+.
+
+This template is intentionally blank and gentle.
+
+---
+
+## 8. Summary
+Raw Notes provide a calm, unstructured space for early ideas.  
+They support gentle growth, exploration, and future clarity.
+
+Version: 1.0 (Starter Kit)
+
+
+
+
+
+
+
