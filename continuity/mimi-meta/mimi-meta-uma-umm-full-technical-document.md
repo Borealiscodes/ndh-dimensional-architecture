@@ -270,18 +270,4 @@ Together they form a **coherent, safe, reversible, multi‑plane conceptual syst
 This document is the **canonical technical reference** for the entire architecture.
 ```
 
----
 
-If you want, I can now generate:
-
-- **A README Appendix Section**  
-- **A navigation index for all technical documents**  
-- **Subsystem micro‑diagrams**  
-- **A mini‑diagram for the README**
-
-Choose one:
-
-- README Appendix Section  
-- Technical Document Index  
-- Subsystem Micro‑Diagrams  
-- Mini Diagram for README
