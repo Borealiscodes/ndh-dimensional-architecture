@@ -26,3 +26,7 @@ and traverse primary routes without enforcing directionality.
 
 ## Atlas
 See the visual atlas in the [atlas folder](atlas/visual-atlas-thicketry-thoroughfare.svg).
+
+## Braid Layer
+The transitional braid layer lives in the [layers/braid](layers/braid/) folder.
+It contains the placeholder, README, and the initial braid-layer.svg canvas.
