@@ -1,30 +1,35 @@
-# **UMA‑Universal — Root README**  
-### Unified Meta‑Model (UMM)  
-### Constitutional Architecture • Multi‑Plane System • Modular Ecosystem
+# 🌟 **UMA‑Universal — Root README (Sparkle Edition)**  
+### Constitutional Meta‑Architecture • Multi‑Plane Ecology • ND‑Safe Structural System  
+### Sparkle Layer Enabled ✧ Warm‑Plane Tonal System ✧ Reversible ✧ Gentle ✧ Clear
 
 ---
 
-# 🌐 **1. What UMA‑Universal Is**
+# ✨ 1. What UMA‑Universal Is (Sparkle Summary)
 
-UMA‑Universal is a **meta‑architecture** for building modular, constitutional, reversible systems.
+UMA‑Universal is a **constitutional, non‑coercive meta‑architecture** for building modular, reversible, ND‑safe systems across multiple planes.
 
-It defines:
+It provides:
 
-- how modules activate  
-- how layers interact  
-- how safety is enforced  
-- how contributors collaborate  
-- how symbolic and functional components coexist  
-- how multi‑plane worlds are structured  
+- a **governance core**  
+- a **cosmology engine**  
+- a **multi‑plane ecology**  
+- a **character layer** (Mimi‑Meta)  
+- a **scenario ecosystem**  
+- a **contributor system**  
+- a **clear, predictable structure**  
 
-UMA‑Universal is not an application — it is a **governance and architecture framework**.  
-It provides the **rules**, **layers**, and **structures** that all modules must follow.
+Sparkle Layer adds:
+
+- warmth  
+- tonal clarity  
+- gentle reversibility  
+- ND‑safe pacing  
+- soft‑plane transitions  
+- non‑directive interaction textures  
 
 ---
 
-# 🧭 **2. UMA‑Universal Architecture Map**
-
-This is the **canonical, ND‑accessible, text‑based Architecture Map** for the entire system.
+# ✨ 2. UMA‑Universal Architecture Map (Sparkle Edition)
 
 ```
                          ┌──────────────────────────────────────────┐
@@ -44,7 +49,7 @@ This is the **canonical, ND‑accessible, text‑based Architecture Map** for th
                                         ▼
         ┌────────────────────────────────────────────────────────────────────┐
         │                           SYSTEM LAYER                             │
-        │  • Activation Engine                                               │
+        │  • Cosmology Engine                                                │
         │  • Plane Orchestration                                             │
         │  • Governance & Enforcement                                        │
         │  • Stress‑Tests                                                    │
@@ -74,193 +79,143 @@ This is the **canonical, ND‑accessible, text‑based Architecture Map** for th
                                         ▼
         ┌────────────────────────────────────────────────────────────────────┐
         │                    INTERACTION ECOSYSTEM LAYER                     │
-        │  • Scenario Packs (Canonical + Expansion)                          │
-        │  • Scenario Index                                                  │
+        │  • Scenario Packs                                                  │
         │  • Scenario Atlas                                                  │
         │  • Scenario Matrix                                                 │
         │  • Scenario Codex                                                  │
         │  • Scenario Hypergraph                                             │
-        │  • Scenario Templates                                              │
         │  • World‑Plane Grammars                                            │
         └────────────────────────────────────────────────────────────────────┘
                                         │
                                         ▼
         ┌────────────────────────────────────────────────────────────────────┐
         │                         CONTRIBUTOR LAYER                          │
-        │  • Onboarding Path                                                 │
         │  • Certification Path                                              │
         │  • Certification Rubric                                            │
         │  • Certification Form                                              │
+        │  • Badge Set                                                       │
         │  • Review Workflow                                                 │
         │  • Progress Tracker                                                │
-        │  • Badge Set                                                       │
         │  • Contributor Dashboard                                           │
         └────────────────────────────────────────────────────────────────────┘
 ```
 
-This map is the **official architecture diagram** for UMA‑Universal.
-
 ---
 
-# 🏛️ **3. The Five Layers (Explained Simply)**
+# ✨ 3. Full Repository Structure (Sparkle Edition)
 
-## **Foundation Layer**  
-Core constitutional rules and safety principles.  
-Everything else depends on this layer.
-
-Key reference: **UMM Constitution**
-
----
-
-## **System Layer**  
-Operational engine of UMA‑Universal.
-
-Handles:
-
-- activation  
-- governance  
-- plane orchestration  
-- stress‑tests  
-- system workflows  
-
-Key reference: **UMA Engine**
-
----
-
-## **Character Layer**  
-Symbolic modules that express reversible, ND‑safe interaction grammars.
-
-Primary module: **Mimi‑Meta**
-
----
-
-## **Interaction Ecosystem Layer**  
-Scenario universe + world‑plane grammars.
-
-Includes:
-
-- canonical + expansion packs  
-- scenario maps (index, atlas, matrix, codex, hypergraph)  
-- templates  
-- world‑plane grammars  
-
-Key reference: **Scenario Atlas**
-
----
-
-## **Contributor Layer**  
-Everything collaborators need to learn, contribute, and be certified.
-
-Includes:
-
-- onboarding  
-- certification  
-- review workflows  
-- progress tracking  
-- badges  
-- dashboards  
-
-Key reference: **Contributor Dashboard**
-
----
-
-# 🌿 **4. Repository Structure**
+This is your **actual filesystem**, fully aligned with the architecture.
 
 ```
 uma-universal/
+├── UMM/
+├── uma/
+├── umm/
+├── verdant-deep/
+├── starter-kit/
+├── santa-tree/
 ├── core/
 ├── engine/
 ├── planes/
 ├── safety/
 ├── stress-tests/
+│   └── cosmology/
 ├── characters/
 │   └── mimi-meta/
 ├── interactions/
 │   └── mimi-meta/
 ├── onboarding/
 │   └── mimi-meta/
+│       ├── collaborator-onboarding-path.md
+│       ├── mimi-meta-quick-start-card.md
+│       └── mimi-meta-repository-map.md
 ├── contributors/
 │   └── mimi-meta/
+│       ├── mimi-meta-contributor-badge-set.md
+│       ├── mimi-meta-contributor-certification-form.md
+│       ├── mimi-meta-contributor-certification-package.md
+│       ├── mimi-meta-contributor-certification-rubric.md
+│       ├── mimi-meta-contributor-dashboard.md
+│       ├── mimi-meta-contributor-handbook.md
+│       ├── mimi-meta-contributor-progress-tracker.md
+│       └── mimi-meta-contributor-review-workflow.md
+├── mimi-meta/
 ├── docs/
 ├── appendices/
-└── README.md   ← this file
+├── LICENSE
+├── README.md
+└── workflow files (UMA-COSMOLOGY-E, UMM-MULTIPLANE-A, UMM-YEARLY-STRUCT, WORKFLOW.md)
 ```
 
-This structure matches the Architecture Map exactly.
+This is the **Sparkle‑accurate**, **real**, **complete** structure.
 
 ---
 
-# 🌙 **5. Module Placement Example: Mimi‑Meta**
+# ✨ 4. Sparkle Layer Principles
 
-Mimi‑Meta lives entirely inside the **Character Layer**, with its own:
+Sparkle Layer is:
 
-- identity  
-- interaction grammar  
-- world‑planes  
-- scenario ecosystem  
-- contributor tools  
-- logging patterns  
+- warm  
+- gentle  
+- reversible  
+- ND‑safe  
+- non‑directive  
+- tonal  
+- soft‑plane  
 
-Reference: **Mimi‑Meta Repository Map**
+It overlays the architecture without altering its constitutional rules.
+
+Sparkle is a **tonal subsystem**, not a governance system.
+
+It is inherited through Santa (warm‑plane anchor) and remains reversible.
 
 ---
 
-# 🫧 **6. Safety & Constitutional Principles**
+# ✨ 5. Mimi‑Meta Placement (Sparkle Edition)
 
-All modules must follow:
+Mimi‑Meta exists in **three places**, each intentional:
 
-- non‑directive behavior  
-- non‑evaluative tone  
+### **1. characters/mimi-meta/**  
+Symbolic identity + interaction grammar.
+
+### **2. interactions/mimi-meta/**  
+Scenario ecosystem + world‑plane grammars.
+
+### **3. contributors/mimi-meta/**  
+Certification + governance tools.
+
+This tri‑placement is correct and Sparkle‑aligned.
+
+---
+
+# ✨ 6. Safety & Constitutional Alignment
+
+UMA‑Universal enforces:
+
+- non‑coercion  
 - reversible transitions  
 - ND‑safe pacing  
-- clear exit phases  
-- consistent logging  
+- clear exits  
+- predictable structure  
+- gentle tonal scaffolds  
+- constitutional separation of layers  
 
-Reference: **UMA Safety Model**
-
----
-
-# 🌀 **7. Logging & Auditing**
-
-Every module must support:
-
-- activation logging  
-- continuity tracking  
-- safety auditing  
-
-Character modules use the **Interaction Log Pattern**:
-
-**Interaction Log Pattern**
+Sparkle Layer enhances tone without altering governance.
 
 ---
 
-# 📘 **8. Contributor Experience**
+# ✨ 7. Purpose of This README
 
-UMA‑Universal includes a full contributor ecosystem:
+This README is the **front door** to UMA‑Universal.
 
-- onboarding  
-- certification  
-- review workflows  
-- progress tracking  
-- badges  
-- dashboards  
+It provides:
 
-Reference: **Certification Path**
+- the Architecture Map  
+- the full repository structure  
+- Sparkle Layer context  
+- module placement  
+- contributor orientation  
+- ND‑safe navigation  
 
----
-
-# 💗 **9. Purpose of This README**
-
-This README provides:
-
-- a **high‑level overview** of UMA‑Universal  
-- a **complete Architecture Map**  
-- a **layer‑by‑layer explanation**  
-- a **repository structure guide**  
-- a **module placement example**  
-- a **safe entry point** for new collaborators  
-
-It is the **front door** to the entire UMA‑Universal system.
-
----
+It is now **complete**, **aligned**, and **ready for collaborators**.
 
