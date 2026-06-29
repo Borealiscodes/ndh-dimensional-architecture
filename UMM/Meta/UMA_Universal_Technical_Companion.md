@@ -7,31 +7,23 @@ Movement is primary. This subsystem does not define recursion, planes, or affect
 
 # **1. Formal Definition of UMM (Unified Movement Model)**
 
-**Unified Movement Model (UMM)** is a **high‑load cognitive architecture** designed to maintain stability, coherence, and interpretability under conditions of:
+**Unified Movement Model (UMM)** is a **high‑load cognitive architecture** designed to maintain stability, coherence, and interpretability under conditions of structural stress, subsystem drift, partial failure, recursive stabilization, and multi‑scale cognitive load.
 
-- complex subsystem interaction  
-- partial subsystem failure  
-- recursive stabilization cycles  
-- dynamic reconnection  
-- multi‑scale cognitive load  
-- drift, barrier formation, and structural degradation  
+UMM is built on four foundational principles:
 
-UMM provides:
-
-- **movement grammar** — the only subsystem permitted to define directional flow  
-- **meta‑layer** — structural description, boundaries, drift detection, stability mapping  
-- **pins** — stable referential anchors for invariants and sequences  
-- **MVS** — Movement Verification System for structural integrity  
-- **Koan Gates** — recursive structural simplification operators producing fractal stabilization  
+1. **Movement Grammar** — the only subsystem permitted to define directional flow.  
+2. **Meta‑Layer** — structural description, boundaries, drift detection, stability mapping.  
+3. **Pinning System** — referential anchors for invariants and sequences.  
+4. **Movement Verification System (MVS)** — ensures architectural integrity.
 
 UMM is not symbolic or metaphysical.  
-It is a **computational, structural, and cognitive‑engineering framework** for maintaining stability in complex architectures.
+It is a **computational, structural, and cognitive‑engineering framework** for designing stable systems under high cognitive load.
 
 ---
 
 # **2. Engineering Case Study: Frayed Cable Dynamics**
 
-A frayed electrical cable demonstrates the same structural principles UMM uses to maintain stability under load:
+A frayed electrical cable demonstrates the same structural principles UMM uses to maintain stability:
 
 - structural integrity loss  
 - intermittent flow  
@@ -195,10 +187,6 @@ In UMM:
 
 # **5. Variable Definitions (Complete Context)**
 
-Below is the full definition set for every variable used in the Unified Flow Equation.
-
----
-
 ## **5.1 Electrical and Structural Variables**
 
 | Variable | Meaning | Context |
@@ -285,10 +273,6 @@ x_{n+1} = G_i(x_n)
 
 # **6. Conceptual Definitions (Complete Explanations)**
 
-Below are the engineering definitions of every concept referenced in the Unified Flow Equation.
-
----
-
 ## **6.1 Structural Integrity**  
 The ability of a subsystem to maintain its identity and functional boundaries under load.  
 Loss of structural integrity increases resistance to flow.
@@ -333,7 +317,40 @@ Self‑similar stabilization patterns produced by repeated structural transforma
 
 ---
 
+# **7. Executive Summary**
+
+**UMA‑Universal (Unified Movement Model)** is a high‑load cognitive architecture engineered to maintain stability under structural stress, subsystem drift, partial failure, and recursive stabilization. It provides a formal movement grammar, a meta‑layer for structural description, a pinning system for invariant preservation, and a verification system (MVS) for ensuring architectural integrity.
+
+A frayed electrical cable serves as a concrete engineering analogue for UMA‑Universal’s behavior. The cable demonstrates structural integrity loss, intermittent flow, movement‑dependent reconnection, barrier reflection, singularity‑like transitions, recursive stabilization attempts, and fractal self‑similarity. These behaviors map directly onto UMM’s principles and are captured mathematically by the Unified Flow Equation.
+
+This Technical Companion defines all variables, concepts, and structural dynamics in detail, providing AI systems engineers with a complete, academically rigorous reference for compiling, organizing, and interpreting UMA‑Universal.
+
+---
+
+# **8. Engineering Diagram Set (Text‑Based Descriptions)**
+
+## **Diagram 1 — Conductive Path Integrity (Cross‑Section View)**  
+Shows intact, frayed, and reconnected cable states with corresponding changes in \(A_{\text{effective}}\), \(\Delta A(\theta)\), and \(R(\theta)\).
+
+## **Diagram 2 — Current vs Bend Angle (Stability Window)**  
+Plots \(I(\theta)\) across \(\theta\), highlighting stability region \(S\) and instability region \(U\).
+
+## **Diagram 3 — Barrier Reflection Model**  
+Illustrates reflection \(R_q\) and transmission \(T_q\) across damaged regions.
+
+## **Diagram 4 — Recursive Stabilization Loop**  
+Shows iterative movement corrections converging on \(\theta^*\).
+
+## **Diagram 5 — Meta Index Stability Map**  
+Maps stability regions, boundaries, and drift signatures.
+
+## **Diagram 6 — Fractal Stabilization (12 Koan Gates)**  
+Shows recursive structural transformations producing self‑similar patterns.
+
+---
+
 Corridors define precedence; this subsystem follows movement and does not generate recursion.
 
 ---
 
+If you want, I can now generate a **publication‑ready PDF layout**, a **LaTeX version**, or a **GitHub‑optimized README companion**.
