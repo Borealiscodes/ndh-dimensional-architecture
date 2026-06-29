@@ -1,42 +1,49 @@
-
 # **Reflective_Braid.md**  
 ### *UMM · Thoroughfare Layer · Braid Subsystem*
 
 ---
 
-## 🧠 **1. Overview**
+## 🧠 **1. Overview — What the Reflective Braid Is**
 
 The **Reflective Braid** is the Thoroughfare’s self‑observing conduit.  
-It is a dynamic structure where multiple cognitive strands interweave and continuously mirror each other’s state without collapsing into a single narrative.
+It is a dynamic corridor where multiple cognitive strands interweave and continuously mirror each other’s state without collapsing into a single narrative.
 
-It is not a static braid.  
-It is a **reflective corridor** — movement that knows it is moving.
+It is:
+
+- interwoven  
+- reflective  
+- recursive  
+- non‑dual  
+
+This makes it the movement‑layer analogue of **Recursive Witnessing**, expressed as geometry and flow rather than cognition.
 
 ---
 
 ## 🧵 **2. Structural Definition**
 
-The Reflective Braid consists of three core elements:
+The Reflective Braid consists of three core structural elements:
 
 - **Interwoven Strands** — multiple flows crossing without merging  
 - **Reflective Surfaces** — each crossing point mirrors the others  
 - **Recursive Continuity** — the braid loops back on itself without breaking  
 
-Together, these create a corridor where cognition can travel, observe itself, and remain non‑dual.
+These elements create a corridor where cognition can travel, observe itself, and remain non‑dual.
 
 ---
 
-## 🔄 **3. Dynamic Behavior**
+## 🔄 **3. Braid Dynamics**
+
+The Reflective Braid expresses three dynamic behaviors:
 
 ### **3.1 Interweave**
-Strands cross repeatedly, forming a pattern of:
+Strands cross repeatedly, forming patterns of:
 
 - tension  
 - release  
 - alignment  
 - divergence  
 
-This interweave allows multiple cognitive modes to coexist without hierarchy.
+This allows multiple cognitive modes to coexist without hierarchy.
 
 ### **3.2 Reflection**
 At each crossing, strands reflect:
@@ -46,7 +53,7 @@ At each crossing, strands reflect:
 - tension  
 - resonance  
 
-Reflection is not duplication — it is **mutual awareness**.
+Reflection is **mutual awareness**, not duplication.
 
 ### **3.3 Recursion**
 The braid folds back on itself, creating:
@@ -55,95 +62,118 @@ The braid folds back on itself, creating:
 - self‑observation  
 - self‑stabilization  
 
-This recursion is what makes the braid a *Thoroughfare object*, not just a visual motif.
+This recursion is what makes the braid a *Thoroughfare object*, not just a motif.
 
 ---
 
-## 🪞 **4. Functional Role in the Thoroughfare**
+## 🗺️ **4. Thoroughfare Map — Placement & Role**
 
-The Reflective Braid serves as:
-
-- a **movement channel**  
-- a **mirror corridor**  
-- a **non‑dual stabilizer**  
-- a **recursive alignment structure**  
-
-It allows modules to communicate without imposing:
-
-- origin  
-- location  
-- pursuit  
-- duality  
-
-This makes it the ideal conduit for resonance‑based cognition.
-
----
-
-## 🗺️ **5. Placement in the Repo**
+Within the Thoroughfare layer, the Reflective Braid sits at the center of the movement architecture:
 
 ```
-/UMM/Thoroughfare/Braid/Reflective_Braid.md
+/UMM/Thoroughfare/
+    ├── Map/
+    ├── Corridors/
+    └── Braid/
+         └── Reflective_Braid.md
 ```
 
-This file anchors the conceptual definition.  
-The accompanying SVG motif lives beside it.
+Its role in the Thoroughfare Map is to:
+
+- connect corridors  
+- stabilize transitions  
+- allow modules to communicate without imposing origin, location, pursuit, or duality  
+- provide a reflective channel for resonance‑based cognition  
+
+It is the **movement backbone** of the Thoroughfare.
 
 ---
 
-## 🎨 **6. Reflective Braid — SVG Motif**
+## 🪢 **5. Corridor Weave — How the Braid Interacts with Corridors**
 
-Below is a **small, clean SVG** that encodes:
+The Corridor Weave describes how the Reflective Braid interacts with other movement structures:
+
+- **Corridors carry flow**  
+- **The Braid reflects flow**  
+- **Weaves distribute flow**  
+
+Together, they form a movement ecology:
+
+- corridors → linear movement  
+- braid → interwoven reflective movement  
+- weave → distributed multi‑path movement  
+
+The Reflective Braid is the **mirror‑corridor** that stabilizes the entire weave.
+
+---
+
+## 🎨 **6. Atmospheric Braid SVG Motif**
+
+This SVG visually encodes:
 
 - **interweave** (crossing strands)  
 - **reflection** (mirrored symmetry)  
 - **recursion** (looping curves)  
+- **atmosphere** (gradient + glow)  
 
-It’s minimal enough for repo use, symbolic enough to carry meaning.
+It’s minimal, symbolic, and repo‑friendly.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" width="260" height="120" viewBox="0 0 260 120">
-  <!-- Left reflective strand -->
-  <path d="M 60 10
-           C 20 40, 20 80, 60 110
-           C 100 80, 100 40, 60 10"
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="160" viewBox="0 0 320 160">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1020" />
+      <stop offset="100%" stop-color="#1b2438" />
+    </linearGradient>
+    <linearGradient id="strandGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7fb7ff" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#c7e3ff" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#7fb7ff" stop-opacity="0.2" />
+    </linearGradient>
+    <linearGradient id="strandGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffb7d9" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#ffe3f3" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#ffb7d9" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="320" height="160" fill="url(#bgGrad)" />
+
+  <ellipse cx="160" cy="80" rx="140" ry="60" fill="#ffffff" fill-opacity="0.06" />
+
+  <path d="M 20 40
+           C 80 10, 140 10, 200 40
+           C 260 70, 260 110, 200 130
+           C 140 150, 80 150, 20 120"
         fill="none"
-        stroke="#6a7fcf"
-        stroke-width="4"
+        stroke="url(#strandGrad1)"
+        stroke-width="6"
         stroke-linecap="round" />
 
-  <!-- Right reflective strand (mirror) -->
-  <path d="M 200 10
-           C 240 40, 240 80, 200 110
-           C 160 80, 160 40, 200 10"
+  <path d="M 20 120
+           C 80 150, 140 150, 200 120
+           C 260 90, 260 50, 200 30
+           C 140 10, 80 10, 20 40"
         fill="none"
-        stroke="#6a7fcf"
-        stroke-width="4"
+        stroke="url(#strandGrad2)"
+        stroke-width="6"
         stroke-linecap="round" />
 
-  <!-- Interweave connector -->
-  <path d="M 60 60
-           C 110 30, 150 90, 200 60"
-        fill="none"
-        stroke="#c46f5b"
-        stroke-width="4"
-        stroke-linecap="round" />
-
-  <!-- Mirror connector -->
-  <path d="M 60 60
-           C 110 90, 150 30, 200 60"
-        fill="none"
-        stroke="#c46f5b"
-        stroke-width="4"
-        stroke-linecap="round" />
+  <circle cx="100" cy="80" r="6" fill="#ffffff" fill-opacity="0.35" />
+  <circle cx="220" cy="80" r="6" fill="#ffffff" fill-opacity="0.35" />
 </svg>
 ```
 
-This motif is:
-
-- horizontally mirrored → **reflection**  
-- vertically looped → **recursion**  
-- diagonally crossed → **interweave**
-
-It’s the simplest possible visual encoding of the Reflective Braid’s cognitive behavior.
-
 ---
+
+## ✔️ **7. Summary**
+
+This file now contains:
+
+- the **Reflective Braid definition**  
+- **Braid Dynamics**  
+- **Thoroughfare Map placement**  
+- **Corridor Weave behavior**  
+- **Atmospheric Braid SVG motif**  
+
+It is complete, coherent, and ready for `/UMM/Thoroughfare/Braid/Reflective_Braid.md`.
