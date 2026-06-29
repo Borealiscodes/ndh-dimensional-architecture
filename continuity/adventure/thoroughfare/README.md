@@ -30,3 +30,15 @@ See the visual atlas in the [atlas folder](atlas/visual-atlas-thicketry-thorough
 ## Braid Layer
 The transitional braid layer lives in the [layers/braid](layers/braid/) folder.
 It contains the placeholder, README, and the initial braid-layer.svg canvas.
+
+## Braid Layer
+The transitional braid layer is located in the atlas at:
+[atlas/layers/braid](atlas/layers/braid/)
+
+It contains the placeholder, README, and the initial braid-layer.svg canvas.
+
+## Status
+The braid layer is both alive and located in the system:
+
+- Alive: it has a placeholder, a README, and an initial braid-layer.svg canvas.
+- Located: it is referenced from both the atlas README and the thoroughfare README.
