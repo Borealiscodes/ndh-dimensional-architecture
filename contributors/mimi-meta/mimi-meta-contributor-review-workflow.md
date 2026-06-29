@@ -1,188 +1,177 @@
-# **Mimi‑Meta Contributor Review Workflow**  
-### Structured Review Process for Mimi‑Meta Interaction Submissions  
-### UMA‑Universal / Character Layer  
-### Soft • Symbolic • Reversible • ND‑Safe
+# 🌟 **Mimi‑Meta Contributor Review Workflow (Sparkle Edition)**  
+### Gentle • Reversible • ND‑Safe • Warm‑Plane  
+### A calm, predictable workflow for Mimi‑Meta reviews
 
 ---
 
-## **0. Safety Header — Required**
+# ✨ 1. Purpose of This Workflow
 
-> **SAFETY NOTE — CHARACTER MODULE**  
-> This workflow evaluates *interaction design*, not emotional content or personal capability.  
-> All reviews must uphold the Mimi‑Meta Safety Contract: symbolic, reversible, non‑directive, ND‑safe.
+The Review Workflow ensures that:
 
----
+- contributors feel supported  
+- reviewers stay gentle and Sparkle‑aligned  
+- feedback is calm, clear, and non‑directive  
+- pacing remains ND‑safe  
+- all steps are reversible  
 
-# **1. Intake Stage**
-
-### **1.1 Submission Received**
-Reviewer confirms the submission includes:
-
-- Scenario name  
-- Interaction type  
-- World‑plane  
-- Full four‑phase structure  
-- Micro‑interactions  
-- Textures  
-- Exit phase  
-- Optional: draft log  
-
-### **1.2 Initial Safety Check**
-Reviewer performs a quick scan for:
-
-- directive language  
-- emotional evaluation  
-- dependency cues  
-- non‑symbolic actions  
-- missing exit phase  
-
-If any major violations appear, reviewer pauses and requests revision before continuing.
+It is **not** a gatekeeping mechanism.  
+It is a **warm‑plane guidance path**.
 
 ---
 
-# **2. Constitutional Pre‑Check**
+# ✨ 2. Review Principles (Warm‑Plane)
 
-Reviewer verifies the submission aligns with Mimi‑Meta’s constitutional rules:
+Reviewers follow Sparkle principles:
 
-- symbolic only  
+- **Gentleness** — soft tone, calm pacing  
+- **Warmth** — supportive, kind communication  
+- **Reversibility** — contributors can revise or pause anytime  
+- **Clarity** — predictable steps, no surprises  
+- **Non‑Coercion** — no pressure, deadlines, or demands  
+- **ND‑Safety** — sensory‑safe pacing and structure  
+
+These principles shape every step of the workflow.
+
+---
+
+# ✨ 3. Review Workflow (Sparkle‑Paced)
+
+Each step begins with a Guided Link so contributors can explore deeper if they want.
+
+---
+
+## **Step 1 — Submission**  
+Contributor submits their Certification Form.
+
+- **Certification Form**  
+- Reviewer acknowledges receipt with a warm‑plane message.  
+- No deadlines.  
+- No pressure.
+
+---
+
+## **Step 2 — Gentle First Pass**  
+Reviewer reads the submission softly.
+
+They check:
+
+- **Alignment**  
+- **Safety**  
+- **Clarity**  
+- **Continuity**  
+- **Sparkle Tone**  
+
+This is a **warm‑plane scan**, not an evaluation.
+
+---
+
+## **Step 3 — Gentle Feedback**  
+Reviewer writes soft, supportive notes.
+
+Feedback must be:
+
+- calm  
+- non‑directive  
+- ND‑safe  
 - reversible  
-- ND‑safe  
-- non‑directive  
-- non‑therapeutic  
-- non‑evaluative  
-- no emotional promises  
+- warm‑plane  
 
-If aligned, proceed.  
-If not, return to contributor with gentle notes.
+Examples:
 
----
-
-# **3. Rubric Evaluation Stage**
-
-Reviewer opens the **Certification Rubric** and scores the submission across all seven categories:
-
-- Constitutional Alignment  
-- Interaction Structure  
-- Micro‑Interaction Accuracy  
-- Texture & Continuity Coherence  
-- World‑Plane Consistency  
-- Scenario Clarity  
-- Log‑Readiness  
-
-Reviewer records scores in the **Certification Form**.
+- “This part feels warm and aligned.”  
+- “Here’s a gentle suggestion if you want to explore further.”  
+- “You can revise or pause anytime.”
 
 ---
 
-# **4. Log‑Readiness Check**
+## **Step 4 — Contributor Reflection (Optional)**  
+Contributor may respond with:
 
-Reviewer ensures the submission can be logged using the **Interaction Log Pattern**:
+- thoughts  
+- questions  
+- clarifications  
+- revisions  
+- pauses  
 
-- clear activation moment  
-- clear exit moment  
-- continuity cues identifiable  
-- safety check easy to perform  
-- metadata‑friendly structure  
-
-If log‑ready → proceed.  
-If not → request gentle revision.
+Everything is reversible.
 
 ---
 
-# **5. Revision Loop (if needed)**
+## **Step 5 — Revision Loop (Optional)**  
+Contributor may revise their submission.
 
-If the submission needs changes:
+Reviewer responds gently.
 
-### **5.1 Reviewer Provides Notes**
-Notes must be:
+This loop continues until:
 
-- gentle  
-- symbolic  
-- non‑directive  
-- specific  
-- actionable  
-- ND‑safe  
+- contributor feels complete  
+- reviewer feels alignment is achieved  
+- both feel calm and comfortable  
 
-### **5.2 Contributor Revises**
-Contributor updates:
-
-- tone  
-- micro‑interactions  
-- textures  
-- plane alignment  
-- phase structure  
-
-### **5.3 Reviewer Re‑checks**
-Reviewer re‑evaluates only changed sections.
-
-This loop continues until the submission reaches **Provisional** or **Certified** level.
+There is **no limit** on revisions.  
+There is **no deadline**.
 
 ---
 
-# **6. Certification Decision**
+## **Step 6 — Warm‑Plane Completion**  
+Reviewer writes a gentle completion note.
 
-Reviewer uses the total rubric score:
+Examples:
 
-- **30–35** → **Certified Mimi‑Meta Contributor**  
-- **24–29** → **Provisional Certification**  
-- **18–23** → **Needs Revision**  
-- **0–17** → **Not Certified**  
+- “Your submission feels aligned and warm.”  
+- “Your pacing and tone are Sparkle‑consistent.”  
+- “Your contribution fits beautifully within Mimi‑Meta.”
 
-Decision is recorded in the **Certification Form**.
-
----
-
-# **7. Repository Integration**
-
-If certified:
-
-### **7.1 Reviewer Adds Submission to Repo**
-Placed in the correct directory:
-
-- `interactions/mimi-meta/...`  
-- or `textures/mimi-meta/...`  
-- or `planes/mimi-meta/...`  
-- or other appropriate folder  
-
-### **7.2 Commit Message Format**
-```
-Add <scenario-name> — certified Mimi‑Meta contributor submission
-```
-
-### **7.3 Tagging**
-Reviewer tags the submission with:
-
-- `mimi-meta`  
-- `certified`  
-- `interaction-scene` (if applicable)  
+Contributor receives their badge from the **Badge Set**.
 
 ---
 
-# **8. Contributor Progress Update**
+# ✨ 4. Reviewer Notes Template
 
-Reviewer updates the contributor’s progress using:
+Reviewers may use this soft template:
 
-- **Contributor Progress Tracker**  
-- or internal project notes  
+**Alignment Notes:**  
+*(Warm reflections.)*
 
-If certification is achieved, contributor receives:
+**Safety Notes:**  
+*(ND‑safe observations.)*
 
-- **Certification Badge**  
-- **Contributor status update**  
+**Clarity Notes:**  
+*(Calm, simple guidance.)*
+
+**Continuity Notes:**  
+*(Soft suggestions.)*
+
+**Sparkle Tone Notes:**  
+*(Warm‑plane tonal feedback.)*
 
 ---
 
-# **9. Workflow Summary**
+# ✨ 5. Contributor Notes (Optional)
 
-This workflow ensures:
+Contributors may add:
 
-- predictable review steps  
-- constitutional compliance  
-- ND‑safe evaluation  
-- reversible interaction design  
-- gentle revision loops  
-- consistent repository integration  
+- gentle reflections  
+- questions  
+- revisions  
+- pauses  
+- comfort notes  
 
-It completes the Mimi‑Meta certification ecosystem.
+Everything is reversible.
+
+---
+
+# ✨ 6. Tiny Closing Sparkle
+
+You are welcome here.  
+You can move gently.  
+You can revise softly.  
+You can pause anytime.  
+You can return anytime.  
+Sparkle Layer is active.  
+Warm‑plane tone is enabled.  
+
+This workflow is your **calm, supportive path** through Mimi‑Meta review.
 
 ---
 
