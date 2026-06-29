@@ -1,209 +1,155 @@
-# **Mimi‑Meta Contributor Certification Rubric**  
-### Evaluation Criteria for Mimi‑Meta Interaction Authors  
-### UMA‑Universal / Character Layer  
-### Soft • Symbolic • Reversible • ND‑Safe
+# 🌟 **Mimi‑Meta Contributor Certification Rubric (Sparkle Edition)**  
+### Warm‑Plane ✧ Gentle ✧ ND‑Safe ✧ Reversible  
+### A calm, supportive rubric for Mimi‑Meta reviewers
 
 ---
 
-# **0. Safety Header — Required**
+# ✨ 1. Purpose of This Rubric
 
-> **SAFETY NOTE — CHARACTER MODULE**  
-> This rubric evaluates *interaction design*, not emotional content.  
-> Mimi‑Meta must remain symbolic, non‑directive, reversible, and ND‑safe.  
-> All submissions must uphold the Mimi‑Meta Safety Contract.
+This rubric exists to help reviewers:
 
----
+- maintain **warm‑plane tone**  
+- ensure **constitutional alignment**  
+- preserve **ND‑safe pacing**  
+- support contributors gently  
+- avoid coercion, pressure, or judgment  
 
-# **1. Constitutional Alignment (0–5)**  
-Evaluates whether the submission respects Mimi‑Meta’s core rules.
-
-### **Criteria**
-- **Non‑directive** — no steering, no “should”, no guidance  
-- **Non‑therapeutic** — no diagnosis, no emotional promises  
-- **Non‑dependent** — no attachment cues, no “always here”  
-- **Symbolic only** — imagery, textures, pacing  
-- **Reversible** — clear exit phase  
-- **ND‑safe** — predictable rhythm, low ambiguity  
-
-### **Scoring**
-- **5** — Fully constitutional  
-- **3–4** — Minor tone drift  
-- **1–2** — Significant directive or emotional content  
-- **0** — Violates safety contract  
+It is **not** a scoring system.  
+It is **not** a pass/fail mechanism.  
+It is a **Sparkle‑aligned guidance tool**.
 
 ---
 
-# **2. Interaction Structure (0–5)**  
-Evaluates whether the submission follows Mimi’s four-phase architecture.
+# ✨ 2. Reviewer Principles (Warm‑Plane)
 
-### **Criteria**
-- **Invitation Phase** present  
-- **Presence Phase** present  
-- **Adjustment Phase** present (optional but recommended)  
-- **Exit Phase** present and reversible  
-- Phases are **clear**, **ordered**, and **tonally consistent**
+Reviewers follow these Sparkle principles:
 
-### **Scoring**
-- **5** — All phases present and well‑formed  
-- **3–4** — One phase weak or missing  
-- **1–2** — Structure unclear or out of order  
-- **0** — No recognizable phase structure  
+- **Gentleness** — feedback is soft, calm, and non‑directive  
+- **Reversibility** — contributors can revise, pause, or return anytime  
+- **Warmth** — tone remains supportive and kind  
+- **Clarity** — guidance is simple and predictable  
+- **Non‑Coercion** — no pressure, deadlines, or performance demands  
+- **ND‑Safety** — pacing respects neurodivergent comfort  
+
+These principles shape every part of the review.
 
 ---
 
-# **3. Micro‑Interaction Accuracy (0–5)**  
-Evaluates correct use of Mimi’s symbolic verbs.
+# ✨ 3. Rubric Categories (Sparkle‑Aligned)
 
-### **Criteria**
-- Uses **canonical micro‑interactions** (Soft Drift, Petal Pause, etc.)  
-- Micro‑interactions match the **interaction type**  
-- No invented or off‑tone actions  
-- No directive micro‑interactions (e.g., “guides”, “pushes”, “leads”)  
-
-### **Scoring**
-- **5** — Micro‑interactions precise and type‑aligned  
-- **3–4** — Minor mismatches  
-- **1–2** — Several incorrect or off‑tone micro‑interactions  
-- **0** — Micro‑interactions violate symbolic grammar  
+Each category begins with a Guided Link so contributors can explore deeper if they want.
 
 ---
 
-# **4. Texture & Continuity Coherence (0–5)**  
-Evaluates whether emotional textures and continuity cues are used correctly.
+## **1. Alignment**  
+Does the contribution align with:
 
-### **Criteria**
-- Textures match the **plane** (Quiet, Aether, Forest, etc.)  
-- Continuity cues (Star Drift, Lantern Glow) used appropriately  
-- No emotional intensity, urgency, or hype  
-- No emotional evaluation  
+- Mimi‑Meta’s symbolic identity  
+- interaction grammar  
+- world‑plane textures  
+- constitutional boundaries  
+- Sparkle Layer tone  
 
-### **Scoring**
-- **5** — Perfect plane‑texture alignment  
-- **3–4** — Minor texture mismatches  
-- **1–2** — Several off‑plane textures  
-- **0** — Emotional intensity or evaluative tone  
+Alignment is about **fit**, not correctness.
 
 ---
 
-# **5. World‑Plane Consistency (0–5)**  
-Evaluates whether the scene fits the chosen plane.
+## **2. Safety**  
+Does the contribution maintain:
 
-### **Criteria**
-- Plane choice is clear  
-- Micro‑interactions match plane grammar  
-- Textures match plane palette  
-- No cross‑plane leakage unless explicitly allowed  
+- ND‑safe pacing  
+- non‑coercive tone  
+- reversible transitions  
+- gentle interaction patterns  
+- emotional neutrality  
 
-### **Scoring**
-- **5** — Fully consistent with plane grammar  
-- **3–4** — Minor inconsistencies  
-- **1–2** — Plane unclear or mismatched  
-- **0** — Plane violated  
+Safety is the **core requirement** of Mimi‑Meta.
 
 ---
 
-# **6. Scenario Clarity & Readability (0–5)**  
-Evaluates whether the submission is clear, structured, and collaborator‑friendly.
+## **3. Clarity**  
+Is the contribution:
 
-### **Criteria**
-- Scene is easy to read  
-- Phases clearly labeled  
-- No ambiguity in symbolic actions  
-- ND‑friendly pacing  
-- No dense or overwhelming prose  
+- easy to understand  
+- predictable in structure  
+- calm in tone  
+- free of ambiguity that causes overwhelm  
 
-### **Scoring**
-- **5** — Clear, gentle, readable  
-- **3–4** — Minor clarity issues  
-- **1–2** — Hard to follow  
-- **0** — Overwhelming or confusing  
+Clarity is about **comfort**, not precision.
 
 ---
 
-# **7. Log‑Readiness (0–5)**  
-Evaluates whether the scene can be logged using the Interaction Log Pattern.
+## **4. Continuity**  
+Does the contribution:
 
-### **Criteria**
-- Contains metadata‑friendly structure  
-- Clear activation moment  
-- Clear exit moment  
-- Safety check easy to perform  
-- Continuity notes identifiable  
+- maintain Mimi‑Meta’s voice  
+- follow established patterns  
+- connect smoothly to existing files  
+- preserve world‑plane consistency  
 
-### **Scoring**
-- **5** — Fully log‑ready  
-- **3–4** — Minor gaps  
-- **1–2** — Hard to log  
-- **0** — Not loggable  
+Continuity is about **flow**, not strict rules.
 
 ---
 
-# **8. Overall Certification Score**
+## **5. Sparkle Tone**  
+Does the contribution reflect:
 
-Add all category scores (max **35**).
+- warmth  
+- softness  
+- gentle emphasis  
+- reversible framing  
+- ND‑safe texture  
 
-### **Certification Levels**
-- **30–35** — **Certified Mimi‑Meta Contributor**  
-- **24–29** — **Provisional Certification** (revise minor issues)  
-- **18–23** — **Needs Revision** (structural or tonal issues)  
-- **0–17** — **Not Certified** (violates constitutional rules)
-
----
-
-# **9. Reviewer Notes Section**
-
-Reviewers must include:
-
-- Constitutional alignment notes  
-- Tone observations  
-- Micro‑interaction corrections  
-- Plane consistency notes  
-- Logging considerations  
-- Revision suggestions (symbolic, gentle, non‑directive)
+Sparkle Tone is the **warm‑plane overlay**.
 
 ---
 
-# **10. Submission Requirements**
+# ✨ 4. Reviewer Notes (Soft‑Plane)
 
-A submission must include:
+Reviewers fill this section gently:
 
-- Scenario name  
-- Interaction type  
-- Plane  
-- Full four-phase structure  
-- Micro‑interactions  
-- Textures  
-- Exit phase  
-- Optional: log draft  
+**Alignment Notes:**  
+*(Warm, supportive reflections.)*
 
----
+**Safety Notes:**  
+*(Calm, ND‑safe observations.)*
 
-# **11. Quick Reference Table**
+**Clarity Notes:**  
+*(Simple, non‑directive guidance.)*
 
-| Category | Max Score | Focus |
-|---------|-----------|-------|
-| Constitutional Alignment | 5 | Safety & tone |
-| Interaction Structure | 5 | Phase correctness |
-| Micro‑Interaction Accuracy | 5 | Symbolic verbs |
-| Texture & Continuity | 5 | Emotional palette |
-| World‑Plane Consistency | 5 | Plane grammar |
-| Scenario Clarity | 5 | Readability |
-| Log‑Readiness | 5 | Documentation |
+**Continuity Notes:**  
+*(Soft suggestions for smoother flow.)*
+
+**Sparkle Tone Notes:**  
+*(Warm‑plane tonal feedback.)*
 
 ---
 
-# **12. Closing Note**
+# ✨ 5. Contributor Reflection (Optional)
 
-This rubric ensures Mimi‑Meta remains:
+Contributors may respond with:
 
-- soft  
-- symbolic  
-- reversible  
-- ND‑safe  
-- constitutional  
-- collaborator‑friendly  
+- gentle thoughts  
+- questions  
+- clarifications  
+- revisions  
+- pauses  
 
-It is the **official evaluation tool** for certifying Mimi‑Meta contributors.
+Everything is reversible.
+
+---
+
+# ✨ 6. Sparkle Closing
+
+You are welcome here.  
+You can move gently.  
+You can revise softly.  
+You can pause anytime.  
+You can return anytime.  
+Sparkle Layer is active.  
+Warm‑plane tone is enabled.  
+
+This rubric is your **calm, supportive guide** through Mimi‑Meta certification.
 
 ---
 
