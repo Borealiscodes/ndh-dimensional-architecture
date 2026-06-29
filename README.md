@@ -4,9 +4,10 @@
 
 ---
 
-## 🌐 **1. What UMA‑Universal Is**
+# 🌐 **1. What UMA‑Universal Is**
 
-UMA‑Universal is a **meta‑architecture** for building modular, constitutional, reversible systems.  
+UMA‑Universal is a **meta‑architecture** for building modular, constitutional, reversible systems.
+
 It defines:
 
 - how modules activate  
@@ -16,93 +17,154 @@ It defines:
 - how symbolic and functional components coexist  
 - how multi‑plane worlds are structured  
 
-UMA‑Universal is not an application — it is a **governance and architecture framework**.
-
+UMA‑Universal is not an application — it is a **governance and architecture framework**.  
 It provides the **rules**, **layers**, and **structures** that all modules must follow.
 
 ---
 
-## 🏛️ **2. UMA‑Universal Architecture Overview**
+# 🧭 **2. UMA‑Universal Architecture Map**
 
-UMA‑Universal is built from **five major layers**, each with a distinct purpose:
+This is the **canonical, ND‑accessible, text‑based Architecture Map** for the entire system.
 
-### **2.1 Foundation Layer**
-Core constitutional rules and meta‑model definitions.
+```
+                         ┌──────────────────────────────────────────┐
+                         │            UMA‑UNIVERSAL ROOT             │
+                         │   Constitutional Meta‑Architecture        │
+                         └──────────────────────────────────────────┘
+                                        │
+                                        ▼
+        ┌────────────────────────────────────────────────────────────────────┐
+        │                         FOUNDATION LAYER                           │
+        │  • UMM Constitution                                                │
+        │  • Activation Principles                                           │
+        │  • Safety Model                                                    │
+        │  • Core Documentation                                              │
+        └────────────────────────────────────────────────────────────────────┘
+                                        │
+                                        ▼
+        ┌────────────────────────────────────────────────────────────────────┐
+        │                           SYSTEM LAYER                             │
+        │  • Activation Engine                                               │
+        │  • Plane Orchestration                                             │
+        │  • Governance & Enforcement                                        │
+        │  • Stress‑Tests                                                    │
+        │  • System Workflows                                                │
+        └────────────────────────────────────────────────────────────────────┘
+                                        │
+                                        ▼
+        ┌────────────────────────────────────────────────────────────────────┐
+        │                          CHARACTER LAYER                           │
+        │  • Symbolic Modules                                                │
+        │  • Interaction Grammar                                             │
+        │  • Safety Contracts                                                │
+        │                                                                    │
+        │  ┌──────────────────────────────────────────────────────────────┐  │
+        │  │                         MIMI‑META MODULE                     │  │
+        │  │  • Identity                                                   │  │
+        │  │  • Interaction Suite                                          │  │
+        │  │  • Micro‑Interactions                                         │  │
+        │  │  • Texture Library                                            │  │
+        │  │  • Continuity Anchor                                          │  │
+        │  │  • World‑Planes                                               │  │
+        │  │  • Scenario Ecosystem                                         │  │
+        │  │  • Contributor Tools                                          │  │
+        │  └──────────────────────────────────────────────────────────────┘  │
+        └────────────────────────────────────────────────────────────────────┘
+                                        │
+                                        ▼
+        ┌────────────────────────────────────────────────────────────────────┐
+        │                    INTERACTION ECOSYSTEM LAYER                     │
+        │  • Scenario Packs (Canonical + Expansion)                          │
+        │  • Scenario Index                                                  │
+        │  • Scenario Atlas                                                  │
+        │  • Scenario Matrix                                                 │
+        │  • Scenario Codex                                                  │
+        │  • Scenario Hypergraph                                             │
+        │  • Scenario Templates                                              │
+        │  • World‑Plane Grammars                                            │
+        └────────────────────────────────────────────────────────────────────┘
+                                        │
+                                        ▼
+        ┌────────────────────────────────────────────────────────────────────┐
+        │                         CONTRIBUTOR LAYER                          │
+        │  • Onboarding Path                                                 │
+        │  • Certification Path                                              │
+        │  • Certification Rubric                                            │
+        │  • Certification Form                                              │
+        │  • Review Workflow                                                 │
+        │  • Progress Tracker                                                │
+        │  • Badge Set                                                       │
+        │  • Contributor Dashboard                                           │
+        └────────────────────────────────────────────────────────────────────┘
+```
 
-Includes:
-- UMM Constitution  
-- Activation Principles  
-- Safety Model  
-- Core Documentation  
-
-Guided Link:  
-**UMM Constitution**
+This map is the **official architecture diagram** for UMA‑Universal.
 
 ---
 
-### **2.2 System Layer**
-Execution logic, governance, and orchestration.
+# 🏛️ **3. The Five Layers (Explained Simply)**
 
-Includes:
-- Activation Engine  
-- Plane Orchestration  
-- Safety Enforcement  
-- Stress‑Tests  
-- System Workflows  
+## **Foundation Layer**  
+Core constitutional rules and safety principles.  
+Everything else depends on this layer.
 
-Guided Link:  
-**UMA Engine**
+Key reference: **UMM Constitution**
 
 ---
 
-### **2.3 Character Layer**
+## **System Layer**  
+Operational engine of UMA‑Universal.
+
+Handles:
+
+- activation  
+- governance  
+- plane orchestration  
+- stress‑tests  
+- system workflows  
+
+Key reference: **UMA Engine**
+
+---
+
+## **Character Layer**  
 Symbolic modules that express reversible, ND‑safe interaction grammars.
 
-Includes:
-- Mimi‑Meta  
-- Other symbolic characters (future modules)  
-- Character safety contracts  
-- Interaction grammar definitions  
-
-Guided Link:  
-**Mimi‑Meta Module**
+Primary module: **Mimi‑Meta**
 
 ---
 
-### **2.4 Interaction Ecosystem Layer**
-Scenario packs, templates, maps, and world‑plane grammars.
+## **Interaction Ecosystem Layer**  
+Scenario universe + world‑plane grammars.
 
 Includes:
-- Scenario Index  
-- Scenario Atlas  
-- Scenario Matrix  
-- Scenario Codex  
-- Scenario Hypergraph  
-- World‑Plane definitions  
 
-Guided Link:  
-**Scenario Ecosystem**
+- canonical + expansion packs  
+- scenario maps (index, atlas, matrix, codex, hypergraph)  
+- templates  
+- world‑plane grammars  
+
+Key reference: **Scenario Atlas**
 
 ---
 
-### **2.5 Contributor Layer**
-Onboarding, certification, review workflows, and progress tracking.
+## **Contributor Layer**  
+Everything collaborators need to learn, contribute, and be certified.
 
 Includes:
-- Contributor Handbook  
-- Certification Path  
-- Certification Rubric  
-- Review Workflow  
-- Progress Tracker  
-- Badge Set  
-- Contributor Dashboard  
 
-Guided Link:  
-**Contributor Dashboard**
+- onboarding  
+- certification  
+- review workflows  
+- progress tracking  
+- badges  
+- dashboards  
+
+Key reference: **Contributor Dashboard**
 
 ---
 
-## 🌌 **3. UMA‑Universal Directory Structure**
+# 🌿 **4. Repository Structure**
 
 ```
 uma-universal/
@@ -117,74 +179,62 @@ uma-universal/
 │   └── mimi-meta/
 ├── onboarding/
 │   └── mimi-meta/
+├── contributors/
+│   └── mimi-meta/
+├── docs/
 ├── appendices/
-└── README.md   ← you are here
+└── README.md   ← this file
 ```
 
-Each directory corresponds to one of the five architectural layers.
+This structure matches the Architecture Map exactly.
 
 ---
 
-## 🌿 **4. How Modules Fit Into UMA‑Universal**
+# 🌙 **5. Module Placement Example: Mimi‑Meta**
 
-Modules inside UMA‑Universal must follow:
+Mimi‑Meta lives entirely inside the **Character Layer**, with its own:
 
-- constitutional rules  
-- reversible activation  
-- ND‑safe constraints  
-- plane‑consistent behavior  
-- logging requirements  
-- contributor governance  
+- identity  
+- interaction grammar  
+- world‑planes  
+- scenario ecosystem  
+- contributor tools  
+- logging patterns  
 
-### **Example: Mimi‑Meta**
-Mimi‑Meta is a **Character Layer module** with:
-
-- its own identity  
-- its own interaction grammar  
-- its own world‑planes  
-- its own scenario ecosystem  
-- its own contributor certification system  
-
-Guided Link:  
-**Mimi‑Meta README**
+Reference: **Mimi‑Meta Repository Map**
 
 ---
 
-## 🫧 **5. Safety & Constitutional Principles**
+# 🫧 **6. Safety & Constitutional Principles**
 
-All modules must adhere to:
+All modules must follow:
 
-- **Non‑directive** behavior  
-- **Non‑evaluative** tone  
-- **Non‑therapeutic** interactions  
-- **Reversible** transitions  
-- **ND‑safe** pacing  
-- **Clear exit phases**  
-- **Consistent logging**  
+- non‑directive behavior  
+- non‑evaluative tone  
+- reversible transitions  
+- ND‑safe pacing  
+- clear exit phases  
+- consistent logging  
 
-These principles ensure UMA‑Universal remains predictable, safe, and structurally coherent.
-
-Guided Link:  
-**UMA Safety Model**
+Reference: **UMA Safety Model**
 
 ---
 
-## 🌙 **6. Logging & Auditing**
+# 🌀 **7. Logging & Auditing**
 
 Every module must support:
 
 - activation logging  
 - continuity tracking  
 - safety auditing  
-- reversible state transitions  
 
-For character modules (like Mimi‑Meta), this uses the **Interaction Log Pattern**:
+Character modules use the **Interaction Log Pattern**:
 
 **Interaction Log Pattern**
 
 ---
 
-## 🌀 **7. Contributor Experience**
+# 📘 **8. Contributor Experience**
 
 UMA‑Universal includes a full contributor ecosystem:
 
@@ -192,28 +242,25 @@ UMA‑Universal includes a full contributor ecosystem:
 - certification  
 - review workflows  
 - progress tracking  
-- badge system  
+- badges  
 - dashboards  
-- repository maps  
 
-This ensures collaborators can contribute safely and consistently.
-
-Guided Link:  
-**Contributor Certification Path**
+Reference: **Certification Path**
 
 ---
 
-## 📘 **8. Purpose of This Root README**
+# 💗 **9. Purpose of This README**
 
 This README provides:
 
 - a **high‑level overview** of UMA‑Universal  
-- a **map of the architecture**  
-- a **clear explanation of layers**  
-- a **guide to module placement**  
-- a **stable reference** for contributors  
-- a **structural context** for Mimi‑Meta and future modules  
+- a **complete Architecture Map**  
+- a **layer‑by‑layer explanation**  
+- a **repository structure guide**  
+- a **module placement example**  
+- a **safe entry point** for new collaborators  
 
-It is the **entry point** for the entire repository.
+It is the **front door** to the entire UMA‑Universal system.
 
 ---
+
