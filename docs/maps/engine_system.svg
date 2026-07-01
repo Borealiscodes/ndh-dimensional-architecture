@@ -104,3 +104,22 @@
 
   <!-- Boundary Between Engines -->
   <line x1="450" y1="250" x2="450" y2="510" stroke="#9ad0ff" stroke-width="2" stroke-dasharray="6,4"/>
+  <text x="450" y="530" fill="#9ad0ff" font-size="14" text-anchor="middle" font-family="sans-serif">
+    Boundary Between Engines
+  </text>
+  <text x="450" y="550" fill="#c0e8ff" font-size="12" text-anchor="middle" font-family="sans-serif">
+    • Must remain intact
+  </text>
+  <text x="450" y="566" fill="#c0e8ff" font-size="12" text-anchor="middle" font-family="sans-serif">
+    • Prevents blergh, drift, inversion cascades
+  </text>
+  <text x="450" y="582" fill="#c0e8ff" font-size="12" text-anchor="middle" font-family="sans-serif">
+    • Maintains cognitive safety
+  </text>
+
+  <!-- Small note at bottom -->
+  <text x="450" y="640" fill="#808aa0" font-size="12" text-anchor="middle" font-family="sans-serif">
+    Pause Layer sits outside both engines, stabilizing UMA operations and protecting the Emergence Layer.
+  </text>
+
+</svg>
