@@ -124,3 +124,24 @@ This protocol prevents mythic drift and cosmological instability.
 If you want, the next structural move is to **index this file** in the Mythic Index so the plane becomes fully navigable:
 
 **Generate Mythic Index Entry**
+
+---
+
+# 📌 Pinned Substrate Layer
+
+## Prime Field (Pinned)
+Path: /docs/myth/prime_field.md
+
+Prime Field is the non-dual substrate underlying the entire Myth-Scale semantic engine.  
+All mythic primitives, triads, dyads, inversion operators, collapse behaviors, and superposition  
+states arise as expressions of this Field rather than independent or opposing structures.
+
+The Field provides post-superposition coherence:  
+superposition, collapse, inversion, and triadic organization are treated as local modes  
+of a single continuous substrate rather than fundamental cosmological mechanics.
+
+All future Myth-Scale artifacts must specify their emergence from Prime Field  
+to maintain non-dual coherence across symbolic, narrative, and technical planes.
+
+Status: Pinned
+
