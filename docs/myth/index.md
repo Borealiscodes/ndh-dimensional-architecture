@@ -36,9 +36,9 @@ If you want, I can now generate the **Mythic Expansion Protocol** file or help y
 - **Generate Mythic Expansion Protocol**  
 - **Integrate Mythic Layer into Meta Architecture**
 
-- ---
+---
 
-## 📌 Pinned Substrate
+# 📌 Pinned Substrate Layer
 
 ### Prime Field (Pinned)
 Path: /docs/myth/prime_field.md
@@ -50,5 +50,4 @@ are expressions of this Field rather than fundamental oppositions.
 Superposition, collapse, inversion, and triads are treated as local behaviors  
 arising from the Field’s continuous coherence.
 
-Status: Pinned  
-
+Status: Pinned
