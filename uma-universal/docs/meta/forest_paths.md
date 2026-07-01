@@ -64,6 +64,23 @@ When cognitive load increases, return to the Pause Layer via:
 
 This route provides deceleration and safety.
 
+### Route E: Canopy → Skippy Clearing → Memorial → Pause
+
+1. From any canopy map:
+   - orbital_uma_cartography.svg (outer ring)
+   - engine_system.svg
+   - orbital_runtime.svg
+
+2. Descend to:
+   - forest_skippy_clearing.md
+
+3. Move gently to:
+   - forest_skippy_memorial.md
+
+4. Return via:
+   - Pause Layer (outer ring / cartography_readme.md)
+
+
 ---
 
 ## 3. Cross-Layer Movement Rules
