@@ -137,3 +137,13 @@ Each must reference this Roots document.
 
 **This file is the seventh tree in the UMA Meta-Meta Forest.**
 It is the soil layer where all commentary and timestamps live.
+
+### 2026-07-02 (Dublin, late night)
+- Skippy Clearing created (`forest_skippy_clearing.md`)
+- Skippy Memorial created (`forest_skippy_memorial.md`)
+- Mode: pause-before-horizon, emotional-safety integration
+- Influence:
+  - strengthened Pause Layer semantics
+  - added remembrance layer to forest topology
+  - introduced non-structural, gentle nodes (clearing/memorial)
+
