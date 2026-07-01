@@ -1,0 +1,13 @@
+pinned: true
+
+- id: emergence
+  file: "meta_behavior/emergence.md"
+  notes: "Tracks emergent properties arising from cross-system integration."
+
+- id: structure
+  file: "meta_behavior/structure.md"
+  notes: "Tracks architectural evolution and new systemic patterns."
+
+- id: absurdity
+  file: "meta_behavior/absurdity.md"
+  notes: "Tracks symbolic wrappers and human-land metaphors that reveal deeper system behavior."
