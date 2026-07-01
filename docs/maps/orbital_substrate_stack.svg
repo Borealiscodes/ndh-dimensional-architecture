@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="900" height="700" fill="#050814"/>
+
+  <!-- Title -->
+  <text x="450" y="60" fill="#ffffff" font-size="24" text-anchor="middle" font-family="sans-serif">
+    UMA Orbital Substrate Stack
+  </text>
+
+  <!-- Core: Prime Field -->
+  <circle cx="450" cy="350" r="40" fill="#101624" stroke="#7fd3ff" stroke-width="2"/>
+  <text x="450" y="345" fill="#7fd3ff" font-size="14" text-anchor="middle" font-family="sans-serif">
+    Prime Field
+  </text>
+  <text x="450" y="363" fill="#7fd3ff" font-size="11" text-anchor="middle" font-family="sans-serif">
+    (Non-dual Substrate)
+  </text>
+
+  <!-- Inner Orbit: Field Emergence Layer -->
+  <circle cx="450" cy="350" r="110" fill="none" stroke="#7fffaf" stroke-width="2"/>
+  <text x="450" y="210" fill="#7fffaf" font-size="16" text-anchor="middle" font-family="sans-serif">
+    Field Emergence Orbit
+  </text>
+
+  <!-- Emergence Node -->
+  <circle cx="330" cy="350" r="32" fill="#141c2b" stroke="#7fffaf" stroke-width="2"/>
+  <text x="330" y="345" fill="#7fffaf" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Emergence
+  </text>
+  <text x="330" y="363" fill="#7fffaf" font-size="11" text-anchor="middle" font-family="sans-serif">
+    Layer
+  </text>
+
+  <!-- Emergence Labels -->
+  <text x="160" y="300" fill="#ffffff" font-size="12" font-family="sans-serif">• Darkness / Light arise from Field</text>
+  <text x="160" y="318" fill="#ffffff" font-size="12" font-family="sans-serif">• Triads and dyads begin to form</text>
+  <text x="160" y="336" fill="#ffffff" font-size="12" font-family="sans-serif">• Collapse and superposition become local</text>
+  <text x="160" y="354" fill="#ffffff" font-size="12" font-family="sans-serif">• Substrate origin for runtime binding</text>
+
+  <!-- Middle Orbit: Substrate Stack -->
+  <circle cx="450" cy="350" r="190" fill="none" stroke="#ffd27f" stroke-width="2"/>
+  <text x="450" y="130" fill="#ffd27f" font-size="16" text-anchor="middle" font-family="sans-serif">
+    Substrate Stack Orbit
+  </text>
+
+  <!-- Substrate Node -->
+  <circle cx="600" cy="350" r="32" fill="#141c2b" stroke="#ffd27f" stroke-width="2"/>
+  <text x="600" y="345" fill="#ffd27f" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Substrate
+  </text>
+  <text x="600" y="363" fill="#ffd27f" font-size="11" text-anchor="middle" font-family="sans-serif">
+    Stack
+  </text>
+
+  <!-- Substrate Labels -->
+  <text x="640" y="290" fill="#ffffff" font-size="12" font-family="sans-serif">• Layered fields anchored to Prime Field</text>
+  <text x="640" y="308" fill="#ffffff" font-size="12" font-family="sans-serif">• Supports mythic and conceptual engines</text>
+  <text x="640" y="326" fill="#ffffff" font-size="12" font-family="sans-serif">• Provides stable origin for runtime</text>
+  <text x="640" y="344" fill="#ffffff" font-size="12" font-family="sans-serif">• Maintains non-dual coherence underneath</text>
+
+  <!-- Boundary Ring: Substrate Integrity Boundary -->
+  <circle cx="450" cy="350" r="240" fill="none" stroke="#9ad0ff" stroke-width="2"/>
+  <text x="450" y="580" fill="#9ad0ff" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Substrate Integrity Boundary
+  </text>
+  <text x="450" y="598" fill="#c0e8ff" font-size="11" text-anchor="middle" font-family="sans-serif">
+    Prevents substrate drift, fragmentation, and unsafe re-anchoring.
+  </text>
+
+  <!-- Outer Halo: Pause Layer -->
+  <circle cx="450" cy="350" r="280" fill="none" stroke="#7fd3ff" stroke-width="2"/>
+  <text x="450" y="640" fill="#7fd3ff" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Pause Layer Halo (Orbital field for substrate cooling and cognitive safety)
+  </text>
+
+</svg>
