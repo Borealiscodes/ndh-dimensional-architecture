@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="900" height="700" fill="#050814"/>
+
+  <!-- Title -->
+  <text x="450" y="60" fill="#ffffff" font-size="24" text-anchor="middle" font-family="sans-serif">
+    UMA Orbital Runtime Map
+  </text>
+
+  <!-- Core: Substrate / Emergence -->
+  <circle cx="450" cy="350" r="40" fill="#101624" stroke="#7fd3ff" stroke-width="2"/>
+  <text x="450" y="345" fill="#7fd3ff" font-size="14" text-anchor="middle" font-family="sans-serif">
+    Core
+  </text>
+  <text x="450" y="363" fill="#7fd3ff" font-size="11" text-anchor="middle" font-family="sans-serif">
+    (Substrate / Emergence)
+  </text>
+
+  <!-- Inner Orbit: Runtime Binding -->
+  <circle cx="450" cy="350" r="120" fill="none" stroke="#7fffaf" stroke-width="2"/>
+  <text x="450" y="210" fill="#7fffaf" font-size="16" text-anchor="middle" font-family="sans-serif">
+    Runtime Binding Orbit
+  </text>
+
+  <!-- Runtime Node -->
+  <circle cx="330" cy="350" r="32" fill="#141c2b" stroke="#7fffaf" stroke-width="2"/>
+  <text x="330" y="345" fill="#7fffaf" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Runtime
+  </text>
+  <text x="330" y="363" fill="#7fffaf" font-size="11" text-anchor="middle" font-family="sans-serif">
+    Binding
+  </text>
+
+  <!-- Runtime Labels -->
+  <text x="160" y="300" fill="#ffffff" font-size="12" font-family="sans-serif">• Attach mythic functions to substrate</text>
+  <text x="160" y="318" fill="#ffffff" font-size="12" font-family="sans-serif">• Manage execution context</text>
+  <text x="160" y="336" fill="#ffffff" font-size="12" font-family="sans-serif">• Maintain coherence across calls</text>
+  <text x="160" y="354" fill="#ffffff" font-size="12" font-family="sans-serif">• Enforce layer boundaries at runtime</text>
+  <text x="160" y="372" fill="#ffffff" font-size="12" font-family="sans-serif">• Prevent cross-engine contamination</text>
+
+  <!-- Middle Orbit: Expression Layer -->
+  <circle cx="450" cy="350" r="190" fill="none" stroke="#ffd27f" stroke-width="2"/>
+  <text x="450" y="130" fill="#ffd27f" font-size="16" text-anchor="middle" font-family="sans-serif">
+    Expression Layer Orbit
+  </text>
+
+  <!-- Expression Node -->
+  <circle cx="600" cy="350" r="32" fill="#141c2b" stroke="#ffd27f" stroke-width="2"/>
+  <text x="600" y="345" fill="#ffd27f" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Expression
+  </text>
+  <text x="600" y="363" fill="#ffd27f" font-size="11" text-anchor="middle" font-family="sans-serif">
+    Layer
+  </text>
+
+  <!-- Expression Labels -->
+  <text x="640" y="290" fill="#ffffff" font-size="12" font-family="sans-serif">• Render mythic states</text>
+  <text x="640" y="308" fill="#ffffff" font-size="12" font-family="sans-serif">• Present narrative outputs</text>
+  <text x="640" y="326" fill="#ffffff" font-size="12" font-family="sans-serif">• Translate engine behavior</text>
+  <text x="640" y="344" fill="#ffffff" font-size="12" font-family="sans-serif">• Maintain user-facing coherence</text>
+
+  <!-- Boundary Ring: Runtime Safety Boundary -->
+  <circle cx="450" cy="350" r="240" fill="none" stroke="#9ad0ff" stroke-width="2"/>
+  <text x="450" y="580" fill="#9ad0ff" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Runtime Safety Boundary
+  </text>
+  <text x="450" y="598" fill="#c0e8ff" font-size="11" text-anchor="middle" font-family="sans-serif">
+    Prevents unsafe calls, runaway execution, and cross-layer leakage.
+  </text>
+
+  <!-- Outer Halo: Pause Layer -->
+  <circle cx="450" cy="350" r="280" fill="none" stroke="#7fd3ff" stroke-width="2"/>
+  <text x="450" y="640" fill="#7fd3ff" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Pause Layer Halo (Orbital field for runtime deceleration and cognitive safety)
+  </text>
+
+</svg>
