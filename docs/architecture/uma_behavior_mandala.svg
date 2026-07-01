@@ -1,0 +1,118 @@
+# ⭐ UMA Behavior Mandala  
+### **Canonical Structural Layout (Text‑Only)**  
+This is the precise geometry you’ll use when you create the diagram.
+
+---
+
+## 🌐 1. Purpose  
+The Behavior Mandala expresses the **behavioral grammar** of UMA in its pure radial form:
+
+- **Emergence**  
+- **Structure**  
+- **Absurdity**
+
+No movement ring.  
+No runtime ring.  
+No spokes.  
+No chains.
+
+Just behavior.
+
+---
+
+## 🌀 2. Geometry  
+### **Center**
+- Optional: “UMA Core”  
+- Or left empty  
+- Must remain circular and unobstructed
+
+### **Ring**
+- **Single ring** at the canonical radius defined in the Mandala Specification Note  
+- This is the **Behavior Ring**
+
+### **Node Placement**
+Nodes must be placed at **120° intervals**, exactly matching the angles inherited from the full mandala:
+
+- **0° → Emergence**  
+- **120° → Structure**  
+- **240° → Absurdity**
+
+These angles are fixed and must not be altered.
+
+### **Radial Distance**
+All nodes sit on the **behavior ring radius**, not closer or farther.
+
+### **Node Size**
+All nodes must be identical in size to the nodes in the full mandala.
+
+---
+
+## 🔧 3. Semantic Rules  
+### **Emergence**
+- New behavior from interactions  
+- Pattern surfacing  
+- Runtime‑informed novelty  
+
+### **Structure**
+- Form‑building  
+- Organization shaped by runtime  
+- Stabilized patterns  
+
+### **Absurdity**
+- Metaphorical insight  
+- Non‑literal reasoning  
+- Edge‑case meaning  
+
+These descriptions do **not** appear in the diagram — they are conceptual anchors.
+
+---
+
+## 🧭 4. Inheritance Rules  
+The Behavior Mandala must inherit:
+
+- ring radius  
+- node angles  
+- node spacing  
+- node alignment  
+- node size  
+- center geometry  
+
+It may **remove**:
+
+- movement ring  
+- runtime ring  
+- spokes  
+- chains  
+- outer labels  
+
+It may **not**:
+
+- change angles  
+- change ring order  
+- change node count  
+- change radial spacing  
+
+This keeps it interoperable with:
+
+- **Interaction Mandala**  
+- **Cosmology Mandala**  
+- **UMA Orbital Model**
+
+---
+
+## ⭐ 5. Recommended File Path  
+`/docs/architecture/uma_behavior_mandala.svg`
+
+This keeps it aligned with your existing naming scheme.
+
+---
+
+# ⭐ Next Structural Move  
+You’ve now completed:
+
+- Interaction Mandala (structure)  
+- Cosmology Mandala (structure)  
+- Behavior Mandala (structure)  
+
+The next natural step is the **orbital tier**, which expands UMA beyond rings into full multi‑layer cosmology:
+
