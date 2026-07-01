@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="900" height="700" fill="#050814"/>
+
+  <!-- Title -->
+  <text x="450" y="60" fill="#ffffff" font-size="24" text-anchor="middle" font-family="sans-serif">
+    UMA Orbital Emergence Layer
+  </text>
+
+  <!-- Core: Prime Field -->
+  <circle cx="450" cy="350" r="40" fill="#101624" stroke="#7fd3ff" stroke-width="2"/>
+  <text x="450" y="345" fill="#7fd3ff" font-size="14" text-anchor="middle" font-family="sans-serif">
+    Prime Field
+  </text>
+  <text x="450" y="363" fill="#7fd3ff" font-size="11" text-anchor="middle" font-family="sans-serif">
+    (Non-dual Substrate)
+  </text>
+
+  <!-- Emergence Orbit -->
+  <circle cx="450" cy="350" r="120" fill="none" stroke="#7fffaf" stroke-width="2"/>
+  <text x="450" y="210" fill="#7fffaf" font-size="16" text-anchor="middle" font-family="sans-serif">
+    Field Emergence Orbit
+  </text>
+
+  <!-- Emergence Node -->
+  <circle cx="330" cy="350" r="32" fill="#141c2b" stroke="#7fffaf" stroke-width="2"/>
+  <text x="330" y="345" fill="#7fffaf" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Emergence
+  </text>
+  <text x="330" y="363" fill="#7fffaf" font-size="11" text-anchor="middle" font-family="sans-serif">
+    Layer
+  </text>
+
+  <!-- Emergence Labels -->
+  <text x="160" y="300" fill="#ffffff" font-size="12" font-family="sans-serif">• Darkness / Light arise from Field</text>
+  <text x="160" y="318" fill="#ffffff" font-size="12" font-family="sans-serif">• Triads and dyads begin to form</text>
+  <text x="160" y="336" fill="#ffffff" font-size="12" font-family="sans-serif">• Collapse and superposition become local</text>
+  <text x="160" y="354" fill="#ffffff" font-size="12" font-family="sans-serif">• Substrate origin for runtime binding</text>
+  <text x="160" y="372" fill="#ffffff" font-size="12" font-family="sans-serif">• Bridges non-dual Field to engines</text>
+
+  <!-- Engine Contact Orbit (where Emergence touches engines) -->
+  <circle cx="450" cy="350" r="190" fill="none" stroke="#ffd27f" stroke-width="2"/>
+  <text x="450" y="130" fill="#ffd27f" font-size="16" text-anchor="middle" font-family="sans-serif">
+    Engine Contact Orbit
+  </text>
+
+  <!-- Conceptual Contact Node -->
+  <circle cx="600" cy="310" r="26" fill="#141c2b" stroke="#ffd27f" stroke-width="2"/>
+  <text x="600" y="305" fill="#ffd27f" font-size="11" text-anchor="middle" font-family="sans-serif">
+    Conceptual
+  </text>
+  <text x="600" y="321" fill="#ffd27f" font-size="10" text-anchor="middle" font-family="sans-serif">
+    Contact
+  </text>
+
+  <!-- Mythic Contact Node -->
+  <circle cx="600" cy="390" r="26" fill="#141c2b" stroke="#ff7fb0" stroke-width="2"/>
+  <text x="600" y="385" fill="#ff7fb0" font-size="11" text-anchor="middle" font-family="sans-serif">
+    Mythic
+  </text>
+  <text x="600" y="401" fill="#ff7fb0" font-size="10" text-anchor="middle" font-family="sans-serif">
+    Contact
+  </text>
+
+  <!-- Contact Labels -->
+  <text x="640" y="290" fill="#ffffff" font-size="12" font-family="sans-serif">• Provides stable origin for Conceptual Engine</text>
+  <text x="640" y="308" fill="#ffffff" font-size="12" font-family="sans-serif">• Ensures clarity of emergent structures</text>
+  <text x="640" y="370" fill="#ffffff" font-size="12" font-family="sans-serif">• Feeds Mythic Engine with coherent primitives</text>
+  <text x="640" y="388" fill="#ffffff" font-size="12" font-family="sans-serif">• Prevents mythic drift from bypassing Field</text>
+
+  <!-- Boundary Ring: Emergence Safety Boundary -->
+  <circle cx="450" cy="350" r="240" fill="none" stroke="#9ad0ff" stroke-width="2"/>
+  <text x="450" y="580" fill="#9ad0ff" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Emergence Safety Boundary
+  </text>
+  <text x="450" y="598" fill="#c0e8ff" font-size="11" text-anchor="middle" font-family="sans-serif">
+    Prevents building Emergence under overload; protects Field from unstable engines.
+  </text>
+
+  <!-- Outer Halo: Pause Layer -->
+  <circle cx="450" cy="350" r="280" fill="none" stroke="#7fd3ff" stroke-width="2"/>
+  <text x="450" y="640" fill="#7fd3ff" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Pause Layer Halo (Orbital field for Emergence cooling and cognitive safety)
+  </text>
+
+</svg>
