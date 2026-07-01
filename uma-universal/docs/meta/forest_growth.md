@@ -163,6 +163,19 @@ Future growth documents may include:
 
 Each must reference this Growth Protocol.
 
+## 9. Growth Rules for Clearing & Memorial Nodes
+
+- Clearing and memorial documents:
+  - must not introduce new orbital mechanics
+  - must not alter radial ordering
+  - must remain low-velocity, reflection-focused
+  - must be referenced in `meta_index.md`
+  - must be logged in `forest_roots.md`
+  - may add new gentle paths in `forest_paths.md`
+  - must respect Pause Layer semantics
+
+These nodes extend the forest emotionally, not structurally.
+
 ---
 
 **This file is the ninth tree in the UMA Meta-Meta Forest.**
