@@ -1,9 +1,17 @@
-# Top-Level Workflow for UMA  
-### A Gentle, Bob-Ross Style Master Workflow for Borealis
+# Top-Level Workflow for UMA
+*A Gentle, Bob-Ross Style Master Workflow for Borealis*  
+**Guides Layer — User-Facing, Descriptive, Non-Governing**
+
+This workflow lives in the **Guides Layer**, not the Meta Layer.  
+It is a gentle, supportive path for interacting with UMA.  
+It does not define structure — it helps you walk the structure.
+
+---
 
 ## 1. Purpose
-This workflow gives you a calm, step-by-step way to work on UMA without pressure, collapse, or urgency.  
-It is the “happy little path” through the entire architecture — simple, steady, and friendly.
+This workflow gives you a calm, step-by-step way to work on UMA without pressure,
+collapse, or urgency. It is the “happy little path” through the entire
+architecture — simple, steady, and friendly.
 
 It is descriptive, not governing.  
 It is a guide, not a rule.  
@@ -14,23 +22,20 @@ It is a workflow, not a demand.
 ## 2. Step 1 — Choose Your Region
 Before doing anything, pause and choose the region you want to work in:
 
-- **[Constitutional Core](ca://s?q=Explain_structural_plane)**  
-- **[Operational Planes](ca://s?q=Generate_Dynamic_Plane)**  
-- **[Stability & Coherence Layers](ca://s?q=Generate_Integrative_Plane)**  
-- **[Membranes & Boundaries](ca://s?q=Generate_Release_Membrane_Constitutional)**  
-- **[Appendices & Ecologies](ca://s?q=Generate_Raw_Cognition_Appendix)**  
-- **[Meta Documents](ca://s?q=Explain_documentation_plane)**  
+- Constitutional Core  
+- Operational Planes  
+- Stability & Coherence Layers  
+- Membranes & Boundaries  
+- Appendices & Ecologies  
+- Meta Documents  
 
-Just pick one.  
-No pressure.  
-Like choosing which part of the canvas to paint today.
+Just pick one.
 
 ---
 
 ## 3. Step 2 — Identify the Gap
 Look gently at the region you chose.  
-Ask yourself:
-
+Ask yourself:  
 “What tiny gap do I want to fill?”
 
 Examples:
@@ -41,7 +46,7 @@ Examples:
 - a membrane that needs a release rule  
 
 Keep it small.  
-Bob Ross rule: **tiny strokes make big beauty.**
+Bob Ross rule: *tiny strokes make big beauty.*
 
 ---
 
@@ -62,11 +67,11 @@ Just pick the brush that feels kind.
 ---
 
 ## 5. Step 4 — Add One Gentle Stroke
-Write one small, clear, non‑coercive line.
+Write one small, clear, non-coercive line.
 
 Examples:
 - “This plane may not collapse into X.”  
-- “This boundary remains non‑interpretive.”  
+- “This boundary remains non-interpretive.”  
 - “This relationship must pass through the Integrative Plane.”  
 - “This clause preserves sovereignty.”  
 
@@ -95,14 +100,14 @@ Let the canvas breathe.
 
 ## 7. Step 6 — Stop Early
 Bob Ross rule:  
-**Stop before you think you’re finished.**
+Stop before you think you’re finished.
 
 Leaving space is part of the art.  
 UMA grows best when you don’t overfill the canvas.
 
 ---
 
-## 8. Step 7 — Commit the Change
+## 8. Step 7 — Commit Gently
 When the stroke feels right:
 
 - save the file  
@@ -120,7 +125,7 @@ Just a gentle commit.
 After each commit, return to Stillness.
 
 Stillness is part of the workflow.  
-It keeps UMA non‑collapsing, non‑accelerative, and ND‑safe.
+It keeps UMA non-collapsing, non-accelerative, and ND-safe.
 
 Stillness is where the next idea arrives.
 
@@ -147,12 +152,8 @@ It ensures:
 
 - small strokes  
 - clear boundaries  
-- non‑coercive pacing  
-- ND‑safe motion  
+- non-coercive pacing  
+- ND-safe motion  
 - structural stability  
-- sovereignty protection  
-- architectural clarity  
 
-It is the master workflow for building UMA.
-
-Version: 1.0 (Descriptive)
+This file lives in the **Guides Layer**, where gentle traversal begins.
