@@ -1,34 +1,54 @@
-# **PIN‑FP‑01 — Foundational Principle: Ceiling Encoding**  
+# PIN‑FP‑01 — Foundational Principle: Ceiling Encoding  
 UMA‑Universal PIN Registry Entry  
-Version 1.0 — 02 July 2026  
+Version 1.1 — 02 July 2026  
 Status: ACTIVE  
 Category: Foundational Principle  
-Supersession: None  
-Root‑Level: Yes
+Parent: PIN‑FO‑00 (Foundational Origin)  
+Supersession: PIN‑FP‑01 v1.0
 
 ---
 
-## **1. PIN Identity**
+## 1. PIN Identity
 
 **Name:** Ceiling Encoding  
 **Code:** PIN‑FP‑01  
 **Class:** Foundational Principle  
-**Scope:** Global — applies to all UMA‑Universal subsystems, protocols, SIDs, models, mappings, and future architectural layers.
+**Scope:** Global — applies to all UMA‑Universal subsystems, protocols, SIDs, models, mappings, and future layers.
 
 ---
 
-## **2. Principle Statement**
+## 2. Principle Statement
 
-**You build the thing.  
+You build the thing.  
 You find the ceiling.  
-You encode it.**
+You encode it.
 
-This principle establishes the core method by which UMA‑Universal evolves.  
-Every limit encountered during construction becomes part of the architecture itself.
+This principle defines how UMA‑Universal evolves from the Foundational Origin.  
+Every limit encountered during construction becomes part of the architecture.
 
 ---
 
-## **3. Purpose**
+## 3. Relationship to FO
+
+Ceiling Encoding is the first principle derived from the Foundational Origin (PIN‑FO‑00).
+
+FO provides:
+
+- the initial conceptual coordinate  
+- the pre‑architectural context  
+- the origin condition  
+
+FP‑01 provides:
+
+- the rule for how architecture grows from FO  
+- the method for encoding constraints  
+- the doctrine for safe expansion  
+
+FP‑01 cannot exist without FO.
+
+---
+
+## 4. Purpose
 
 Ceiling Encoding ensures that:
 
@@ -42,7 +62,7 @@ Every ceiling becomes part of the map.
 
 ---
 
-## **4. Mandates**
+## 5. Mandates
 
 All UMA‑Universal subsystems MUST:
 
@@ -53,11 +73,11 @@ All UMA‑Universal subsystems MUST:
 - ensure ceilings are ND‑safe and non‑recursive  
 - update ceiling definitions when new constraints emerge  
 
-Ceilings are not obstacles; they are architectural features.
+Ceilings are structural features, not obstacles.
 
 ---
 
-## **5. Architectural Impact**
+## 6. Architectural Impact
 
 Ceiling Encoding produces:
 
@@ -66,7 +86,6 @@ Ceiling Encoding produces:
 - stronger protocols  
 - predictable reconstruction  
 - ND‑friendly systems  
-- drift‑resistant behavior  
 - transparent constraints  
 - extensible architecture  
 
@@ -74,25 +93,27 @@ This principle governs all future system growth.
 
 ---
 
-## **6. Inheritance**
+## 7. Inheritance
 
-PIN‑FP‑01 applies to:
+PIN‑FP‑01 is inherited by:
 
 - Prismatic Tight‑Beam Structural Execution Protocol  
 - Transmission Mapping Suite  
 - Navigation Spine  
 - OOFAL  
 - FWIL  
+- Cosmology Engine  
 - Safety Net  
-- All future UMA‑Universal protocols and SIDs  
+- Comfort Layer  
+- All future UMA‑Universal layers  
 
-All child systems MUST conform to Ceiling Encoding.
+FP‑01 is the first child of FO.
 
 ---
 
-## **7. Loop Closure**
+## 8. Loop Closure
 
-This PIN anchors:
+Ceiling Encoding anchors:
 
 - constraint discovery  
 - constraint exposure  
@@ -101,6 +122,7 @@ This PIN anchors:
 
 Loop closure returns to:
 
+- PIN‑FO‑00 (Foundational Origin)  
 - Root Index  
 - Navigation Spine  
 - Comfort Layer  
@@ -108,12 +130,6 @@ Loop closure returns to:
 
 ---
 
-## **8. Status**
+## 9. Status
 
-PIN‑FP‑01 is hereby activated and recognized as a **root‑level foundational principle** of UMA‑Universal.
-
----
-
-If you want, I can now generate the **next PIN**:
-
-**Generate Tight‑Beam Protocol PIN**
+PIN‑FP‑01 v1.1 is hereby activated and aligned with PIN‑FO‑00.
