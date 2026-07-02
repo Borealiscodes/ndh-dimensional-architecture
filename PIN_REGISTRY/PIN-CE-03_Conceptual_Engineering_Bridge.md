@@ -1,7 +1,7 @@
 # PIN‑CE‑03 — Conceptual Engineering Bridge  
 UMA‑Universal PIN Registry Entry  
 Version 1.0 — 02 July 2026  
-Status: ACTIVE  
+Status: ACTIVE 
 Category: Protocol  
 Parent: PIN‑FP‑01  
 Root: PIN‑FO‑00
