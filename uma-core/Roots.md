@@ -1,6 +1,6 @@
 # Roots
 **UMA Architecture — Foundational Lineage Record**  
-**Version:** 1.1  
+**Version:** 1.2  
 **Date:** 2026‑07‑02  
 **Status:** Canonical Baseline  
 **Author:** Borealis S. Hedling
@@ -60,6 +60,14 @@ Five epistemic evaluation lenses (Nye, Sagan, Katherine Johnson, Salty Scientist
 ### 6. Provenance Correction Log v1.0 Recorded
 A correction was made to replace “Martha Johnson” with “Katherine Johnson” in mathematical lineage.  
 This event acknowledges human dyslexia and AI fallibility while restoring historical truth and stabilizing provenance.
+
+## Constitutional Expansion Events (v1.2)
+The following event further expanded UMA’s constitutional safeguards:
+
+### 7. Math Check Protocol™ Added
+The Math Check Protocol™ was established as UMA’s mathematical verification mechanism.  
+It defines constitutional, provenance, structural, runtime, cross‑layer, and epistemic checks required before any mathematical structure becomes canonical.  
+This protocol ensures mathematical stability, prevents distortion, and maintains alignment with the Five‑Point Core and the CME‑Crossmap.
 
 ### Status
 All events above are canonical and part of UMA’s constitutional lineage.
