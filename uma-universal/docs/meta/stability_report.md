@@ -46,6 +46,7 @@ UMA spans multiple conceptual planes:
 - mythic (symbolic)
 - narrative (interface)
 - safety (clearing/memorial)
+- guides (user-facing workflows)
 
 Stability requires that documents remain in their correct plane.
 
@@ -66,13 +67,14 @@ and overlapping documents. This protocol stabilizes multi-plane coherence,
 prevents index drift, and defines merge/move/deprecate/parallelize actions.
 
 Referenced in:
-- `meta_index.md`
-- `forest_roots.md`
+- meta_index.md
+- forest_roots.md
 
 ### 2026-07-02 — Meta Index Alignment
 The Meta Index was updated to:
 - include Horizon Layer
 - include Remembrance Layer
+- include Guides Layer
 - include Cross-Plane Governance
 - integrate pinned redundancy milestone
 - remove index redundancy
@@ -95,6 +97,16 @@ Two safety documents were added:
 
 These regulate conceptual velocity and provide emotional grounding.
 
+### 2026-07-02 — Workflow Template Relocated to Guides Layer
+The top-level workflow file (`top-level-workflow.md`) was moved from
+`docs/meta/` to `docs/guides/` to preserve plane integrity. The workflow is
+descriptive and user-facing, not a structural meta-layer document. Relocating
+it prevents meta-layer drift and aligns UMA with the Redundancy Protocol.
+
+Referenced in:
+- meta_index.md
+- forest_roots.md
+
 ---
 
 ## 4. Stability Checks
@@ -105,14 +117,16 @@ These regulate conceptual velocity and provide emotional grounding.
 - Horizon layer: stable  
 - Roots layer: stable  
 - Remembrance layer: stable  
+- Guides layer: stable  
 - Mythic plane: pending relocation of mythic index  
-- Workflow templates: pending relocation  
+- Workflow templates: resolved (moved to guides)
 
 ### 4.2 Cross-Plane Alignment
 - Meta ↔ Cartography: aligned  
 - Meta ↔ Mythic: partially aligned  
 - Meta ↔ Narrative: aligned  
 - Meta ↔ Safety: aligned  
+- Meta ↔ Guides: aligned  
 - Horizon ↔ All layers: aligned  
 
 ### 4.3 Conceptual Velocity
@@ -121,13 +135,13 @@ Velocity is currently:
 - medium in Cartography  
 - high in Mythic  
 - regulated in Safety  
+- gentle in Guides  
 - capped at Horizon  
 
 ### 4.4 Drift Detection
 Detected drift:
 - myth_scale_meta_index.md (misplaced plane)
 - orbital_meta_index.md (misplaced plane)
-- workflow template (misplaced plane)
 
 Resolution:
 - governed by Redundancy Protocol
@@ -159,6 +173,7 @@ When new documents are added:
 - update `meta_index.md`
 - update `forest_roots.md`
 - update this Stability Report
+- update `meta_meta_index.md`
 - apply the Redundancy Protocol
 - check Horizon compliance
 - check plane alignment
@@ -181,4 +196,3 @@ The Stability Report is the forest’s structural memory.
 It must remain clear, gentle, and coherent.
 
 All future stability actions must be logged here.
-
