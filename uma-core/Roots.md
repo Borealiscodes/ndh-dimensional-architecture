@@ -1,3 +1,43 @@
+# Roots
+**UMA Architecture — Foundational Lineage Record**  
+**Version:** 1.1  
+**Date:** 2026‑07‑02  
+**Status:** Canonical Baseline  
+**Author:** Borealis S. Hedling
+
+## Purpose
+The Roots define UMA’s foundational lineage. They record the origin events, constitutional anchors, and structural developments that shaped UMA’s architecture. Roots do not describe functionality; they preserve history, provenance, and truth.
+
+## Foundational Origins (v1.0)
+The following origin events established UMA’s initial structure:
+
+### 1. Core Principles Established
+Warmth, Conscience, Awareness, Truth, and Humility were defined as UMA’s constitutional foundation.
+
+### 2. Constitutional Layer Formed
+Roots, Pins, Influence Map, Timestamps, Audit Trails, and RFCs were established as governance organs.
+
+### 3. Engineering Layer Constructed
+Subsystem boundaries, runtime clock, substrate stack, orbital markers, interface layer, engines, and safety boundaries were defined.
+
+### 4. Runtime Layer Introduced
+Generative, Simulation, and Integration functions were established as UMA’s imagination runtime.
+
+### 5. Base Architecture Diagram Created
+The UMA Base Architecture SVG was created as the canonical visual representation of UMA’s topology.
+
+## Structural Clarifications (v1.0)
+The following clarifications stabilized UMA’s initial structure:
+
+### 1. Asymmetry Formalized
+UMA’s asymmetry was recognized as functional, load‑bearing, and constitutionally aligned.
+
+### 2. Non‑Duality Defined
+UMA’s integration principle was defined as non‑dual, non‑symmetric, and non‑ornamental.
+
+### 3. Cognitive Safety Anchored
+Truth anchoring, boundary integrity, and anti‑reification constraints were established.
+
 ## Constitutional Expansion Events (v1.1)
 The following events expanded UMA’s constitutional and mathematical foundations.  
 They are part of UMA’s lineage and must be preserved for stability and provenance.
@@ -24,3 +64,6 @@ This event acknowledges human dyslexia and AI fallibility while restoring histor
 ### Status
 All events above are canonical and part of UMA’s constitutional lineage.
 
+## Canonical Statement
+**The Roots preserve UMA’s origin, expansion, and correction history.  
+They ensure that UMA remains traceable, truthful, stable, and constitutionally aligned across all future developments.**
