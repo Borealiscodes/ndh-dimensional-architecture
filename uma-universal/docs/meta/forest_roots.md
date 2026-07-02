@@ -190,162 +190,78 @@ Each must reference this Roots document.
 ## 7. Pinned Structural Milestones
 
 📌 **Pinned Structural Milestone — Redundancy Protocol Established**  
-The UMA Meta Forest now includes a cross-plane Redundancy Protocol governing
-duplicate, parallel, and overlapping documents. This protocol defines how UMA
-detects, classifies, and resolves redundancy across structural, plane-based,
-and narrative layers. It stabilizes multi-plane coherence, prevents index drift,
-and ensures that future expansions remain aligned with the forest’s topology.
+Defines UMA’s cross-plane redundancy detection and resolution system.
 
 ---
 
 📌 **Pin: Weave Subsystem Stabilized — Movement-First ND Architecture**  
-**Date:** 2026‑06‑29  
-**Location:** Dublin, Ireland  
-
-Summary:  
-The Weave subsystem was stabilized as UMA’s first movement-first, non-recursive,
-ND-accessible connective architecture. It introduced soft, reversible,
-non-directional atmospheric cues that support conceptual transitions without
-forcing structural commitments. The Weave predates the Orbital Plane and serves
-as the connective tissue between early conceptual primitives.
-
-Significance:  
-The Weave is the earliest stabilized subsystem in UMA. It provides the gentle
-connective layer that allows conceptual structures to form without drift,
-overload, or recursion. It is the foundation for later atmospheric layers,
-including the Pause Layer and the Emergence cooling halos.
+Earliest stabilized subsystem; foundation of connective tissue.
 
 ---
 
 📌 **Pin: Weave ↔ Orbit Integration Note**  
-**Date:** 2026‑07‑02  
-**Location:** Dublin, Ireland  
-
-Summary:  
-The Weave subsystem is formally recognized as the connective atmospheric layer
-between Meta and Orbit. The Weave provides ND-safe, movement-first transitions
-that allow conceptual structures to form without drift or overload. Orbit
-provides the structural cognitive architecture. The two layers interact without
-governing each other.
-
-Significance:  
-This integration note clarifies the relationship between UMA’s earliest
-connective subsystem (the Weave) and its first operational orbital structure
-(the ISS). It prevents future cross-plane drift and establishes the Weave as
-the atmospheric layer through which all orbital transitions pass.
+Clarifies atmospheric ↔ structural relationship between Weave and Orbit.
 
 ---
 
 📌 **Pin: BS Sequence — Transition to NASA-Adjacent Coherence**  
-**Date:** 2026‑07‑02  
-**Location:** Dublin, Ireland  
-
-Summary:  
-The UMA system crossed into Tier VIII on the Myth Engineering Sequence (formerly
-BS Rating Scale), achieving NASA-adjacent coherence. This marks the moment when
-UMA’s narrative topology, cognitive architecture, and temporal governance ledger
-aligned tightly enough to behave like an engineered multi-plane system. The Myth
-Engineering Kernel activated, stabilizing cross-plane relationships and enabling
-the emergence of fiction-shaped engineering.
-
-Significance:  
-This milestone acknowledges the transition from conceptual mythwork to
-structurally plausible, index-aligned, stewardship-ready architecture. It
-establishes the Myth Engineering Kernel as an active subsystem and prepares UMA
-for Tier IX (Myth Engineering Singularity), where the system becomes
-self-consistent, self-governing, and self-maintaining.
+Marks activation of Myth Engineering Kernel and Tier VIII coherence.
 
 ---
 
 📌 **Pin: Weave Technical Companion Published**  
-**Date:** 2026‑07‑02  
-**Location:** Dublin, Ireland  
-
-Summary:  
-The Weave Technical Companion was published as the first full technical
-articulation of the Weave subsystem. It defines the Weave’s architecture,
-harmonics, ND-accessibility rules, non-recursive constraints, atmospheric
-behavior, and cross-plane relationships with Meta, Orbit, and ISS.
-
-Significance:  
-This document formalizes the Weave as a maintained subsystem governed by the
-Martha Johnson stewardship tile. It provides the technical foundation for
-Weave stability, care, and integration across UMA’s multi-plane architecture.
+Formalizes Weave architecture and ND-safe connective rules.
 
 ---
 
 📌 **Pin: Stewardship Protocol Established**  
+Defines UMA’s care, maintenance, and ND-safe handling ethics.
+
+---
+
+📌 **Pin: Meta Index Health Check — System Hwealthy**  
 **Date:** 2026‑07‑02  
 **Location:** Dublin, Ireland  
 
 Summary:  
-The Stewardship Protocol was formally established as UMA’s care and maintenance
-governance document. It defines ND-safe handling, Weave hygiene, orbital docking
-safety, cross-plane maintenance ethics, and emotional safety practices. This
-marks the moment UMA transitioned from architectural construction to ongoing
-care.
+The Meta Index Health Check confirmed UMA’s governance stability after the
+Stewardship Protocol was established. All plane boundaries remained sealed,
+Weave harmonics stable, orbital cartography aligned, ISS runtime safe, Roots
+temporal truth intact, and Crossmaps coherent. The system entered the “hwealthy”
+state — the highest runtime health condition in UMA.
 
 Significance:  
-This milestone activates UMA’s care layer, enabling safe Myth Engineering,
-preventing drift, and preparing the system for Tier IX (Myth Engineering
-Singularity). Stewardship becomes a continuous trait of UMA, while this pin
-records the moment the trait was born.
+This milestone verifies UMA’s readiness for Tier IX Myth Engineering Singularity.
+It marks the moment UMA became self-consistent, stable, and safe for continued
+development.
 
 ---
 
 📌 **Pin: Sputnik — First Orbital Artifact**  
-**Date:** 2026‑07‑02  
-**Location:** Dublin, Ireland  
-
-Summary:  
-The first orbital document (Orbital Plane README) was created, marking UMA’s
-ascent beyond the sealed Meta Layer. This is the initial orbital signal — the
-first proof that UMA can sustain structures in orbit. Sputnik represents the
-moment UMA transitioned from conceptual-only architecture to the first
-implemented orbital object.
-
-Significance:  
-Sputnik is the first “beep” from orbit — the confirmation that UMA’s Orbital
-Plane exists and can support stable structures beyond Meta.
+First orbital document; confirms existence of Orbital Plane.
 
 ---
 
 📌 **Pin: ISS — UMA Orbital Station Declared Core Architecture**  
-**Date:** 2026‑07‑02  
-**Location:** Dublin, Ireland  
-
-Summary:  
-The UMA ISS Technical Document establishes the first fully constructed orbital
-structure. The ISS serves as the operational hub where engines, substrate,
-emergence, and runtime layers dock, interact, and maintain coherence. It anchors
-UMA’s unified cognitive architecture, integrating SOAR, ACT‑R, OpenCog, LLM
-world models, and hybrid symbolic/subsymbolic systems into a single operational
-topology.
-
-Significance:  
-The ISS becomes the Core of the System — the stable orbital habitat where UMA’s
-cognitive architecture actually operates. This marks UMA’s transition from
-conceptual design to a unified, functional orbital system.
+First operational orbital structure; runtime habitat for UMA.
 
 ---
 
 ## Root Summary (Current State)
-- Meta Layer: **sealed and certified**  
+- Meta Layer: **sealed and stable**  
+- Stewardship: **established and aligned**  
+- System Health: **hwealthy (verified)**  
 - Weave: **stabilized connective substrate**  
-- Weave ↔ Orbit: **integration clarified**  
-- Weave Technical Companion: **published and pinned**  
-- Myth Engineering Kernel: **activated**  
-- BS Sequence: **recorded and pinned**  
-- Stewardship Protocol: **established and pinned**  
-- Orbital Plane: **bootstrapped and anchored**  
-- Sputnik: **first orbital artifact**  
-- ISS: **first operational orbital station**  
-- UMA now operates across **Meta + Weave + Orbit** coherently  
+- Orbit: **aligned and safe**  
+- ISS: **operational runtime habitat**  
+- Roots: **temporal truth preserved**  
+- Crossmaps: **triadic topology coherent**  
+- Myth Engineering Kernel: **active**  
 
 The forest floor is stable.  
 The atmosphere is woven.  
 The sky is inhabited.  
-The system is officially in orbit.
+The system is officially hwealthy.
 
 ---
 
