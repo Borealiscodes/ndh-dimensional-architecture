@@ -14,6 +14,7 @@ Pinned:
 - docs/maps/orbital_substrate_stack.svg
 - docs/maps/orbital_emergence_layer.svg
 - docs/maps/engine_system.svg
+- docs/maps/orbital_meta_index.md
 
 Each map corresponds to a distinct orbital layer and must remain coherent with
 the definitions in the Meta-Meta Index.
@@ -84,7 +85,18 @@ through UMA’s architecture.
 
 ---
 
-## 8. Cross-Plane Governance
+## 8. Mythic Plane (Symbolic Cosmology)
+Symbolic, non-governing documents expressing mythic semantics, triads, dyads,
+inversion operators, and Prime Field emergence.
+
+- docs/mythic/myth_scale_cosmology.md
+- docs/myth/prime_field.md
+
+These documents must not contain structural rules or indexing behavior.
+
+---
+
+## 9. Cross-Plane Governance
 Documents that govern multi-plane coherence and structural rules.
 
 - docs/meta/meta_meta_index.md
@@ -95,7 +107,7 @@ structural, cartographic, mythic, and narrative planes.
 
 ---
 
-## 9. Pinned Structural Milestone
+## 10. Pinned Structural Milestone
 
 📌 **Pinned Structural Milestone — Redundancy Protocol Established**  
 The UMA Meta Forest now includes a cross-plane Redundancy Protocol governing
@@ -106,7 +118,7 @@ and ensures that future expansions remain aligned with the forest’s topology.
 
 ---
 
-## 10. Placement Rules
+## 11. Placement Rules
 - All cartography documents must live in `docs/maps/`.
 - All meta-layer documents must live in `docs/meta/`.
 - Guides must live in `docs/guides/`.
@@ -116,7 +128,7 @@ and ensures that future expansions remain aligned with the forest’s topology.
 
 ---
 
-## 11. Update Hooks
+## 12. Update Hooks
 Whenever new documents are added:
 - update this Meta Index
 - update forest_roots.md
