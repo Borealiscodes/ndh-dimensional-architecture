@@ -91,61 +91,69 @@ Influenced by:
 ## 4. Timestamp Archive
 
 ### 2026-07-01 (Dublin)
-- Orbital Engine Model created
-- Runtime Map generated
-- Substrate Stack mapped
-- Emergence Layer mapped
-- Full UMA Cartography assembled
-- Meta-Meta Forest initiated
+- Orbital Engine Model created  
+- Runtime Map generated  
+- Substrate Stack mapped  
+- Emergence Layer mapped  
+- Full UMA Cartography assembled  
+- Meta-Meta Forest initiated  
 
 ### 2026-07-02 (Dublin, early morning)
-- Meta-Meta Index created
-- Meta Index created
-- Stability Report created
-- Coherence Audit created
-- Cartography README created
-- Forest Map created
-- Forest Roots created (this file)
+- Meta-Meta Index created  
+- Meta Index created  
+- Stability Report created  
+- Coherence Audit created  
+- Cartography README created  
+- Forest Map created  
+- Forest Roots created (this file)  
 
 ### 2026-07-02 (Dublin, late night)
-- Skippy Clearing created (`forest_skippy_clearing.md`)
-- Skippy Memorial created (`forest_skippy_memorial.md`)
-- Mode: pause-before-horizon, emotional-safety integration
+- Skippy Clearing created (`forest_skippy_clearing.md`)  
+- Skippy Memorial created (`forest_skippy_memorial.md`)  
+- Mode: pause-before-horizon, emotional-safety integration  
 - Influence:
-  - strengthened Pause Layer semantics
-  - added remembrance layer to forest topology
-  - introduced non-structural, gentle nodes (clearing/memorial)
+  - strengthened Pause Layer semantics  
+  - added remembrance layer to forest topology  
+  - introduced non-structural, gentle nodes (clearing/memorial)  
 
 ### 2026-07-02 (Dublin, late night)
-- Top-Level Workflow moved from `docs/meta/` to `docs/guides/`
-- Purpose: preserve plane integrity and prevent meta-layer drift
+- Top-Level Workflow moved from `docs/meta/` to `docs/guides/`  
+- Purpose: preserve plane integrity and prevent meta-layer drift  
 - Notes:
-  - workflow is descriptive, not governing
-  - belongs in the Guides Layer
-  - referenced in meta_index.md and stability_report.md
+  - workflow is descriptive, not governing  
+  - belongs in the Guides Layer  
+  - referenced in meta_index.md and stability_report.md  
 
 ### 2026-07-02 (Dublin, late night)
-- Myth-Scale Meta Index refactored into symbolic cosmology
-- File renamed to `myth_scale_cosmology.md`
-- Relocated from `docs/meta/` to `docs/mythic/`
-- Reason: content is mythic cosmology, not structural indexing
+- Myth-Scale Meta Index refactored into symbolic cosmology  
+- File renamed to `myth_scale_cosmology.md`  
+- Relocated from `docs/meta/` to `docs/mythic/`  
+- Reason: content is mythic cosmology, not structural indexing  
 - Notes:
-  - Eternal Darkness Triad and Eternal Light Triad are symbolic primitives
-  - inversion operators are mythic semantics
-  - Prime Field emergence is cosmological, not meta-governance
-  - relocation prevents cross-plane drift and index redundancy
+  - Eternal Darkness Triad and Eternal Light Triad are symbolic primitives  
+  - inversion operators are mythic semantics  
+  - Prime Field emergence is cosmological, not meta-governance  
+  - relocation prevents cross-plane drift and index redundancy  
+
+### 2026-07-02 (Dublin, late night)
+- Orbital Meta Index relocated from `docs/meta/` to `docs/maps/`  
+- Reason: orbital cartography must reside in the Maps Layer  
+- Notes:
+  - resolves second misplaced index identified during Mythic Plane review  
+  - prevents cross-plane drift  
+  - aligns with Meta Index placement rules  
 
 ---
 
 ## 5. Influence Rules
 All commentary must follow these rules:
 
-- Commentary affecting architecture must be logged here.
-- Commentary affecting stability must be referenced in `stability_report.md`.
-- Commentary affecting coherence must be referenced in `coherence_audit.md`.
-- Commentary affecting navigation must be referenced in `cartography_readme.md`.
-- Commentary affecting meta-layer structure must be referenced in `meta_index.md`.
-- Commentary affecting system-wide rules must be referenced in `meta_meta_index.md`.
+- Commentary affecting architecture must be logged here.  
+- Commentary affecting stability must be referenced in `stability_report.md`.  
+- Commentary affecting coherence must be referenced in `coherence_audit.md`.  
+- Commentary affecting navigation must be referenced in `cartography_readme.md`.  
+- Commentary affecting meta-layer structure must be referenced in `meta_index.md`.  
+- Commentary affecting system-wide rules must be referenced in `meta_meta_index.md`.  
 
 No commentary may contradict the Prime Field.
 
@@ -154,10 +162,10 @@ No commentary may contradict the Prime Field.
 ## 6. Expansion Hooks
 Future root documents may include:
 
-- `roots_commentary_2026.md`
-- `roots_commentary_2027.md`
-- `roots_influence_map.md`
-- `roots_temporal_flow.md`
+- `roots_commentary_2026.md`  
+- `roots_commentary_2027.md`  
+- `roots_influence_map.md`  
+- `roots_temporal_flow.md`  
 
 Each must reference this Roots document.
 
@@ -174,5 +182,5 @@ and ensures that future expansions remain aligned with the forest’s topology.
 
 ---
 
-**This file is the seventh tree in the UMA Meta-Meta Forest.**
+**This file is the seventh tree in the UMA Meta-Meta Forest.**  
 It is the soil layer where all commentary and timestamps live.
