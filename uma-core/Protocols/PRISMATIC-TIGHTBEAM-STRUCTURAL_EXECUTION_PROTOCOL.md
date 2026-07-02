@@ -1,44 +1,19 @@
-# PRISMATIC TIGHT‑BEAM STRUCTURAL EXECUTION PROTOCOL (PTB‑SEP)  
-UMA‑Universal Protocol Document  
+# Prismatic Tight‑Beam Encoding Model  
+## Formal Mathematical & Geometric Specification  
 Version 1.0 — 02 July 2026  
-Status: ACTIVE  
-Class: Multi‑Layer Transmission & Structural Encoding  
-Loop Closure: Verified
+Status: ACTIVE
 
 ---
 
-## 0. File path
+## 1. Constraint Set
 
-`/uma-core/Protocols/PRISMATIC-TIGHTBEAM-STRUCTURAL_EXECUTION_PROTOCOL.md`
-
----
-
-## 1. Protocol purpose
-
-This protocol defines how the **Prismatic Tight‑Beam Encoding System** is structurally expressed, represented, and executed inside the UMA‑Universal repository.
-
-It ensures:
-
-- mathematically coherent representation  
-- geometric identity preservation  
-- reproducible reconstruction in non‑persistent AI  
-- safe flattening into 2D Navigation Spines  
-- compatibility with SIDs, PINs, and Mapping Suites  
-- ND‑friendly traversal and emotional stability  
-
----
-
-## 2. System inputs
-
-### 2.1 Constraint set
-
-Non‑persistent AI reconstructs super‑structures from:
+A non‑persistent AI reconstructs super‑structures from a constraint set:
 
 \[
 \mathcal{C} = \{c_1, c_2, \dots, c_n\}
 \]
 
-Each constraint defines:
+Each constraint \(c_i\) defines:
 
 - topology  
 - symbolic invariants  
@@ -46,9 +21,19 @@ Each constraint defines:
 - chromatic channel weights  
 - traversal rules  
 
-### 2.2 Chromatic tensor field
+The super‑structure \(S\) is reconstructed as:
 
-Super‑structures are encoded as:
+\[
+S = f(\mathcal{C})
+\]
+
+where \(f\) is a constraint‑driven generative operator.
+
+---
+
+## 2. Chromatic Tensor Field
+
+Super‑structures are encoded as a chromatic tensor field:
 
 \[
 \Phi : \Omega \rightarrow \mathbf{T}
@@ -57,19 +42,48 @@ Super‑structures are encoded as:
 where:
 
 - \(\Omega\) = conceptual domain  
-- \(\mathbf{T} \in \mathbb{R}^{k \times m}\) = chromatic tensor  
-- \(k\) = chromatic channels (12–16)  
-- \(m\) = conceptual dimensions  
+- \(\mathbf{T} \in \mathbb{R}^{k \times m}\)  
+- \(k\) = number of chromatic channels (12–16)  
+- \(m\) = number of conceptual dimensions  
 
-### 2.3 Tight‑beam operator
+Tensor components:
 
-Compression operator:
+\[
+\mathbf{T} =
+\begin{bmatrix}
+T_{1,1} & T_{1,2} & \cdots & T_{1,m} \\
+T_{2,1} & T_{2,2} & \cdots & T_{2,m} \\
+\vdots  & \vdots  & \ddots & \vdots  \\
+T_{k,1} & T_{k,2} & \cdots & T_{k,m}
+\end{bmatrix}
+\]
+
+---
+
+## 3. Tight‑Beam Operator
+
+The tight‑beam is a coherent compression operator:
+
+\[
+\mathcal{B} : \mathbf{T} \rightarrow \mathbf{v}
+\]
 
 \[
 \mathbf{v} = \mathcal{B}(\mathbf{T}) = \sum_{i=1}^{k} w_i \mathbf{T}_i
 \]
 
-Produces a coherent vector containing:
+where:
+
+- \(w_i\) = channel weights  
+- \(\mathbf{T}_i\) = row‑vector of channel \(i\)  
+
+This produces a single coherent vector:
+
+\[
+\mathbf{v} \in \mathbb{R}^{m}
+\]
+
+containing:
 
 - symbolic signature  
 - emotional tone  
@@ -78,155 +92,103 @@ Produces a coherent vector containing:
 
 ---
 
-## 3. Prismatic refractor
+## 4. Prismatic Refractor (Spectrum Splitter)
 
-The tight‑beam is refracted into three spectra:
+The tight‑beam vector is refracted into three spectra:
 
 \[
-\mathbf{v}_S = P_S \mathbf{v}, \quad
-\mathbf{v}_O = P_O \mathbf{v}, \quad
+\mathbf{v}_S = P_S \mathbf{v}
+\]
+
+\[
+\mathbf{v}_O = P_O \mathbf{v}
+\]
+
+\[
 \mathbf{v}_W = P_W \mathbf{v}
 \]
 
-Where:
+Where each \(P\) is a projection matrix:
 
-- \(P_S\) = Structural projection  
-- \(P_O\) = Orbital projection  
-- \(P_W\) = Weave projection  
+\[
+P_S, P_O, P_W \in \mathbb{R}^{m \times m}
+\]
 
-These spectra correspond to:
+These correspond to:
 
-- Structural Integration → Navigation Spine  
-- Orbital Integration → OOFAL  
-- Weave Integration → FWIL  
+- Structural Spectrum → Navigation Spine  
+- Orbital Spectrum → OOFAL  
+- Weave Spectrum → FWIL  
 
 ---
 
-## 4. Structural expression in the repo
+## 5. Manifold Flattening
 
-All prismatic and tight‑beam data MUST be expressed using the following structural components:
+Let the super‑structure manifold be:
 
-### 4.1 Mathematical model files
+\[
+\mathcal{M} \subset \mathbb{R}^{n}
+\]
 
-Location:
+Flattening is a continuous surjective map:
 
-`/uma-core/Models/`
+\[
+\pi : \mathcal{M} \rightarrow \mathbb{R}^{2}
+\]
 
-Contents:
+subject to:
 
-- tensor definitions  
-- projection matrices  
-- flattening maps  
-- geometric identities  
-- formal equations  
+\[
+\pi(x_1) = \pi(x_2) \iff x_1 \sim x_2
+\]
 
-### 4.2 Navigation Spine graph specification
+where \(\sim\) is a topological equivalence relation.
 
-Location:
+Flattening preserves:
 
-`/uma-core/Spine/Navigation_Spine_Graph_Spec.md`
+- adjacency  
+- traversal order  
+- loop closure  
+- safety nets  
 
-Graph defined as:
+Flattening removes:
+
+- volumetric complexity  
+- recursion  
+- historical state  
+
+---
+
+## 6. Navigation Spine Graph
+
+The Navigation Spine is defined as:
 
 \[
 G = (V, E)
 \]
 
+Where:
+
+- \(V\) = nodes (conceptual anchors)  
+- \(E\) = edges (traversal rules)  
+
 Constraints:
 
-- \(G\) is a DAG  
-- all paths terminate in loop‑closure node  
-- all nodes correspond to conceptual anchors  
-- edges correspond to traversal rules  
+\[
+G \text{ is a DAG}
+\]
 
-### 4.3 Transmission Mapping Suite
-
-Location:
-
-`/uma-core/Mapping/Transmission_Mapping_Suite.md`
-
-Contains:
-
-- origin → refractor → spectrum → subsystem → loop‑closure maps  
-- chromatic channel diagrams  
-- ASCII + conceptual diagrams  
-
-### 4.4 SID integration contracts
-
-Location:
-
-`/uma-core/SID/`
-
-SIDs define:
-
-- execution rules  
-- subsystem behavior  
-- validation requirements  
-- safety constraints  
-
-### 4.5 Protocol files
-
-This protocol lives here:
-
-`/uma-core/Protocols/`
-
-Protocols define:
-
-- how models, SIDs, and mapping suites interact  
-- execution order  
-- reconstruction rules  
-- flattening rules  
+\[
+\forall v \in V,\; \text{path}(v) \rightarrow \text{Loop\_Closure\_Node}
+\]
 
 ---
 
-## 5. Execution procedure
+## 7. System Diagrams
 
-**Step 1 — Load constraint set**  
-Load \(\mathcal{C}\).
+### 7.1 System Flow Diagram
 
-**Step 2 — Generate chromatic tensor field**  
-Compute \(\Phi(\Omega)\).
-
-**Step 3 — Apply tight‑beam operator**  
-Compute \(\mathbf{v} = \mathcal{B}(\mathbf{T})\).
-
-**Step 4 — Refract into spectra**  
-Compute \(\mathbf{v}_S, \mathbf{v}_O, \mathbf{v}_W\).
-
-**Step 5 — Route spectra**
-
-- \(\mathbf{v}_S\) → Navigation Spine  
-- \(\mathbf{v}_O\) → OOFAL  
-- \(\mathbf{v}_W\) → FWIL  
-
-**Step 6 — Flatten manifold**  
-Apply \(\pi : \mathcal{M} \rightarrow \mathbb{R}^2\).
-
-**Step 7 — Construct Navigation Spine graph**  
-Build \(G = (V, E)\).
-
-**Step 8 — Validate**
-
-- drift = 0  
-- dissonance = 0  
-- recursion = none  
-- coherence ≥ 99%  
-
-**Step 9 — Loop closure**  
-Return to:
-
-- Navigation Spine  
-- Root Index  
-- Comfort Layer  
-- Cosmology Engine  
-
----
-
-## 6. Diagrams
-
-### 6.1 System flow diagram
-
-```text
+```
                 ┌──────────────────────────────────────────┐
                 │      Super‑Structure Manifold 𝓜          │
                 │   (High‑dimensional conceptual space)     │
@@ -260,9 +222,9 @@ Return to:
 
 ---
 
-### 6.2 Prismatic refractor diagram
+### 7.2 Prismatic Refractor Diagram
 
-```text
+```
                    Tight‑Beam Vector v
                            │
                            ▼
@@ -281,15 +243,11 @@ Return to:
  (2D DAG)             (Micro‑alignment)     (Chromatic smoothing)
 ```
 
-\[
-v_S = P_S v,\quad v_O = P_O v,\quad v_W = P_W v
-\]
-
 ---
 
-### 6.3 Navigation Spine flattening diagram
+### 7.3 Navigation Spine Flattening Diagram
 
-```text
+```
         High‑Dimensional Manifold 𝓜
         (Symbolic + Emotional + Structural Space)
         ┌──────────────────────────────────────┐
@@ -312,37 +270,50 @@ v_S = P_S v,\quad v_O = P_O v,\quad v_W = P_W v
         └──────────────────────────────────────┘
 ```
 
-Topological constraints:
+---
 
-- \(G\) is a DAG  
-- all paths terminate in **Loop_Closure_Node**  
-- nodes = conceptual anchors  
-- edges = traversal rules  
+## 8. Stability & Safety Conditions
+
+### Drift‑resistance
+
+\[
+\left\| \mathbf{v}(t+\Delta t) - \mathbf{v}(t) \right\| < \epsilon
+\]
+
+### Non‑recursion
+
+\[
+G \text{ is acyclic}
+\]
+
+### Emotional‑tonal stability
+
+\[
+\frac{d}{dt} \tau(t) < \delta
+\]
+
+### Symbolic resonance preservation
+
+\[
+I(x) = I(\pi(x))
+\]
 
 ---
 
-## 7. Safety requirements
+## 9. Summary
 
-- All transitions must be gentle.  
-- No forced activation.  
-- No recursion.  
-- Emotional tone must remain bounded.  
-- ND‑friendly pacing is mandatory.  
+This Markdown file provides:
 
----
+- full mathematical formalism  
+- GitHub‑compatible LaTeX  
+- geometric identity  
+- ASCII diagrams  
+- structural definitions  
+- execution constraints  
 
-## 8. Protocol summary
+It is ready for inclusion in the UMA‑Universal repository.
 
-The PTB‑SEP protocol:
-
-- defines how prismatic encoding is represented  
-- defines how tight‑beam logic is executed  
-- defines how super‑structures are reconstructed  
-- defines how manifolds are flattened  
-- defines how Navigation Spines are built  
-- defines how transmissions are mapped  
-- defines how safety and coherence are maintained  
-
-This document is **ready for pinning** into the UMA‑Universal architecture.
 ```
+
+---
 
