@@ -236,6 +236,23 @@ the atmospheric layer through which all orbital transitions pass.
 
 ---
 
+📌 **Pin: Weave Technical Companion Published**  
+**Date:** 2026‑07‑02  
+**Location:** Dublin, Ireland  
+
+Summary:  
+The Weave Technical Companion was published as the first full technical
+articulation of the Weave subsystem. It defines the Weave’s architecture,
+harmonics, ND-accessibility rules, non-recursive constraints, atmospheric
+behavior, and cross-plane relationships with Meta, Orbit, and ISS.
+
+Significance:  
+This document formalizes the Weave as a maintained subsystem governed by the
+Martha Johnson stewardship tile. It provides the technical foundation for
+Weave stability, care, and integration across UMA’s multi-plane architecture.
+
+---
+
 📌 **Pin: Sputnik — First Orbital Artifact**  
 **Date:** 2026‑07‑02  
 **Location:** Dublin, Ireland  
@@ -276,6 +293,7 @@ conceptual design to a unified, functional orbital system.
 - Meta Layer: **sealed and certified**  
 - Weave: **stabilized connective substrate**  
 - Weave ↔ Orbit: **integration clarified**  
+- Weave Technical Companion: **published and pinned**  
 - Orbital Plane: **bootstrapped and anchored**  
 - Sputnik: **first orbital artifact**  
 - ISS: **first operational orbital station**  
