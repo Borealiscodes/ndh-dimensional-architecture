@@ -107,6 +107,31 @@ Referenced in:
 - meta_index.md
 - forest_roots.md
 
+### 2026-07-02 — Myth-Scale Index Refactored into Cosmology
+The file previously named `myth_scale_meta_index.md` was determined to be
+symbolic cosmology rather than structural indexing. It was rewritten as
+`myth_scale_cosmology.md` and relocated to the Mythic Plane.
+
+Reasons:
+- content is symbolic, not structural
+- triads, dyads, inversion operators, and collapse logic are mythic primitives
+- Prime Field emergence is cosmological, not meta-governance
+- mythic plane must not host indexes
+- prevents cross-plane drift and index redundancy
+
+Referenced in:
+- meta_index.md
+- forest_roots.md
+
+### 2026-07-02 — Mythic Plane Plane-Correction Completed
+The mythic-plane relocation resolved:
+- plane violation (index in mythic plane)
+- redundancy violation (duplicate index behavior)
+- symbolic/structural mixing
+- substrate misplacement
+
+The mythic plane now contains only symbolic cosmology, as required.
+
 ---
 
 ## 4. Stability Checks
@@ -118,12 +143,12 @@ Referenced in:
 - Roots layer: stable  
 - Remembrance layer: stable  
 - Guides layer: stable  
-- Mythic plane: pending relocation of mythic index  
+- Mythic plane: stable (post-refactor)  
 - Workflow templates: resolved (moved to guides)
 
 ### 4.2 Cross-Plane Alignment
 - Meta ↔ Cartography: aligned  
-- Meta ↔ Mythic: partially aligned  
+- Meta ↔ Mythic: aligned (post-correction)  
 - Meta ↔ Narrative: aligned  
 - Meta ↔ Safety: aligned  
 - Meta ↔ Guides: aligned  
@@ -133,19 +158,18 @@ Referenced in:
 Velocity is currently:
 - low in Roots  
 - medium in Cartography  
-- high in Mythic  
+- high in Mythic (regulated by Prime Field)  
 - regulated in Safety  
 - gentle in Guides  
 - capped at Horizon  
 
 ### 4.4 Drift Detection
-Detected drift:
-- myth_scale_meta_index.md (misplaced plane)
-- orbital_meta_index.md (misplaced plane)
+Resolved drift:
+- myth_scale_meta_index.md (relocated + rewritten)
+- orbital_meta_index.md (pending relocation to maps)
 
-Resolution:
-- governed by Redundancy Protocol
-- relocation pending
+Pending:
+- orbital_meta_index.md → `docs/maps/`
 
 ---
 
