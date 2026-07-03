@@ -1,0 +1,74 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Core Circle -->
+  <circle cx="600" cy="600" r="80" fill="none" stroke="black" stroke-width="2" />
+  <text x="600" y="600" font-size="20" text-anchor="middle" alignment-baseline="middle">
+    CORE: ETHICS
+  </text>
+
+  <!-- Cognitive Ring -->
+  <circle cx="600" cy="600" r="220" fill="none" stroke="black" stroke-width="2" />
+  <text x="600" y="360" font-size="18" text-anchor="middle">
+    COGNITIVE RING
+  </text>
+
+  <!-- Architecture Ring -->
+  <circle cx="600" cy="600" r="380" fill="none" stroke="black" stroke-width="2" />
+  <text x="980" y="600" font-size="18" text-anchor="middle">
+    ARCHITECTURE RING
+  </text>
+
+  <!-- Context Ring -->
+  <circle cx="600" cy="600" r="540" fill="none" stroke="black" stroke-width="2" />
+  <text x="600" y="1140" font-size="18" text-anchor="middle">
+    CONTEXT RING
+  </text>
+
+  <!-- Axes -->
+  <line x1="600" y1="80" x2="600" y2="1120" stroke="black" stroke-width="2" />
+  <line x1="80" y1="600" x2="1120" y2="600" stroke="black" stroke-width="2" />
+
+  <!-- Axis Labels -->
+  <text x="600" y="120" font-size="16" text-anchor="middle">EPISTEMIC</text>
+  <text x="600" y="1080" font-size="16" text-anchor="middle">ETHICAL</text>
+  <text x="140" y="600" font-size="16" text-anchor="middle">OPERATIONAL</text>
+  <text x="1060" y="600" font-size="16" text-anchor="middle">COGNITIVE</text>
+
+  <!-- Quadrants -->
+  <text x="820" y="380" font-size="16" text-anchor="middle">SAFE FLOWS</text>
+  <text x="380" y="380" font-size="16" text-anchor="middle">RESEARCH / TEST</text>
+  <text x="380" y="820" font-size="16" text-anchor="middle">RISK / HOLD</text>
+  <text x="820" y="820" font-size="16" text-anchor="middle">RUNTIME / ACTIVE</text>
+
+  <!-- Calibration Marks: Cognitive Ring -->
+  <line x1="820" y1="600" x2="840" y2="600" stroke="black" stroke-width="2" />
+  <text x="860" y="600" font-size="14">DEPTH CEILING</text>
+
+  <line x1="600" y1="380" x2="600" y2="360" stroke="black" stroke-width="2" />
+  <text x="600" y="340" font-size="14" text-anchor="middle">LOAD LIMIT</text>
+
+  <line x1="380" y1="600" x2="360" y2="600" stroke="black" stroke-width="2" />
+  <text x="340" y="600" font-size="14">ESCALATION BOUND</text>
+
+  <line x1="600" y1="820" x2="600" y2="840" stroke="black" stroke-width="2" />
+  <text x="600" y="860" font-size="14" text-anchor="middle">LEGIBILITY FLOOR</text>
+
+  <!-- Minimal Legend -->
+  <text x="120" y="1040" font-size="14">
+    CORE: ETHICS / HUMANE DESIGN
+  </text>
+  <text x="120" y="1060" font-size="14">
+    COGNITIVE RING: FLOWS, CEILINGS, SAFETY
+  </text>
+  <text x="120" y="1080" font-size="14">
+    ARCHITECTURE RING: UMA COMPONENTS
+  </text>
+  <text x="120" y="1100" font-size="14">
+    CONTEXT RING: WORLD, DEVICE, USER
+  </text>
+  <text x="120" y="1120" font-size="14">
+    AXES: ETHICAL, EPISTEMIC, OPERATIONAL, COGNITIVE
+  </text>
+
+</svg>
+
