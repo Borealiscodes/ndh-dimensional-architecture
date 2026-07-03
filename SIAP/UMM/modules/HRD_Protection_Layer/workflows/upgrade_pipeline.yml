@@ -1,0 +1,44 @@
+name: HRD_Protection_Layer_Upgrade_Pipeline
+
+on:
+  siap_audit.complete:
+  manual.trigger:
+
+jobs:
+  prepare-upgrade:
+    runs-on: uma-runner
+    steps:
+      - name: Load SIAP Audit Report
+        run: uma load audit_report
+
+      - name: Generate Upgrade Tasks
+        run: uma generate upgrade_tasks --module HRD_Protection_Layer
+
+  apply-upgrades:
+    needs: prepare-upgrade
+    runs-on: uma-runner
+    steps:
+      - name: Apply CHS-OL Hooks
+        run: uma apply chs_ol_hooks
+
+      - name: Expand Treaty Mapping
+        run: uma expand treaties --sources UN,OAS,ECHR,ICC,CAT,CRPD
+
+      - name: Update Causality Engine
+        run: uma update cacm --mode forensic
+
+      - name: Update Rights Ledger
+        run: uma update rcl --mode global
+
+  finalize:
+    needs: apply-upgrades
+    runs-on: uma-runner
+    steps:
+      - name: Commit Changes
+        run: uma commit module HRD_Protection_Layer
+
+      - name: Update Roots Ledger
+        run: uma update roots --module HRD_Protection_Layer
+
+      - name: Notify Owner
+        run: uma notify Borealis
