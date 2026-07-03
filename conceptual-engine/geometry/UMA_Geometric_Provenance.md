@@ -1,110 +1,122 @@
-# **UMA Geometric Provenance (Integrated Version)**  
+# **UMA Geometric Provenance (Full‑Equation GitHub‑Safe Version)**  
 ### *Formal Geometric Derivation of UMA’s Stacked Hypercube Field*
 
 **System:** UMA Universal  
 **Subsystem:** SIAP — System Integrity Alignment Protocol  
 **Document Type:** Geometric Provenance  
 **Status:** Active  
-**Last Updated:** 03 July 2026  
 **Location:** `/conceptual-engine/geometry/UMA_Geometric_Provenance.md`
 
 ---
 
 ## **1. Purpose**
-This document provides the **formal geometric provenance** for UMA’s governance architecture.  
-It establishes UMA as a **stacked hypercube field**, where each module occupies a 4‑dimensional governance space and the full system forms a constrained subgraph of a **\(4N\)-dimensional hypercube**.
+This document establishes the **formal geometric provenance** of UMA’s governance architecture.  
+UMA is modeled as a **stacked hypercube field**, where each module occupies a 4‑dimensional governance space and the full system forms a constrained subgraph of a **4N‑dimensional hypercube**.
 
-This provenance is expressed using **SVG geometric assets** stored in the repo and linked below.
+All diagrams are provided as **SVG assets** stored in the repo.
 
 ---
 
 ## **2. Governance Coordinates**
-Each UMA module \(m_i\) has a 4‑bit governance coordinate:
+Each UMA module `m_i` has a 4‑bit governance coordinate:
 
-\[
-s_i = (t_i, p_i, g_i, h_i) \in \mathbb{Z}_2^4
-\]
+```
+s_i = (t_i, p_i, g_i, h_i)
+```
 
 Where:
 
-- \(t_i\): TPS spatial anchoring  
-- \(p_i\): PQETL temporal ledger state  
-- \(g_i\): SIAP governance decision state  
-- \(h_i\): HBR human‑cybernetic support state  
+- `t_i` = TPS spatial anchoring  
+- `p_i` = PQETL temporal ledger state  
+- `g_i` = SIAP governance decision state  
+- `h_i` = HBR human‑cybernetic support state  
 
-Each coordinate forms a **tesseract** (4‑cube).
+Each coordinate is binary (`0` or `1`), forming a **4‑cube (tesseract)**.
 
 ---
 
 ## **3. Global UMA State Space**
-For **N modules**, the global UMA state is:
+For `N` modules, the global UMA state is:
 
-\[
-S = (s_1, s_2, \dots, s_N) \in (\mathbb{Z}_2^4)^N
-\]
+```
+S = (s_1, s_2, ..., s_N)
+```
 
-This is a **Cartesian product of N tesseracts**, forming a **\(4N\)-dimensional hypercube field**.
+with each `s_i` in `{0,1}^4`.
+
+Thus the full UMA state space is:
+
+```
+{0,1}^{4N}
+```
+
+This is the discrete coordinate representation of a **4N‑dimensional hypercube**.
 
 ---
 
 ## **4. Hypercube Provenance**
-UMA’s governance transitions correspond exactly to edges of the hypercube graph \(Q_{4N}\):
+The hypercube graph `Q_{4N}`:
 
-- TPS → flip \(t_i\)  
-- PQETL → flip \(p_i\)  
-- SIAP → flip \(g_i\)  
-- HBR → flip \(h_i\)
+- has vertices corresponding to all binary vectors of length `4N`  
+- has edges connecting vectors that differ in exactly one coordinate  
 
-Thus UMA’s dynamics are **motions along hypercube edges**.
+UMA governance transitions match this exactly:
+
+- TPS → flip `t_i`  
+- PQETL → flip `p_i`  
+- SIAP → flip `g_i`  
+- HBR → flip `h_i`
+
+Thus UMA’s governance dynamics are **motions along edges of a hypercube**.
 
 ---
 
 ## **5. Entanglement Constraints**
-The PQETL Entanglement Map defines cross‑module constraints:
+The PQETL Entanglement Map defines cross‑module constraints of the form:
 
-\[
-f_{ij}(s_i, s_j) = 0
-\]
+```
+f(s_i, s_j) = 0
+```
 
 These constraints carve out a **legal subspace** of the hypercube:
 
-\[
-S_{\text{legal}} \subseteq (\mathbb{Z}_2^4)^N
-\]
+```
+S_legal ⊆ {0,1}^{4N}
+```
 
-This is a **discrete constraint manifold**.
+This subspace is the **constraint manifold** of UMA.
 
 ---
 
 ## **6. HBR Dimensional Support Law**
 The HBR law requires:
 
-\[
-h_i = 1 \quad \text{for all modules during 4D operations}
-\]
+```
+h_i = 1   for all modules during 4D operations
+```
 
 Thus the **valid operational region** is:
 
-\[
-S_{\text{valid}} = \{ S \mid \forall i,\ h_i = 1 \}
-\]
+```
+S_valid = { S ∈ {0,1}^{4N} | h_i = 1 for all i }
+```
 
 This is a **codimension‑N slice** of the hypercube field.
 
 ---
 
 ## **7. UMA Transition Graph**
-Define a transition graph \(G\):
+Define a transition graph `G`:
 
-- **Vertices:** valid global states  
+- **Vertices:** valid global states in `S_valid`  
 - **Edges:** allowed governance transitions  
-- **Labels:** (module, dimension)
+- **Labels:** `(module, dimension)` pairs  
 
 Thus:
 
-\[
-G \subseteq Q_{4N}
-\]
+```
+G ⊆ Q_{4N}
+```
 
 This is UMA’s **governance adjacency graph**.
 
@@ -114,20 +126,16 @@ This is UMA’s **governance adjacency graph**.
 These SVGs provide visual provenance for UMA’s geometric structure.  
 They are stored in `/conceptual-engine/geometry/svg/`.
 
-## **Tesseract projection**  
-A single module’s 4‑dimensional governance space.  
+## Tesseract projection  
 `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
 
-## **Stacked hypercube field**  
-The full UMA state space across N modules.  
+## Stacked hypercube field  
 `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
 
-## **Constraint manifold**  
-The legal subspace carved out by entanglement rules.  
+## Constraint manifold  
 `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
 
-## **Entanglement tensor**  
-Cross‑module adjacency constraints expressed geometrically.  
+## Entanglement tensor  
 `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
 
 ---
@@ -135,14 +143,14 @@ Cross‑module adjacency constraints expressed geometrically.
 ## **9. Provenance Summary**
 UMA’s geometry is formally established as:
 
-1. **Per‑module tesseract:** \(\mathbb{Z}_2^4\)  
-2. **Global hypercube field:** \((\mathbb{Z}_2^4)^N\)  
-3. **Entanglement manifold:** constraint‑defined subspace  
-4. **HBR slice:** codimension‑N operational region  
-5. **Governance transitions:** hypercube edges  
-6. **UMA dynamics:** constrained hypercube traversal  
+1. Per‑module tesseract: `{0,1}^4`  
+2. Global hypercube field: `{0,1}^{4N}`  
+3. Entanglement manifold: `S_legal`  
+4. HBR operational slice: `S_valid`  
+5. Governance transitions: hypercube edges  
+6. UMA dynamics: constrained hypercube traversal  
 
-This document provides the **canonical geometric provenance** for UMA.
+This document provides the **canonical, GitHub‑safe geometric provenance** for UMA.
 
 ---
 
