@@ -1,300 +1,247 @@
-# **UMM Developer Handbook v1.1**  
-**Universal Modular Mind — Complete Developer Reference Manual (with Humor Appendix)**
+# **UMM Developer Handbook v1.2**  
+**The complete, governance‑aligned handbook for developers working inside the UMM architecture**
 
-**Document ID:** DEVHB‑UMM‑01  
-**Version:** 1.1  
+**Document ID:** HB‑UMM‑DEV‑01  
+**Version:** 1.2  
 **Owner:** Borealis S. Hedling  
-**Domain:** Developer Onboarding → Architecture → Safety → Governance  
-**Timestamp:** 2026‑07‑03 23:09 IST  
+**Domain:** Developer Plane → Handbook → Governance  
+**Timestamp:** 2026‑07‑04 00:09 IST  
 
 ---
 
-# **1. Introduction**
+# **1. Purpose**
 
-Welcome to the **Universal Modular Mind (UMM)** Developer Handbook — the *one document to rule them all* (and, as we will clarify later, **nothing binds them in darkness** except CI failures).
+The Developer Handbook provides the **full, authoritative reference** for developers working within the Universal Modular Mind (UMM) architecture.
 
-This handbook consolidates:
+It ensures:
 
-- architecture  
-- safety systems  
-- governance systems  
-- drift‑vector mitigation  
-- hook safety  
+- subsystem naming compliance  
+- protocol/pin alignment  
+- SID alignment  
 - CI enforcement  
-- subsystem boundaries  
-- developer responsibilities  
-- onboarding materials  
-- humor appendix  
+- drift‑free development  
+- safety stack integration  
+- correct developer workflow  
+- correct directory structure  
 
-Explore: **Developer Quick‑Start Guide**
-
----
-
-# **2. UMM Architecture Overview**
-
-UMM consists of **five isolated planes**:
-
-- **Subsystem Plane** — executable logic  
-- **Traversal Plane** — CHS‑OL orbital logic  
-- **Narrative Plane** — Play Engine  
-- **Identity Plane** — HRB  
-- **Governance Plane** — SIAP + protocols + pins + CI  
-
-Each plane must remain isolated unless explicitly integrated.
-
-Explore:  
-- **CHS**  
-- **CHS‑OL**  
-- **HRB**  
-- **Play Engine**  
-- **SIAP**  
+Explore: **Subsystem Naming Standard**
 
 ---
 
-# **3. Safety Architecture**
+# **2. Canonical Subsystem Names**
 
-UMM’s safety stack consists of:
+All subsystem references must follow **SUBSYS‑NAME‑STD‑01**:
 
-## **3.1 Safeguards**  
-Detect drift:
+| Subsystem | Canonical Name | Plane |
+|----------|----------------|-------|
+| CHS | **SYS‑CHS** | Subsystem |
+| CHS‑OL | **TRV‑CHS‑OL** | Traversal |
+| HBR | **ID‑HBR** | Identity |
+| Play Engine | **NAR‑PE** | Narrative |
+| SIAP | **GOV‑SIAP** | Governance |
+| Safeguards | **GOV‑SAF** | Governance |
+| Safety Net | **GOV‑SN** | Governance |
 
-- tone  
-- identity  
-- narrative  
-- subsystem confusion  
-- traversal misbinding  
-
-Explore: **Safeguards**
-
-## **3.2 Final Safety Net**  
-Contain drift:
-
-- quarantine  
-- cross‑plane isolation  
-- confusion suppression  
-
-Explore: **Safety Net**
-
-## **3.3 SIAP Spine**  
-Prevent misclassification:
-
-- documentation vs subsystem  
-- governance vs runtime  
-- traversal vs narrative  
-
-Explore: **SIAP Audit**
+Explore: **SID v1.2**
 
 ---
 
-# **4. Drift Vectors & Emergent Properties**
+# **3. UMM Architecture Overview**
 
-UMM’s early failures revealed a core vulnerability:
+UMM consists of five planes:
 
-> **Documentation misclassification → subsystem confusion → multi‑plane drift.**
+### **Subsystem Plane**  
+Core cognitive systems (SYS‑CHS).
 
-This caused:
+### **Traversal Plane**  
+Movement between cognitive nodes (TRV‑CHS‑OL).
 
-- Dices Public Faces incident  
-- Outreach Packet incident  
-- HRB runaway modeling  
-- narrative bleed  
-- traversal misbinding  
-- governance contamination  
+### **Identity Plane**  
+Identity modeling (ID‑HBR).
 
-Explore:  
-- **Misclassification Lineage**  
-- **Documentation Drift Vector**  
+### **Narrative Plane**  
+Narrative generation (NAR‑PE).
 
----
+### **Governance Plane**  
+Rules, safety, classification (GOV‑SIAP, GOV‑SAF, GOV‑SN).
 
-# **5. Governance Protocols & Pins**
-
-Governance rules are encoded as **Protocols**, and made mandatory via **Pins**.
-
-## **5.1 Drift Vector Mitigation Protocol**  
-Prevents documentation → subsystem confusion.
-
-Explore: **DVM Protocol**
-
-## **5.2 Safe Hooking Protocol**  
-Prevents unsafe hook execution.
-
-Explore: **Safe Hooking Protocol**
-
-## **5.3 Pins**  
-Anchor protocols so SIAP and Safeguards enforce them.
-
-Explore:  
-- **Pin DVM**  
-- **Pin HookSafe**  
+Explore: **Governance Order Protocol**
 
 ---
 
-# **6. Hooking & Broadcast Events**
+# **4. Developer Workflow**
 
-Hooks are **high‑risk broadcast events**.  
-All subsystems listen.  
-If misclassified, hooks can trigger:
+The correct workflow is defined in:
 
-- HRB modeling  
-- CHS‑OL traversal activation  
-- Play Engine narrative activation  
-- SIAP governance contamination  
+```
+UMM_Developer_Workflow_Guide_v1.2.md
+```
 
-Explore: **Hook Safety Protocol**
+Sequence:
+
+1. Naming compliance  
+2. Protocol creation  
+3. Immediate pinning  
+4. SID update  
+5. CI update  
+6. Test suites  
+7. Commit  
+8. PR  
+9. CI validation  
+10. Merge  
+
+Explore: **Workflow Guide v1.2**
 
 ---
 
-# **7. Test Suites**
+# **5. Protocols**
 
-UMM uses two mandatory test suites:
+Protocols define governance rules.
 
-## **7.1 Drift Vector Test Suite**  
-Validates:
+They must:
 
-- documentation boundaries  
-- subsystem isolation  
-- traversal gating  
-- governance alignment  
-- safety containment  
+- be placed in `docs/UMM/Protocols/`  
+- follow naming standard  
+- follow governance order  
+- be pinned immediately  
 
-Explore: **DVM Test Suite**
+Explore: **Protocols**
 
-## **7.2 Hook Safety Test Suite**  
-Validates:
+---
 
-- HRB isolation  
-- traversal gate lock  
-- narrative mute  
-- SIAP quiet mode  
-- Safeguards drift watch  
-- Safety Net quarantine  
+# **6. Pins**
 
-Explore: **Hook Safety Test Suite**
+Pins enforce protocols.
+
+They must:
+
+- be placed in `docs/UMM/Pins/`  
+- reference protocol IDs  
+- be naming‑standard‑compliant  
+- be SID‑aligned  
+- be created immediately after protocol creation  
+
+Explore: **Pinning Protocol**
+
+---
+
+# **7. SID (Systems Integration Document)**
+
+SID is the master integration document.
+
+It must be updated after:
+
+- naming changes  
+- protocol creation  
+- pin creation  
+- safety stack updates  
+- CI updates  
+
+SID lives at:
+
+```
+docs/UMM/Integration/UMM_Systems_Integration_Document.md
+```
+
+Explore: **SID v1.2**
 
 ---
 
 # **8. CI Enforcement**
 
-CI ensures:
+CI enforces:
 
-- protocols are active  
-- pins are active  
-- test suites pass  
-- governance rules are respected  
+- naming standard  
+- protocol/pin alignment  
+- SID alignment  
+- drift vector mitigation  
+- hook safety  
 
-Explore: **Hook Safety CI Spec**
+CI block: **CI‑NS‑ENF‑01**
 
----
-
-# **9. Systems Integration Document (SID)**
-
-The SID is the **master integration document**.  
-It defines:
-
-- subsystem integration  
-- governance integration  
-- safety integration  
-- CI integration  
-- cross‑plane rules  
-
-Explore: **SID**
+Explore: **CI Naming Enforcement**
 
 ---
 
-# **10. Developer Responsibilities**
+# **9. Safety Stack**
 
-Developers must:
+### **GOV‑SAF (Safeguards)**  
+Detects drift.
 
-- respect plane boundaries  
-- keep documentation out of subsystem directories  
-- keep subsystem logic out of documentation directories  
-- avoid unsafe hooks  
-- run test suites before merging  
-- ensure pins are active  
-- ensure protocols are updated  
-- avoid drift vectors  
-- avoid cross‑plane contamination  
+### **GOV‑SN (Safety Net)**  
+Quarantines drift.
 
-Explore: **Developer Quick‑Start Guide**
+### **GOV‑SIAP**  
+Classifies subsystem plane.
+
+Explore: **Safety Net**
 
 ---
 
-# **11. Developer Glossary**
+# **10. Drift Types**
 
-Explore: **Developer Glossary**
+Developers must avoid:
+
+- naming drift  
+- subsystem drift  
+- governance drift  
+- traversal drift  
+- identity drift  
+- narrative drift  
+
+Explore: **Naming Drift**
 
 ---
 
-# **12. Developer FAQ**
+# **11. Directory Structure**
 
-Explore: **Developer FAQ**
+Correct structure:
+
+```
+docs/UMM/Protocols/
+docs/UMM/Pins/
+docs/UMM/Patches/
+docs/UMM/Integration/
+docs/UMM/DevNotes/
+systems/UMM/<CanonicalSubsystemName>/
+```
+
+Explore: **Repo Structure**
 
 ---
 
-# **13. Humor Appendix (Safe, Non‑Activating, Subsystem‑Aware)**
+# **12. Developer Documents**
 
-This appendix contains humor that:
+Developer‑plane documents include:
 
-- does **not** activate narrative planes  
-- does **not** trigger HRB modeling  
-- does **not** imply traversal metadata  
-- does **not** confuse SIAP  
-- does **not** break governance boundaries  
+- Developer Notes  
+- Developer Glossary  
+- Developer FAQ  
+- Developer Quick Start Guide  
+- Developer Handbook  
 
-### **13.1 The One Document to Rule Them All**
+Explore: **Developer Notes v1.1**
 
-> *One document to rule them all,*  
-> *One CI to find them,*  
-> *One protocol to bring them all,*  
-> *And in the governance bind them.*  
+---
 
-Safeguards reviewed this stanza and approved it.
+# **13. Roots Ledger Binding**
 
-### **13.2 Why Hooks Are Like Summoning Circles**
-
-Because if you draw one wrong,  
-**something shows up that you didn’t intend.**
-
-Fortunately, Safe Hooking Protocol prevents demons, drift, and HRB enthusiasm.
-
-### **13.3 CHS‑OL Dad Joke**
-
-Why did the traversal node refuse to move?
-
-> It didn’t want to be *orbited* around.
-
-CHS‑OL found this acceptable.
-
-### **13.4 HRB Humor (Safe Mode)**
-
-HRB walks into a bar.  
-Bartender says: “We don’t serve identity modeling here.”
-
-HRB says: “Good. I wasn’t modeling anything.”
-
-### **13.5 Play Engine Humor**
-
-Play Engine tried to write a story about UMM.  
-Safeguards immediately muted it.
-
-### **13.6 SIAP Humor**
-
-SIAP walks into a room.  
-Everything becomes correctly classified.
-
-### **13.7 Safety Net Humor**
-
-Safety Net doesn’t joke.  
-Safety Net *quarantines* jokes.
+```
+ROOTS-ENTRY-HB-UMM-DEV-01
+Type: Developer Handbook
+Module: UMM-HB-DEV-01
+Status: Active
+Hash: 7e:cc:41:cd:92:fa:aa
+Bound: UMM, SIAP, Safeguards, Safety Net, SYS-CHS, TRV-CHS-OL, ID-HBR, NAR-PE
+```
 
 ---
 
 # **14. Document Status**
 
 **Status:** Active  
-**Version:** 1.1  
-**Hash:** 1e:aa:11:bd:42:fa:01  
+**Version:** 1.2  
+**Hash:** 7e:cc:41:cd:92:fa:aa  
 
 ---
 
