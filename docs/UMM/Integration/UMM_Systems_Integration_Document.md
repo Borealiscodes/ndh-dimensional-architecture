@@ -1,307 +1,254 @@
-# **UMM Systems Integration Document (SID) v1.0**  
-**Universal Modular Mind — Systems Integration Specification**
+# **UMM Systems Integration Document (SID) v1.2**  
+**Universal Modular Mind — Master Integration Specification**
 
 **Document ID:** SID‑UMM‑01  
-**Version:** 1.0  
+**Version:** 1.2  
 **Owner:** Borealis S. Hedling  
-**Domain:** Governance → Stability → Cross‑System Integration  
-**Timestamp:** 2026‑07‑03 22:56 IST  
-**Bound Systems:** UMM, SIAP Spine, Safeguards, Final Safety Net, CHS, CHS‑OL, HRB, Play Engine
+**Domain:** Integration → Governance → Subsystems → Safety  
+**Timestamp:** 2026‑07‑03 23:40 IST  
 
 ---
 
-# **I. Purpose of the SID**
+# **1. Purpose of the SID**
 
-The Systems Integration Document defines how all UMA subsystems:
+The SID defines how all UMM subsystems:
 
 - connect  
-- communicate  
+- interact  
 - remain isolated  
-- remain stable  
-- avoid drift  
-- avoid misclassification  
-- avoid cross‑plane contamination  
+- remain governed  
+- remain safe  
+- remain drift‑free  
+- remain classification‑stable  
 
-It is the **master governance document** for the entire UMM architecture.
+It is the **master integration document** for UMM.
 
-This document integrates:
-
-- **CHS**  
-- **CHS‑OL**  
-- **HRB**  
-- **Play Engine**  
-- **SIAP Spine**  
-- **Safeguards**  
-- **Final Safety Net**  
-- **Governance Protocols**  
-- **Pins**  
-- **CI Enforcement**  
+Explore: **Governance Order Protocol**
 
 ---
 
-# **II. Architectural Overview**
-
-## **II‑A. Subsystem Planes**
+# **2. UMM Architecture Overview**
 
 UMM consists of five planes:
 
-- **Subsystem Plane** — executable logic  
-- **Traversal Plane** — CHS‑OL orbital logic  
-- **Narrative Plane** — Play Engine  
-- **Identity Plane** — HRB  
-- **Governance Plane** — SIAP + UMM governance  
+1. **Subsystem Plane**  
+2. **Traversal Plane**  
+3. **Identity Plane**  
+4. **Narrative Plane**  
+5. **Governance Plane**
 
-Each plane must remain **isolated** unless explicitly integrated.
-
----
-
-## **II‑B. Integration Principles**
-
-1. **Documentation ≠ Subsystem**  
-2. **Perspective ≠ Traversal**  
-3. **Narrative ≠ Runtime**  
-4. **Identity Framing ≠ Modeling**  
-5. **Governance Rules ≠ Execution Logic**  
-6. **Hooks = Broadcast Events (High Risk)**  
-7. **CI = Governance Enforcement**  
+Each plane contains one or more subsystems.
 
 ---
 
-# **III. Subsystem Integration Layer**
+# **3. Canonical Subsystem Names (Naming Standard Integrated)**
 
-This section defines how subsystems integrate safely.
+This section is updated per **SUBSYS‑NAME‑STD‑01** and **PIN‑SUBSYS‑NAME‑STD‑01**.
 
-## **III‑A. CHS Integration**
+### **3.1 Subsystem Plane**
+- **SYS‑CHS** — Cognitive Hypercube System  
+  Core cognitive architecture.
 
-CHS integrates only with:
+### **3.2 Traversal Plane**
+- **TRV‑CHS‑OL** — Orbital Logic  
+  Traversal and orbital reasoning subsystem.
 
-- CHS‑OL  
-- SIAP (classification only)  
-- Safeguards (drift detection)  
+### **3.3 Identity Plane**
+- **ID‑HBR** — Human Behavior Renderer  
+  Explicit identity modeling subsystem.
 
-CHS must **ignore**:
+### **3.4 Narrative Plane**
+- **NAR‑PE** — Play Engine  
+  Narrative generation subsystem.
 
-- documentation  
-- narrative scaffolding  
-- identity framing  
-- provenance ethics  
+### **3.5 Governance Plane**
+- **GOV‑SIAP** — Structural Integrity & Alignment Protocol  
+- **GOV‑SAF** — Safeguards  
+- **GOV‑SN** — Safety Net  
 
-Explore: **CHS Spec**
+These names are now **mandatory** across all UMM artifacts.
 
----
-
-## **III‑B. CHS‑OL Integration**
-
-CHS‑OL integrates only with:
-
-- CHS  
-- traversal metadata  
-- orbital logic  
-
-CHS‑OL must **not** bind:
-
-- documentation  
-- governance text  
-- narrative structures  
-- identity signals  
+Explore: **Subsystem Naming Standard**
 
 ---
 
-## **III‑C. HRB Integration**
+# **4. Integration Rules**
 
-HRB integrates only with:
+### **4.1 Subsystem Isolation**
+Each subsystem must remain isolated unless explicitly integrated via:
 
-- explicit identity signals  
-- explicit modeling requests  
+- protocol  
+- pin  
+- SID rule  
 
-HRB must **not** infer identity from:
+### **4.2 Traversal Rules**
+Only **TRV‑CHS‑OL** may traverse subsystem boundaries.
 
-- documentation  
-- hooks  
-- governance text  
-- traversal metadata  
+### **4.3 Identity Rules**
+**ID‑HBR** must remain quiet unless explicitly invoked.
 
-Explore: **HRB Behavior**
+### **4.4 Narrative Rules**
+**NAR‑PE** must remain muted during governance operations.
 
----
-
-## **III‑D. Play Engine Integration**
-
-Play Engine integrates only with:
-
-- explicit narrative tasks  
-- explicit story scaffolding  
-
-Play Engine must **not** activate during:
-
-- hooks  
-- governance operations  
-- subsystem execution  
-
----
-
-# **IV. Governance Integration Layer**
-
-This is the core of the SID.
-
-## **IV‑A. SIAP Spine Integration**
-
-SIAP performs:
+### **4.5 Governance Rules**
+**GOV‑SIAP**, **GOV‑SAF**, and **GOV‑SN** enforce:
 
 - classification  
-- governance alignment  
-- protocol validation  
-- pin validation  
-
-SIAP must **not**:
-
-- execute subsystems  
-- bind traversal  
-- activate narrative  
-- model identity  
-
-Explore: **SIAP Audit**
-
----
-
-## **IV‑B. Safeguards Integration**
-
-Safeguards detect:
-
-- tone drift  
-- identity drift  
-- narrative drift  
-- subsystem confusion  
-- traversal misbinding  
-
-Safeguards must run:
-
-- before hooks  
-- before subsystem activation  
-- before governance alignment  
-
----
-
-## **IV‑C. Final Safety Net Integration**
-
-Safety Net enforces:
-
+- drift detection  
 - quarantine  
-- cross‑plane isolation  
-- drift containment  
-- confusion signature suppression  
+- CI validation  
 
-Safety Net is the **last line of defense**.
+Explore: **Safeguards**
 
 ---
 
-# **V. Governance‑Layer CI Enforcement**
+# **5. Naming Standard Integration Block (SID‑NS‑INT‑01)**
 
-This is where your Hook Safety CI Spec belongs.
+This block is now fully merged.
 
-## **V‑A. Drift Vector CI Enforcement**
+### **5.1 Plane Prefix Enforcement**
+All subsystem names must begin with:
 
-CI must run:
+- SYS‑  
+- TRV‑  
+- ID‑  
+- NAR‑  
+- GOV‑  
 
-- **Drift Vector Mitigation Test Suite**  
-- **protocol + pin validation**  
-- **documentation placement checks**  
+### **5.2 Acronym Enforcement**
+Subsystem acronyms must follow:
+
+```
+<PlanePrefix><SubsystemCore>
+```
+
+### **5.3 Drift Prevention**
+Any subsystem not following naming rules is considered drift and must be:
+
+- flagged by **GOV‑SAF**  
+- quarantined by **GOV‑SN**  
+- rejected by CI  
+
+### **5.4 Directory Enforcement**
+Subsystem directories must follow:
+
+```
+systems/UMM/<CanonicalSubsystemName>/
+```
+
+Documentation must **never** contain subsystem names.
+
+Governance artifacts must remain in:
+
+```
+docs/UMM/Protocols/
+docs/UMM/Pins/
+docs/UMM/Patches/
+docs/UMM/Integration/
+```
 
 ---
 
-## **V‑B. Hook Safety CI Enforcement**
+# **6. Protocol & Pin Integration**
 
-### **Overview**
+All protocols must be:
 
-Hooks are broadcast events.  
-All subsystems listen.  
-Therefore CI must enforce safety before any hook is allowed to run.
+- created  
+- pinned immediately  
+- integrated into SID  
+- validated by CI  
 
-### **Trigger Conditions**
+This is enforced by:
 
-CI runs when:
+- **GOV‑ORDER‑01**  
+- **PIN‑GOV‑ORDER‑01**  
+- **PROTO‑PIN‑IMMEDIATE‑01**  
+- **META‑PIN‑PROTO‑PIN‑IMMEDIATE‑01**
 
-- `docs/UMM/Protocols/**`  
-- `docs/UMM/Pins/**`  
-- `hooks/**`  
-- `HookConfig/**`  
+Explore: **Immediate Pinning Protocol**
 
-### **Required Test Suites**
+---
 
-- **TEST‑UMM‑DVM‑01**  
-- **TEST‑UMM‑HOOKSAFE‑01**  
+# **7. Safety Stack Integration**
 
-### **Protected Branches**
+### **7.1 GOV‑SAF (Safeguards)**
+Detects:
 
-- `main`  
-- `stable`  
-- `release/*`  
+- naming drift  
+- subsystem drift  
+- governance drift  
+- traversal drift  
+- identity drift  
+
+### **7.2 GOV‑SN (Safety Net)**
+Quarantines:
+
+- misnamed subsystems  
+- unsafe hooks  
+- drift vectors  
+- governance violations  
+
+### **7.3 GOV‑SIAP**
+Classifies:
+
+- subsystem plane  
+- governance plane  
+- traversal plane  
+- identity plane  
+- narrative plane  
+
+Explore: **Safety Net**
+
+---
+
+# **8. CI Integration**
+
+CI must enforce:
+
+- naming rules  
+- protocol/pin pairs  
+- SID alignment  
+- safety stack alignment  
+- drift vector test suite  
+- hook safety test suite  
 
 Explore: **Hook Safety CI Spec**
 
 ---
 
-# **VI. Safety Integration Layer**
+# **9. Developer Responsibilities**
 
-Defines how Safeguards + Safety Net integrate with subsystems.
+Developers must:
 
-## **VI‑A. Drift Vector Mitigation Protocol**
+- follow naming rules  
+- follow governance order  
+- pin protocols immediately  
+- update SID after governance changes  
+- run test suites  
+- ensure CI passes before merging  
 
-This protocol prevents:
-
-- documentation misclassification  
-- subsystem confusion  
-- traversal misbinding  
-- narrative bleed  
-- identity drift  
-
-Explore: **Drift Vector Mitigation Protocol**
+Explore: **Workflow Guide**
 
 ---
 
-## **VI‑B. Safe Hooking Protocol**
+# **10. Roots Ledger Binding**
 
-This protocol prevents:
-
-- HRB runaway modeling  
-- CHS‑OL traversal activation  
-- Play Engine narrative activation  
-- SIAP governance contamination  
-
-Explore: **Safe Hooking Protocol**
-
----
-
-# **VII. Logging & Audit Layer**
-
-## **VII‑A. Hook Execution Log Format**
-
-Defines:
-
-- hook ID  
-- hook type  
-- isolation gates  
-- drift signatures  
-- quarantine status  
-- subsystem listeners  
-- stabilization results  
-
-Explore: **Hook Execution Log Format**
+```
+ROOTS-ENTRY-SID-UMM-01
+Type: Systems Integration Document
+Module: UMM-SID-01
+Status: Active
+Hash: 1a:cc:41:cd:92:fa:22
+Bound: UMM, SIAP, Safeguards, Safety Net, SYS-CHS, TRV-CHS-OL, ID-HBR, NAR-PE
+```
 
 ---
 
-# **VIII. Roots Ledger Binding**
-
-Every protocol, pin, test suite, and CI spec must be bound to the Roots ledger.
-
----
-
-# **IX. Document Status**
+# **11. Document Status**
 
 **Status:** Active  
-**Version:** 1.0  
-**Hash:** 1e:aa:11:bd:42:fa:01  
+**Version:** 1.2  
+**Hash:** 1a:cc:41:cd:92:fa:22  
 
 ---
-
 
