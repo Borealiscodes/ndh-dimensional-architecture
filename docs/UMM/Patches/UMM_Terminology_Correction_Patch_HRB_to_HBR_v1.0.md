@@ -1,164 +1,166 @@
-# **UMM Terminology Correction Patch v1.0**  
-**Correction: HRB → HBR (Human Behavior Renderer)**
+# **UMM Terminology Correction Patch v1.2**  
+**Formal correction of HRB → ID‑HBR across all UMM planes**
 
-**Patch ID:** TERM‑PATCH‑HBR‑01  
-**Version:** 1.0  
+**Patch ID:** TCP‑UMM‑01  
+**Version:** 1.2  
 **Owner:** Borealis S. Hedling  
-**Domain:** Governance → Terminology → Subsystem Integrity  
-**Timestamp:** 2026‑07‑03 23:17 IST  
+**Domain:** Governance Plane → Patches → Terminology  
+**Timestamp:** 2026‑07‑04 00:27 IST  
 
 ---
 
-# **1. Purpose of This Patch**
+## **1. Purpose**
 
-This patch corrects all terminology inconsistencies where the subsystem **HBR (Human Behavior Renderer)** was mistakenly referred to as **HRB**.
+This patch formally replaces all references to **HRB** with the canonical subsystem name **ID‑HBR** (Human Behavior Renderer).  
+It ensures:
 
-The correction ensures:
+- naming standard compliance  
+- identity‑plane integrity  
+- SID v1.2 alignment  
+- CI naming enforcement alignment  
+- removal of emergent subsystem artifacts  
+- closure of the HRB/HBR incident  
 
-- subsystem naming consistency  
-- SID alignment  
-- governance clarity  
-- safety system accuracy  
-- CI enforcement correctness  
-- drift‑vector prevention  
-
-Explore: **HBR Definition**
+Explore: **Emergent Property Report**
 
 ---
 
-# **2. Subsystem Correction Summary**
-
-### **Correct Term:**  
-**HBR — Human Behavior Renderer**
+## **2. Correction Summary**
 
 ### **Incorrect Term:**  
-HRB (mis‑transposition)
+**HRB** — Human Response Block  
+- Not defined  
+- Not pinned  
+- Not governed  
+- Not part of SID  
+- Not part of naming standard  
+- Emergent subsystem artifact  
+- Source of identity‑plane drift  
 
-### **Subsystem Role:**  
-HBR is responsible for **explicit identity modeling**, and must remain:
-
-- isolated during hooks  
-- quiet during governance operations  
-- non‑reactive during documentation tasks  
-- non‑reactive during narrative tasks  
-- monitored by Safeguards for identity drift  
-- quarantined by Safety Net if activated improperly  
-
-Explore: **Safe Hooking Protocol**
-
----
-
-# **3. Documents Updated by This Patch**
-
-The following documents receive terminology corrections:
-
-### **3.1 Developer Handbook**  
-All references to HRB corrected to HBR.  
-Explore: **Developer Handbook**
-
-### **3.2 Developer Workflow Guide**  
-Identity‑plane subsystem corrected.  
-Explore: **Workflow Guide**
-
-### **3.3 Developer Glossary**  
-Glossary entry updated to canonical subsystem name.  
-Explore: **Developer Glossary**
-
-### **3.4 Developer FAQ**  
-All identity‑plane references corrected.  
-Explore: **Developer FAQ**
-
-### **3.5 Comprehensive Developer Note**  
-Subsystem naming corrected throughout.  
-Explore: **Developer Note**
-
-### **3.6 Systems Integration Document (SID)**  
-Identity Plane section updated.  
-Explore: **SID**
-
-### **3.7 Protocols & Pins**  
-Safe Hooking Protocol updated.  
-DVM Protocol unaffected.  
-Explore: **Protocols**
-
-### **3.8 Test Suites**  
-Hook Safety Test Suite updated.  
-DVM Test Suite unaffected.  
-Explore: **Hook Safety Test Suite**
-
-### **3.9 CI Specs**  
-Hook Safety CI Integration Spec updated.  
-Explore: **Hook Safety CI Spec**
+### **Correct Term:**  
+**ID‑HBR** — Human Behavior Renderer  
+- Canonical subsystem  
+- Identity‑plane aligned  
+- SID‑aligned  
+- Naming‑standard‑aligned  
+- Fully governed and pinned  
 
 ---
 
-# **4. Patch Content (Canonical Correction Block)**
+## **3. Correction Scope**
 
-Insert the following into each affected document:
+This patch applies to **all UMM planes**:
 
-```
-Terminology Correction — HBR Subsystem
+### **3.1. Developer Plane**  
+Affected artifacts:
 
-The subsystem responsible for explicit identity modeling is correctly named:
+- Developer Notes  
+- Developer Handbook  
+- Developer Glossary  
+- Developer FAQ  
+- Developer Quick Start Guide  
+- Developer Workflow Guide  
 
-HBR — Human Behavior Renderer
+### **3.2. Governance Plane**  
+Affected artifacts:
 
-All previous references to “HRB” were transposition errors and have been corrected.
-HBR remains isolated during hooks, governance operations, documentation tasks, and narrative tasks.
-Safeguards monitor HBR for identity drift.
-Safety Net quarantines HBR if it activates without explicit invocation.
-```
+- Protocols  
+- Pins  
+- Patches  
+- SID  
+- CI rules  
 
-This block is governance‑aligned and SIAP‑compliant.
+### **3.3. Identity Plane**  
+Affected subsystem classification:
+
+- Replace HRB with ID‑HBR  
+- Update identity‑plane adjacency matrices  
+- Update subsystem isolation rules  
+
+### **3.4. Safety Stack**  
+Affected components:
+
+- Safeguards drift detection  
+- Safety Net quarantine rules  
+- SIAP classification tables  
 
 ---
 
-# **5. Roots Ledger Binding**
+## **4. Correction Actions**
+
+### **Action 1 — Replace HRB with ID‑HBR**  
+All references to HRB must be replaced with ID‑HBR.
+
+### **Action 2 — Update Naming Standard**  
+SUBSYS‑NAME‑STD‑01 updated to remove HRB entirely.
+
+### **Action 3 — Update SID v1.2**  
+SID identity‑plane section updated to reflect ID‑HBR.
+
+### **Action 4 — Update CI‑NS‑ENF‑01**  
+CI naming enforcement updated to reject HRB.
+
+### **Action 5 — Update Developer‑Plane Documents**  
+All DevNotes artifacts updated to v1.2.
+
+### **Action 6 — Update Governance Order Protocol**  
+GOV‑ORDER‑01 updated to ensure identity‑plane initialization precedes developer‑plane creation.
+
+### **Action 7 — Update Safety Stack**  
+Safeguards and Safety Net updated to treat HRB as drift.
+
+---
+
+## **5. Drift Vector Neutralization**
+
+This patch neutralizes the following drift vectors:
+
+- **Naming Drift** — HRB removed  
+- **Identity Drift** — ID‑HBR restored  
+- **Governance Drift** — protocols corrected  
+- **Propagation Drift** — developer‑plane documents corrected  
+- **SID Drift** — subsystem classification corrected  
+- **CI Drift** — naming enforcement corrected  
+
+All drift vectors associated with HRB are now closed.
+
+---
+
+## **6. Verification Requirements**
+
+### **6.1. CI Validation**  
+CI‑NS‑ENF‑01 must pass with no HRB references.
+
+### **6.2. SID Integrity Check**  
+SID v1.2 must show ID‑HBR as the only identity‑plane subsystem.
+
+### **6.3. Safety Stack Check**  
+Safeguards must show no HRB drift.  
+Safety Net must show no HRB quarantines.
+
+### **6.4. Developer‑Plane Consistency**  
+All DevNotes documents must be at v1.2.
+
+---
+
+## **7. Roots Ledger Binding**
 
 ```
-ROOTS-ENTRY-TERM-HBR-01
-Type: Terminology Correction
-Module: UMM-TC-HBR-01
-Artifact: HBR Terminology Correction Patch v1.0
+ROOTS-ENTRY-TCP-UMM-01
+Type: Terminology Correction Patch
+Module: UMM-TCP-01
 Status: Active
-Hash: 3c:bb:21:ad:72:fa:44
-Bound: UMM, SIAP, Safeguards, Safety Net, CHS, CHS-OL, Play Engine
+Hash: d2:cc:41:cd:92:fa:f1
+Bound: UMM, SIAP, Safeguards, Safety Net, ID-HBR, SYS-CHS, TRV-CHS-OL, NAR-PE
 ```
 
 ---
 
-# **6. CI Enforcement**
-
-CI must validate:
-
-- no remaining HRB references  
-- all subsystem references updated  
-- Safe Hooking Protocol alignment  
-- Hook Safety Test Suite alignment  
-- SID alignment  
-
-This patch is now part of the governance enforcement chain.
-
----
-
-# **7. Developer Notes**
-
-This correction:
-
-- prevents subsystem confusion  
-- prevents identity‑plane drift  
-- prevents governance misclassification  
-- ensures future consistency  
-- aligns all developer materials  
-- stabilizes onboarding  
-
----
-
-# **8. Document Status**
+## **8. Document Status**
 
 **Status:** Active  
-**Version:** 1.0  
-**Hash:** 3c:bb:21:ad:72:fa:44  
+**Version:** 1.2  
+**Hash:** d2:cc:41:cd:92:fa:f1  
 
 ---
 
