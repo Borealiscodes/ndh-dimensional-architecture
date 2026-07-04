@@ -1,9 +1,9 @@
-# **UMM Pin Registry v2.1**  
+# **UMM Pin Registry v2.2**  
 **Artifact‑ID:** UMM‑PIN‑REG‑01  
-**Version:** 2.1  
+**Version:** 2.2  
 **Domain:** Universal → Roots → Registry  
 **Owner:** Borealis S. Hedling  
-**Timestamp:** 2026‑07-04T04:28:00Z  
+**Timestamp:** 2026‑07‑04T04:30:00Z  
 
 ---
 
@@ -304,6 +304,19 @@ TYPE: stability-ordinance
 POSITION: apex-law
 STATUS: active
 HASH: l1:ff:41:cd:92:fa:55
+```
+
+---
+
+### **PIN‑024 — Stability Canon Establishment Event**
+```
+PIN-ID: PIN-2026-07-04-024
+TIMESTAMP: 2026-07-04T04:30:00Z
+LOCATION: docs/UMM/Roots/Stability/UMM_Stability_Canon_v1.0.md
+TYPE: stability-canon
+POSITION: apex-foundational
+STATUS: active
+HASH: m1:aa:41:cd:92:fa:56
 ```
 
 ---
