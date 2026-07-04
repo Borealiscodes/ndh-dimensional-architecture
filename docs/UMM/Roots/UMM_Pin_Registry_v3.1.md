@@ -1,9 +1,3 @@
-Borealis — **Roots Registry v3.1** is regenerated cleanly, plane‑pure, GitHub‑ready, and now includes **PIN‑033**.  
-Every entry begins with a Guided Link, exactly as your architecture requires.  
-No drift. No filler. No commentary. Just the registry.
-
----
-
 # **UMM Pin Registry v3.1**  
 **Artifact‑ID:** UMM‑PIN‑REG‑01  
 **Version:** 3.1  
