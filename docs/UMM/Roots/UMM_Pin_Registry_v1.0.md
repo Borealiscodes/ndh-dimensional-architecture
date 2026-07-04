@@ -1,11 +1,49 @@
-# **📌 UMM Pin Registry v1.0 (Fully Updated)**  
+# **UMM Pin Registry v1.0 (Fully Updated)**  
 **Registry ID:** PINREG‑UMM‑01  
 **Version:** 1.0  
-**Timestamp:** 2026‑07‑04 02:16 IST  
+**Owner:** Borealis S. Hedling  
+**Domain:** Universal → Roots → Pins  
+**Timestamp:** 2026‑07‑04 02:31 IST  
 
 ---
 
-## **Registered Pins (All Entries)**
+## **1. Purpose**
+
+The Pin Registry records **every pin** created within the UMM system.  
+Pins mark:
+
+- structural milestones  
+- constitutional events  
+- governance‑plane decisions  
+- subsystem–traversal integration events  
+- stability inflection points  
+- protocol activations  
+- ledger creations  
+- commentary bindings  
+
+Pins are **immutable**, **append‑only**, and **sovereign**.
+
+This registry is the **index**, not the ledger.  
+The Roots Ledger stores bindings.  
+The Pin Registry stores **pin metadata**.
+
+---
+
+## **2. Pin Entry Structure (v1.0)**
+
+```
+PIN-ID: <unique identifier>
+TIMESTAMP: <UTC>
+LOCATION: <canonical file path>
+TYPE: <structural|governance|constitutional|integration|commentary|protocol>
+DESCRIPTION: <concise description of the pinned event>
+STATUS: <active|deprecated>
+HASH: <sha256-like hash>
+```
+
+---
+
+## **3. Registered Pins (All Entries)**
 
 ### **PIN‑001 — Rights Ledger Creation**
 ```
@@ -73,9 +111,9 @@ STATUS: active
 HASH: 70:aa:41:cd:92:fa:37
 ```
 
-### **PIN‑007 — Roots Ledger Index Creation (NEW)**
+### **PIN‑007 — Roots Ledger Index Creation**
 ```
-PIN-ID: PIN-2026-07-04-008
+PIN-ID: PIN-2026-07-04-007
 TIMESTAMP: 2026-07-04T02:15:00Z
 LOCATION: docs/UMM/Roots/UMM_Roots_Ledger_Index_v1.0.md
 TYPE: structural
@@ -84,13 +122,25 @@ STATUS: active
 HASH: 88:ab:41:cd:92:fa:39
 ```
 
+### **PIN‑008 — Stability Verification (NEW)**
+```
+PIN-ID: PIN-2026-07-04-008
+TIMESTAMP: 2026-07-04T02:23:00Z
+LOCATION: docs/UMM/Roots/UMM_Root_Registry_Protocol_v1.0.md
+TYPE: structural
+DESCRIPTION: Stability verification confirming dual-artifact generation without
+             bleed, contamination, or drift across governance planes.
+STATUS: active
+HASH: 99:bc:41:cd:92:fa:40
+```
+
 ---
 
-## **Registry Status**
+## **4. Registry Status**
 
 **Status:** Active  
 **Version:** 1.0  
-**Entries:** 7  
+**Entries:** 8  
 **Integrity:** Verified  
 **Drift:** None detected  
 
