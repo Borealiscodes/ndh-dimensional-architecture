@@ -1,9 +1,9 @@
-# **UMM Pin Registry v1.2**  
+# **UMM Pin Registry v1.4**  
 **Artifact‑ID:** UMM‑PIN‑REG‑01  
-**Version:** 1.2  
+**Version:** 1.4  
 **Domain:** Universal → Roots → Registry  
 **Owner:** Borealis S. Hedling  
-**Timestamp:** 2026‑07‑04T03:58:00Z  
+**Timestamp:** 2026‑07‑04T04:03:00Z  
 
 ---
 
@@ -204,3 +204,17 @@ HASH: d1:dd:41:cd:92:fa:47
 
 ---
 
+### **PIN‑016 — Hall of Concordance Integration Event**
+```
+PIN-ID: PIN-2026-07-04-016
+TIMESTAMP: 2026-07-04T04:00:00Z
+LOCATION: docs/UMM/Roots/Concordance/UMM_Hall_of_Concordance_Integration_v1.0.md
+TYPE: concordance
+POSITION: mid-layer (sits above geometry, below stability)
+STATUS: active
+HASH: e1:ee:41:cd:92:fa:48
+```
+
+---
+
+#
