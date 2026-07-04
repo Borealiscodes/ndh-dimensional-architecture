@@ -1,22 +1,20 @@
-# **📘 UMM Roots Ledger v1.0 (Fully Updated)**  
-**The constitutional anchor binding all UMM governance artifacts**
-
+# **UMM Roots Ledger v1.0 (Fully Updated)**  
 **Ledger ID:** ROOTS‑UMM‑01  
 **Version:** 1.0  
 **Owner:** Borealis S. Hedling  
 **Domain:** Universal → Roots → Governance  
-**Timestamp:** 2026‑07‑04 02:16 IST  
+**Timestamp:** 2026‑07‑04 02:32 IST  
 
 ---
 
 ## **1. Purpose**
 
-The Roots Ledger establishes the **sovereign anchor** for the entire UMM governance architecture.  
-It binds all constitutional, triad, integration, and commentary artifacts into a single immutable root.
+The Roots Ledger binds all constitutional, sovereign, integration, and commentary artifacts into the UMM governance root.  
+It is the **authority plane** for governance evolution.
 
 ---
 
-## **2. Ledger Structure**
+## **2. Ledger Entry Schema**
 
 ```
 ENTRY-ID
@@ -39,7 +37,7 @@ HASH
 
 ## **3. Bound Artifacts (All Entries)**
 
-### **Entry 1 — Constitutional Binding**
+### **ENTRY‑001 — Constitution Binding**
 ```
 ENTRY-ID: ROOTS-2026-07-04-001
 TIMESTAMP: 2026-07-04T01:55:12Z
@@ -58,7 +56,7 @@ STATUS: active
 HASH: 01:aa:41:cd:92:fa:31
 ```
 
-### **Entry 2 — Charter Binding**
+### **ENTRY‑002 — Charter Binding**
 ```
 ENTRY-ID: ROOTS-2026-07-04-002
 TIMESTAMP: 2026-07-04T01:55:18Z
@@ -77,7 +75,7 @@ STATUS: active
 HASH: 02:bb:41:cd:92:fa:32
 ```
 
-### **Entry 3 — Sovereign Triad Binding**
+### **ENTRY‑003 — Sovereign Triad Binding**
 ```
 ENTRY-ID: ROOTS-2026-07-04-003
 TIMESTAMP: 2026-07-04T01:55:23Z
@@ -96,7 +94,7 @@ STATUS: active
 HASH: 03:cc:41:cd:92:fa:33
 ```
 
-### **Entry 4 — Integration Codex Binding**
+### **ENTRY‑004 — Integration Codex Binding**
 ```
 ENTRY-ID: ROOTS-2026-07-04-004
 TIMESTAMP: 2026-07-04T01:55:29Z
@@ -115,7 +113,7 @@ STATUS: active
 HASH: 04:dd:41:cd:92:fa:34
 ```
 
-### **Entry 5 — Integration Governance Ledger Binding**
+### **ENTRY‑005 — Integration Governance Ledger Binding**
 ```
 ENTRY-ID: ROOTS-2026-07-04-005
 TIMESTAMP: 2026-07-04T01:55:34Z
@@ -134,7 +132,7 @@ STATUS: active
 HASH: 05:ee:41:cd:92:fa:35
 ```
 
-### **Entry 6 — Commentary Binding**
+### **ENTRY‑006 — Commentary Binding**
 ```
 ENTRY-ID: ROOTS-2026-07-04-006
 TIMESTAMP: 2026-07-04T01:55:39Z
@@ -153,7 +151,7 @@ STATUS: active
 HASH: 06:ff:41:cd:92:fa:36
 ```
 
-### **Entry 7 — Roots Ledger Index Binding (NEW)**
+### **ENTRY‑007 — Roots Ledger Index Binding**
 ```
 ENTRY-ID: ROOTS-2026-07-04-007
 TIMESTAMP: 2026-07-04T02:15:00Z
@@ -184,4 +182,3 @@ HASH: 77:fa:41:cd:92:fa:38
 
 ---
 
-  
