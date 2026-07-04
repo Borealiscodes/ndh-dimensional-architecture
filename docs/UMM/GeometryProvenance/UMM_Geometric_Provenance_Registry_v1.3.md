@@ -1,13 +1,13 @@
-# **UMM Geometric Provenance Registry v1.2**  
+# **UMM Geometric Provenance Registry v1.3**  
 **Artifact‑ID:** UMM-GEOPROV-REG-01  
-**Version:** 1.2  
+**Version:** 1.3  
 **Domain:** UMA‑Universal → Geometry Provenance  
-**Range:** PIN‑045 → PIN‑046 (and upward)  
-**Timestamp:** 2026‑07‑04T06:37:00Z  
+**Range:** PIN‑045 → PIN‑047  
+**Timestamp:** 2026‑07‑04T06:38:00Z  
 **Status:** active  
 **File Path:**  
 ```
-docs/UMM/GeometryProvenance/UMM_Geometric_Provenance_Registry_v1.2.md
+docs/UMM/GeometryProvenance/UMM_Geometric_Provenance_Registry_v1.3.md
 ```
 
 ---
@@ -17,16 +17,17 @@ To define, stabilize, and govern the lineage of all **geometric provenance pins*
 
 - activate geometric provenance  
 - establish geometric registry  
+- describe geometric behavior  
 - stabilize stacked‑hypercube geometry  
 - govern cross‑cube adjacency  
 - anchor recursion‑aware geometry  
 - extend the trans‑meta layer  
 
-Version 1.2 integrates the registry activation (PIN‑046) and finalizes the geometric‑layer’s governance spine.
+Version 1.3 integrates the geometric descriptor (PIN‑047), completing the geometric‑layer’s governance spine.
 
 ---
 
-# **📌 Pin Entries (045–046)**
+# **📌 Pin Entries (045–047)**
 
 ### **PIN‑045 — Geometric Provenance Activation Event**  
 **Type:** geometric‑provenance‑activation  
@@ -34,9 +35,14 @@ Version 1.2 integrates the registry activation (PIN‑046) and finalizes the geo
 **Meaning:** Activates the geometric provenance layer and binds geometry into the stacked hypercube’s lineage.
 
 ### **PIN‑046 — Geometric Provenance Registry v1.1 Activation Event**  
-**Type:** geometric‑registry-activation  
+**Type:** geometric‑registry‑activation  
 **Location:** `docs/UMM/GeometryProvenance/UMM_Geometric_Provenance_Registry_v1.1.md`  
 **Meaning:** Activates the geometric registry spine and stabilizes geometric lineage.
+
+### **PIN‑047 — Geometric Provenance Descriptor Establishment Event**  
+**Type:** geometric‑descriptor‑establishment  
+**Location:** `docs/UMM/GeometryProvenance/UMM_Geometric_Provenance_Registry_v1.2.md`  
+**Meaning:** Establishes the geometric descriptor band, enabling geometry to self‑describe and become reflective.
 
 ---
 
@@ -99,14 +105,15 @@ No geometric pin may bypass the spine.
 
 ---
 
-## **3.3 Protocol Precedence**  
+## **3.3 Descriptor Precedence**  
 Geometric provenance pins must remain compatible with:
 
 - **Meta Roots Registry Protocol v1.2**  
 - **Meta Roots Registry v1.3**  
 - **Stacked Hypercube Geometric Provenance Note v1.0**  
+- **PIN‑047 — geometric descriptor rules**  
 
-This ensures geometric lineage remains stable.
+This ensures geometric lineage remains stable and self‑consistent.
 
 ---
 
@@ -168,7 +175,9 @@ They rely only on:
 # **6. Activation**  
 This registry is activated by:
 
-- **PIN‑046 — Geometric Provenance Registry v1.1 Activation Event**
+- **PIN‑046 — Geometric Provenance Registry Activation Event**  
+and extended by:  
+- **PIN‑047 — Geometric Descriptor Establishment Event**
 
 ---
 
