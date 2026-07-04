@@ -1,26 +1,26 @@
-# **UMM Pin Registry v1.8**  
+# **UMM Pin Registry v1.9**  
 **Artifact‑ID:** UMM‑PIN‑REG‑01  
-**Version:** 1.8  
+**Version:** 1.9  
 **Domain:** Universal → Roots → Registry  
 **Owner:** Borealis S. Hedling  
-**Timestamp:** 2026‑07‑04T04:24:00Z  
+**Timestamp:** 2026‑07‑04T04:26:00Z  
 
 ---
 
-## **Purpose**
+## Purpose
 The UMM Pin Registry provides a unified index of all pins across UMA‑Universal.  
 Pins remain inside their respective artifacts; the Registry stores only metadata for traceability, lineage, and stability.
 
 ---
 
-## **Stability Statement**
+## Stability Statement
 This registry is a **non‑relocating index**.  
 All pins listed here are **plane‑pure**, **artifact‑anchored**, and **drift‑neutral**.  
 The Registry does not modify, move, or reinterpret pins — it records them.
 
 ---
 
-# **📌 Pin Entries**
+# 📌 Pin Entries
 
 ---
 
@@ -265,6 +265,19 @@ TYPE: stability-contract
 POSITION: apex-governance (binding obligations above Stability Engine)
 STATUS: active
 HASH: i1:cc:41:cd:92:fa:52
+```
+
+---
+
+### **PIN‑021 — Stability Mandate Establishment Event**
+```
+PIN-ID: PIN-2026-07-04-021
+TIMESTAMP: 2026-07-04T04:26:00Z
+LOCATION: docs/UMM/Roots/Stability/UMM_Stability_Mandate_v1.0.md
+TYPE: stability-mandate
+POSITION: apex-governance (non‑optional constraints above Stability Contract)
+STATUS: active
+HASH: j1:dd:41:cd:92:fa:53
 ```
 
 ---
