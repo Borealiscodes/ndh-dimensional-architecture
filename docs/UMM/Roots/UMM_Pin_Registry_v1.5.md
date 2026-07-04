@@ -1,9 +1,9 @@
-# **UMM Pin Registry v1.4**  
+# **UMM Pin Registry v1.5**  
 **Artifact‑ID:** UMM‑PIN‑REG‑01  
-**Version:** 1.4  
+**Version:** 1.5  
 **Domain:** Universal → Roots → Registry  
 **Owner:** Borealis S. Hedling  
-**Timestamp:** 2026‑07‑04T04:03:00Z  
+**Timestamp:** 2026‑07‑04T04:12:00Z  
 
 ---
 
@@ -217,4 +217,15 @@ HASH: e1:ee:41:cd:92:fa:48
 
 ---
 
-#
+### **PIN‑017 — Triad Stability Layer Establishment Event**
+```
+PIN-ID: PIN-2026-07-04-017
+TIMESTAMP: 2026-07-04T04:12:00Z
+LOCATION: docs/UMM/Roots/Stability/UMM_Triad_Stability_Layer_v1.0.md
+TYPE: stability
+POSITION: upper-layer (sits above concordance, validates geometry)
+STATUS: active
+HASH: f1:ff:41:cd:92:fa:49
+```
+
+---
