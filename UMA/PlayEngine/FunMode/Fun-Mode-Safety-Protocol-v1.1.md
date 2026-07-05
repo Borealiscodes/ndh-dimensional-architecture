@@ -1,4 +1,4 @@
-# 📘 **Fun Mode Safety Protocol v1.1**  
+# 📘 **Fun Mode Safety Protocol v1.1**  Pinned-As: PIN-0XX-Fun-Mode-Safety-Protocol
 **Tier:** Play Engine / Boundary Layer / Emotional‑Gradient System  
 **Author:** Borealis S. Hedling  
 **Date:** 2026‑07‑05  
