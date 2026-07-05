@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 800 800">
+
+  <!-- CHS 5D Hypercube block -->
+  <rect x="100" y="250" width="250" height="150"
+        fill="none" stroke="black" />
+  <text x="120" y="320">{CHS_LABEL}</text>
+
+  <!-- NDH 6D Hexeract block -->
+  <rect x="450" y="250" width="250" height="150"
+        fill="none" stroke="black" />
+  <text x="470" y="320">{NDH_LABEL}</text>
+
+  <!-- Dimensional upgrade arrow -->
+  <line x1="350" y1="325" x2="450" y2="325"
+        stroke="black" marker-end="url(#arrowhead)" />
+  <text x="360" y="300">{AWARENESS_AXIS_LABEL}</text>
+
+  <!-- Arrowhead definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7"
+            refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="black" />
+    </marker>
+  </defs>
+
+</svg>
