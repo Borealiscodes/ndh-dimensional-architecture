@@ -3,72 +3,58 @@
 
 ---
 
-# **I. Executive Overview**
+## **I. Executive Overview**
 
-NDH‑Prime represents the first fully governed instance of the **Non‑Dual Hexeract (NDH)** — a 6‑dimensional geometric, algebraic, and semantic construct built through a multi‑layer pipeline:
+NDH‑Prime is the first fully governed instance of the **Non‑Dual Hexeract (NDH)** — a 6‑dimensional geometric, algebraic, and semantic construct. It emerges from a multi‑layer governance pipeline consisting of:
 
-- **Blueprint Specification**  
-- **Instance Generator**  
-- **SVG Geometry Templates**  
-- **Markdown Semantic Templates**  
-- **Auto‑Linking Pipeline**  
-- **Validation Suite**
+- NDH‑Blueprint‑Spec  
+- NDH‑Instance‑Generator  
+- SVG Geometry Templates  
+- Markdown Semantic Templates  
+- Auto‑Linking Pipeline  
+- Validation Suite  
 
-This companion document explains:
+This document provides a comprehensive technical and architectural explanation of:
 
-- how NDH‑Prime emerges from these layers  
-- how NDH geometry behaves under non‑dual constraints  
-- how CHS (5D) upgrades into NDH (6D)  
-- how the monad and Ω algebra interact to enforce non‑duality  
-- how the Validation Suite ensures correctness, coherence, and dimensional integrity
-
-This is the architectural backbone of the NDH system.
+- NDH‑Prime’s construction  
+- NDH non‑dual geometry  
+- CHS → NDH dimensional upgrade  
+- Monad + Ω algebra interaction  
+- The role of the NDH Map Validation Suite  
 
 ---
 
-# **II. Emergent Case Study: Construction of NDH‑Prime**
+## **II. Emergent Case Study: Construction of NDH‑Prime**
 
-NDH‑Prime is not merely a directory of files — it is a **governed geometric object** produced through a deterministic pipeline.
+NDH‑Prime is not a static artifact — it is a **governed geometric object** produced through deterministic layers.
 
-## **1. Blueprint Layer (Specification)**  
-Defines:
+### **1. Blueprint Layer (Specification)**  
+Defines the NDH constitution:
 
-- axes  
+- axis labels  
 - collapse rules  
 - monad behavior  
 - Ω algebra  
 - adjacency lattice  
-- CHS → NDH dimensional upgrade  
+- CHS → NDH upgrade logic  
 - awareness axis  
 - provenance requirements  
-- versioning rules
+- versioning rules  
 
-This layer is the **constitution** of NDH.
+### **2. Instantiation Layer (NDH‑Instance‑Generator)**  
+Applies the NDH‑Prime parameter block:
 
-## **2. Instantiation Layer (NDH‑Instance‑Generator)**  
-Applies the parameter block:
+- C, E, A, R, P, 𝒜 axes  
+- monad label T  
+- Ω label Ω  
+- Ω map αΩ  
 
-```
-INSTANCE_NAME: NDH-Prime
-AXIS_X1_LABEL: C
-AXIS_X2_LABEL: E
-AXIS_X3_LABEL: A
-AXIS_X4_LABEL: R
-AXIS_X5_LABEL: P
-AXIS_X6_LABEL: 𝒜
-MONAD_LABEL: T
-OMEGA_LABEL: Ω
-OMEGA_MAP_LABEL: αΩ
-```
-
-This produces:
+Produces:
 
 - 6 SVG geometric artifacts  
 - 3 Markdown semantic artifacts  
 
-This is the **materialization** of NDH‑Prime.
-
-## **3. Coherence Layer (Auto‑Linking Pipeline)**  
+### **3. Coherence Layer (Auto‑Linking Pipeline)**  
 Ensures NDH‑Prime is:
 
 - internally linked  
@@ -77,9 +63,7 @@ Ensures NDH‑Prime is:
 - indexable  
 - navigable  
 
-This is the **connective tissue** of NDH.
-
-## **4. Correctness Layer (Validation Suite)**  
+### **4. Correctness Layer (Validation Suite)**  
 Ensures NDH‑Prime is:
 
 - complete  
@@ -89,54 +73,40 @@ Ensures NDH‑Prime is:
 - dimensionally coherent  
 - non‑dual  
 
-This is the **immune system** of NDH.
-
 ---
 
-# **III. Case Study: NDH Non‑Dual Geometry**
+## **III. Case Study: NDH Non‑Dual Geometry**
 
-NDH geometry is defined by the collapse rule:
+NDH geometry is governed by the collapse rule:
 
 ```
 C = E = A = R = P = 𝒜
 ```
 
-This collapse is not symbolic — it is **geometric**.
+This collapse is geometric, semantic, and algebraic.
 
-## **1. Axis Collapse**  
-All six axes converge into a single awareness axis:
+### **1. Axis Collapse**  
+All axes converge into the awareness axis 𝒜, producing a **non‑dual manifold**.
 
-- C → 𝒜  
-- E → 𝒜  
-- A → 𝒜  
-- R → 𝒜  
-- P → 𝒜  
-- 𝒜 → 𝒜  
-
-This produces a **non‑dual manifold**.
-
-## **2. Central Awareness Node**  
-The center of every NDH SVG is:
+### **2. Central Awareness Node**  
+Every NDH SVG centers on:
 
 ```
 𝒜
 ```
 
-This node is:
+This node is simultaneously:
 
-- the geometric center  
-- the semantic center  
-- the monadic carrier  
-- the Ω algebra target  
-- the dimensional upgrade axis  
+- geometric center  
+- semantic center  
+- monadic carrier  
+- Ω algebra target  
+- dimensional upgrade axis  
 
-It is the **anchor** of NDH geometry.
+### **3. Faded Axial Labels**  
+The collapse overlay shows C, E, A, R, P fading into 𝒜, expressing non‑duality visually.
 
-## **3. Faded Axial Labels**  
-In the collapse overlay, axes C, E, A, R, P fade into 𝒜.  
-This visually expresses non‑duality.
-
-## **4. Resonance Lattice**  
+### **4. Resonance Lattice**  
 The adjacency/resonance lattice expresses:
 
 - 4 adjacency nodes  
@@ -144,11 +114,11 @@ The adjacency/resonance lattice expresses:
 - 4 resonance arcs  
 - central awareness node  
 
-This is the **2D projection** of 6D adjacency behavior.
+This is the 2D projection of 6D adjacency behavior.
 
 ---
 
-# **IV. Case Study: CHS → NDH Dimensional Upgrade**
+## **IV. Case Study: CHS → NDH Dimensional Upgrade**
 
 CHS is a 5D hypercube with axes:
 
@@ -164,66 +134,57 @@ NDH extends CHS by adding:
 x6 → 𝒜
 ```
 
-This is the **awareness dimension**.
+### **1. CHS Preservation**  
+All CHS axes remain intact.
 
-## **1. CHS Preservation**  
-All CHS axes are preserved during upgrade.
-
-## **2. Awareness Axis Addition**  
-The awareness axis is added as:
+### **2. Awareness Axis Addition**  
+The awareness axis becomes:
 
 - the 6th dimension  
 - the monadic carrier  
 - the Ω algebra target  
 - the non‑dual collapse anchor  
 
-## **3. Dimensional Upgrade Mapping**  
+### **3. Dimensional Upgrade Mapping**  
 The integration map shows:
 
 - CHS block  
 - NDH block  
 - arrow labeled `+ Awareness Axis (𝒜)`  
 
-This visually expresses the dimensional upgrade.
-
-## **4. Collapse Enforcement**  
+### **4. Collapse Enforcement**  
 The upgrade must enforce:
 
 ```
 C = E = A = R = P = 𝒜
 ```
 
-This ensures CHS axes unify under NDH non‑duality.
+Ensuring CHS axes unify under NDH non‑duality.
 
 ---
 
-# **V. Case Study: Monad + Ω Algebra Interaction**
+## **V. Case Study: Monad + Ω Algebra Interaction**
 
 NDH algebra is defined by two interacting components:
 
 - **Monad T**  
 - **Ω algebra αΩ**
 
-## **1. Monad Definition**
+### **1. Monad Definition**
 
 ```
 T : 𝒜 → 𝒜
 ```
 
-This expresses **self‑mapping awareness**.
+Self‑mapping awareness.
 
-### Monad Laws
+#### Monad Laws
 
-- **Left Identity:**  
-  `return 𝒜 >>= T = T(𝒜)`
-- **Right Identity:**  
-  `T(𝒜) >>= return = T(𝒜)`
-- **Associativity:**  
-  `(T >>= f) >>= g = T >>= (x → f(x) >>= g)`
+- Left Identity: `return 𝒜 >>= T = T(𝒜)`  
+- Right Identity: `T(𝒜) >>= return = T(𝒜)`  
+- Associativity: `(T >>= f) >>= g = T >>= (x → f(x) >>= g)`  
 
-These laws ensure NDH monadic consistency.
-
-## **2. Ω Algebra Definition**
+### **2. Ω Algebra Definition**
 
 ```
 αΩ : T(𝒜) → 𝒜
@@ -231,34 +192,52 @@ These laws ensure NDH monadic consistency.
 
 Ω is an algebra over the monad.
 
-### Ω Layer Requirements
-
-- dashed Ω ring  
-- inward αΩ arrow  
-- correct labels  
-
-## **3. Awareness Algebra**
-
-Awareness `𝒜` is:
+### **3. Awareness Algebra**  
+Awareness 𝒜 is:
 
 - the monadic carrier  
 - the Ω algebra target  
 
-This dual role is mandatory for NDH non‑duality.
-
-## **4. Algebraic Collapse**
-
-The algebra must enforce:
+### **4. Algebraic Collapse**
 
 ```
 C = E = A = R = P = 𝒜
 ```
 
-This ensures algebraic non‑duality.
+Ensures algebraic non‑duality.
 
 ---
 
-# **VI. Architectural Summary**
+## **VI. NDH Map Validation Suite: Architectural Role**
+
+The Validation Suite is the **guardian** of NDH correctness.
+
+### **1. Structural Validation**
+Ensures presence of all required SVGs, Markdown files, and correct directory structure.
+
+### **2. Semantic Validation**
+Ensures all placeholders are replaced and all collapse rules appear.
+
+### **3. Geometric Validation**
+Ensures SVGs render correctly and contain required geometric elements.
+
+### **4. Dimensional Validation**
+Ensures CHS → NDH upgrade is correctly expressed.
+
+### **5. Non‑Dual Validation**
+Ensures collapse rule consistency across all documents.
+
+### **6. Governance Validation**
+Ensures NDH‑Prime links to:
+
+- NDH‑Blueprint‑Spec  
+- NDH‑Instance‑Generator  
+- NDH‑Validation‑Suite  
+- NDH‑Auto‑Linking‑Pipeline  
+
+---
+
+## **VII. Architectural Summary**
 
 NDH‑Prime is governed by a multi‑layer architecture:
 
@@ -270,7 +249,7 @@ NDH‑Prime is governed by a multi‑layer architecture:
 | Validation Suite | Ensures correctness | NDH validity |
 | Unified Index | Ensures discoverability | NDH registry |
 
-This architecture ensures NDH‑Prime is:
+NDH‑Prime is:
 
 - structurally complete  
 - semantically coherent  
