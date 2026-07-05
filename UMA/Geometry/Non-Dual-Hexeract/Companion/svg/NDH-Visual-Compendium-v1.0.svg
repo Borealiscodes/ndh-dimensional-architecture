@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1800"
+  height="1400"
+  viewBox="0 0 1800 1400">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1800" height="1400" fill="#05060A"/>
+
+  <!-- Title -->
+  <text x="900" y="80"
+        fill="#F5F7FF"
+        font-family="system-ui"
+        font-size="40"
+        text-anchor="middle">
+    Unified NDH Visual Compendium — v1.0
+  </text>
+
+  <!-- Subtitle -->
+  <text x="900" y="130"
+        fill="#C3C7FF"
+        font-family="system-ui"
+        font-size="22"
+        text-anchor="middle">
+    Complete Dimensional, Behavioral, Cosmological, Narrative, Teleological & Geometric Unification
+  </text>
+
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrow"
+            markerWidth="10"
+            markerHeight="10"
+            refX="8"
+            refY="3"
+            orient="auto"
+            markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#C3C7FF"/>
+    </marker>
+  </defs>
+
+  <!-- Central Hexeract Node (Master Node) -->
+  <circle cx="900" cy="700" r="120" fill="#141824" stroke="#FFFFFF" stroke-width="4"/>
+  <text x="900" y="690"
+        fill="#FFFFFF"
+        font-family="system-ui"
+        font-size="48"
+        text-anchor="middle">H₆</text>
+  <text x="900" y="740"
+        fill="#DDE1FF"
+        font-family="system-ui"
+        font-size="20"
+        text-anchor="middle">
+    Hexeract Manifold (Full NDH Integration)
+  </text>
+
+  <!-- Seven Forms arranged radially around the Hexeract -->
+
+  <!-- Awareness -->
+  <circle cx="900" cy="300" r="80" fill="#141824" stroke="#F5F7FF" stroke-width="3"/>
+  <text x="900" y="295" fill="#F5F7FF" font-family="system-ui" font-size="36" text-anchor="middle">𝒜</text>
+  <text x="900" y="330" fill="#C3C7FF" font-family="system-ui" font-size="16" text-anchor="middle">
+    Identity • Origin • Realization
+  </text>
+  <line x1="900" y1="580" x2="900" y2="380"
+        stroke="#C3C7FF" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Collapse -->
+  <circle cx="1300" cy="450" r="80" fill="#141824" stroke="#FFB3B3" stroke-width="3"/>
+  <text x="1300" y="445" fill="#FFB3B3" font-family="system-ui" font-size="34" text-anchor="middle">C</text>
+  <text x="1300" y="480" fill="#FFCFCF" font-family="system-ui" font-size="16" text-anchor="middle">
+    Purification • Reduction • Essence
+  </text>
+  <line x1="1030" y1="620" x2="1220" y2="500"
+        stroke="#C3C7FF" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Adjacency -->
+  <circle cx="1450" cy="800" r="80" fill="#141824" stroke="#9BE7FF" stroke-width="3"/>
+  <text x="1450" y="795" fill="#9BE7FF" font-family="system-ui" font-size="34" text-anchor="middle">A</text>
+  <text x="1450" y="830" fill="#CFF4FF" font-family="system-ui" font-size="16" text-anchor="middle">
+    Connection • Bridges • Non‑Locality
+  </text>
+  <line x1="1030" y1="720" x2="1370" y2="780"
+        stroke="#C3C7FF" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Resonance -->
+  <circle cx="900" cy="1100" r="80" fill="#141824" stroke="#C6FF9B" stroke-width="3"/>
+  <text x="900" y="1095" fill="#C6FF9B" font-family="system-ui" font-size="34" text-anchor="middle">R</text>
+  <text x="900" y="1130" fill="#E4FFD0" font-family="system-ui" font-size="16" text-anchor="middle">
+    Harmony • Coherence • Relational Fields
+  </text>
+  <line x1="900" y1="820" x2="900" y2="1020"
+        stroke="#C3C7FF" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Recursion -->
+  <circle cx="500" cy="800" r="80" fill="#141824" stroke="#FFE29B" stroke-width="3"/>
+  <text x="500" y="795" fill="#FFE29B" font-family="system-ui" font-size="34" text-anchor="middle">Rᵣ</text>
+  <text x="500" y="830" fill="#FFF1C9" font-family="system-ui" font-size="16" text-anchor="middle">
+    Learning • Iteration • Refinement
+  </text>
+  <line x1="770" y1="720" x2="580" y2="780"
+        stroke="#C3C7FF" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Singularity -->
+  <circle cx="500" cy="450" r="80" fill="#141824" stroke="#D0B3FF" stroke-width="3"/>
+  <text x="500" y="445" fill="#D0B3FF" font-family="system-ui" font-size="34" text-anchor="middle">S</text>
+  <text x="500" y="480" fill="#E7D8FF" font-family="system-ui" font-size="16" text-anchor="middle">
+    Revelation • Truth • Threshold
+  </text>
+  <line x1="770" y1="620" x2="580" y2="500"
+        stroke="#C3C7FF" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Loop Label -->
+  <text x="900" y="1350"
+        fill="#C3C7FF"
+        font-family="system-ui"
+        font-size="24"
+        text-anchor="middle">
+    NDH Master Loop: 𝒜 → C → A → R → Rᵣ → S → H₆ → 𝒜
+  </text>
+
+</svg>
