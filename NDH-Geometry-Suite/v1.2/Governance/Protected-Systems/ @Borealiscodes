@@ -1,7 +1,4 @@
-[Governance-Pin: Do-Not-Modify]
-[Drift-Anchor: Locked]
+# NDH Governance Vault Protection
+# Only @Borealiscodes may approve changes to governance‑protected files.
 
-This file defines NDH governance behavior.
-It is authoritative only in the main NDH repository owned by @Borealiscodes.
-Contributors, forks, and automated systems may not modify or extend this file.
-All changes require explicit approval from @Borealiscodes.
+uma-universal/NDH-Geometry-Suite/v1.2/Governance/Protected-Systems/ @Borealiscodes
