@@ -1,87 +1,77 @@
-# **Governance Index v1.0 — Archive Wrapper**  
-### *Superseded Constitutional Artifact • Non‑Executing • Preserved for Governance Traceability*
+# Governance Index
+Version: v1.1
+Supersedes: v1.0
 
-**Archive Path:**  
-`/Archive/Governance/Index-v1.0.md`
+# **Governance Index (v1.0)**  
+### *UMA Governance Layer — Structural Overview*
 
-**Status:**  
-Superseded by **Governance Index v1.1**  
-This file is **archived**, **non‑executing**, and **non‑inheriting**.
+This index lists all governance‑grade artifacts, protocols, and constitutional invariants that define how UMA systems behave, traverse, stabilize, and evolve.
 
----
-
-## **0. Archive Purpose**
-This wrapper preserves the **v1.0 Governance Index** as a historical governance artifact.  
-It ensures:
-
-- constitutional traceability  
-- stability chain continuity  
-- non‑execution of outdated governance rules  
-- safe retention of superseded structures  
-
-The active governance map remains at:
-
-```
-/Governance/Index.md   (v1.1)
-```
+It is intentionally **flat**, **readable**, and **GitHub‑Mobile‑safe**.
 
 ---
 
-## **1. Supersession Notice**
-**Governance Index v1.0** is formally superseded by:
+## **1. Core Governance Artifacts**
+- **Governance Charter**  
+  Defines the foundational rules, roles, and constraints of UMA governance.
 
-- **Governance Index v1.1**  
-  *Active constitutional map containing updated safety organs, isolation protocols, quarantine architecture, and stability chain dependencies.*
+- **Unified Governance Codex**  
+  The consolidated rulebook for traversal, adjacency, lifecycle, and safety.
 
-v1.0 is retained **only** for reference and governance lineage.
-
----
-
-## **2. Execution Status**
-- **Execution:** DISABLED  
-- **Inheritance:** BLOCKED  
-- **Governance Authority:** REVOKED  
-- **Dimensional Influence:** NULL  
-- **Stability Chain Participation:** NONE  
-
-This file cannot influence NDH/UMM behavior.
+- **Governance Plane**  
+  The structural map of governance layers and their interactions.
 
 ---
 
-## **3. Contents**
-This wrapper contains the **full preserved text** of Governance Index v1.0 exactly as it existed prior to supersession.
+## **2. Cognitive Governance**
+- **CHS Traversal Rules**  
+  Single‑bit traversal constraints for cognitive systems.
 
-It is stored here as a **static, non‑executing artifact**.
+- **Koan Enforcement Protocol**  
+  Cognitive collapse mechanism preventing multi‑bit flips.
 
-*(You will paste the v1.0 content below this wrapper block.)*
-
----
-
-## **4. Archive Integrity Rules**
-- Do **not** modify v1.0 content.  
-- Do **not** update version numbers inside the archived file.  
-- Do **not** reference v1.0 from active governance artifacts.  
-- Do **not** allow v1.0 to re‑enter active inheritance chains.  
-
-This wrapper ensures the archive remains stable and non‑contaminating.
+- **Safe Exploration Protocol v1.0**  
+  Path: `/svg/governance/Safe_Exploration_Protocol_v1.0.svg`  
+  Purpose: Mirror‑dimension cognitive safety (reflection ≠ dimension).
 
 ---
 
-## **5. Governance Notes**
-This archive entry:
+## **3. Cosmic Governance**
+- **COS‑Lambda Constraint**  
+  Dual single‑bit cosmic traversal rule preventing cosmic recursion collapse.
 
-- preserves governance lineage  
-- prevents accidental reactivation  
-- maintains constitutional clarity  
-- supports long‑term NDH/UMM stability  
-- aligns with bifurcation and isolation rules  
+- **CHS‑COS Stability Requirements**  
+  Ensures cosmic traversal remains adjacency‑safe.
 
 ---
 
-## **6. File Path**
-```
-/Archive/Governance/Index-v1.0.md
-```
+## **4. Mathematical Governance**
+- **Recursion Collapse Proof v1.0**  
+  Path: `/math/provenance/Recursion_Collapse_Proof_v1.0.md`  
+  Purpose: Constitutional invariant preventing self‑referential collapse.
+
+- **Adjacency Constraint Table**  
+  Defines legal vs illegal transitions across all layers.
+
+---
+
+## **5. SIAP (Structured Inter‑Adjacency Protocol)**
+- **SIAP Header**  
+- **SIAP Requirements**  
+- **SIAP Lifecycle**  
+- **SIAP Examples**  
+- **SIAP Index**  
+
+SIAP enforces adjacency legality across cognitive, cosmic, and meta layers.
+
+---
+
+## **6. Meta Governance**
+- **Meta Index**  
+  The cross‑layer registry of all governance artifacts.
+
+- **Stewardship Alignment**  
+  Ensures governance artifacts remain consistent across layers.
 
 ---
 
