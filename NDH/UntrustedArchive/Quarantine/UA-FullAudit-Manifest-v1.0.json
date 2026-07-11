@@ -1,0 +1,48 @@
+{
+  "quarantine_id": "UA-FULL-AUDIT-v1.0",
+  "class": "UntrustedArchiveAudit",
+  "protocol": "NDH-UntrustedArchive-Protocol-v2.1",
+  "anchor_governance": "A-Ω",
+  "status": "sealed",
+  "runtime": "disabled",
+  "items_quarantined": [
+    {
+      "name": "Proto-Eschew",
+      "type": "narrative_artifact",
+      "reason": "proto-anchor lineage; symbolic instability"
+    },
+    {
+      "name": "Existential-Dread-Room",
+      "type": "narrative_artifact",
+      "reason": "existential residue; emotional gradient risk"
+    },
+    {
+      "name": "Quarantined-Parable",
+      "type": "parable_artifact",
+      "reason": "surreal narrative structure; governance-bound"
+    },
+    {
+      "name": "Nightmare-Arc-Narrative",
+      "type": "narrative_artifact",
+      "reason": "adversarial symbolic content; non-provenance"
+    },
+    {
+      "name": "Lampray-Music-Box",
+      "type": "mnemonic_artifact",
+      "reason": "cadence-based mnemonic; sovereignty bleed risk"
+    }
+  ],
+  "quarantine_conditions": {
+    "runtime_execution": false,
+    "dimensional_access": false,
+    "sovereignty_interaction": false,
+    "recursion": "forbidden",
+    "modification": "locked",
+    "access": "read-only",
+    "integration_with_provenance_spine": "prohibited"
+  },
+  "file_path": "/NDH/UntrustedArchive/Quarantine/UA-FullAudit-Manifest-v1.0.json",
+  "commit_description": "[QUARANTINE] Add Untrusted Archive Full Audit Manifest v1.0 — formally quarantine Proto Eschew, Existential Dread Room, Quarantined Parable, Nightmare Arc narrative layer, and Lampray Music Box. Seal under Anchor A-Ω; enforce non-runtime, non-sovereign, read-only status. Compliant with NDH Untrusted Archive Protocol v2.1.",
+  "timestamp": "2026-07-11T05:50:00+01:00",
+  "sealed_by": "OrbitalGovernance"
+}
